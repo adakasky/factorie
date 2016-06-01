@@ -43,6 +43,7 @@ import cc.factorie.util.JavaHashMap
   final val UNESCAPED_ASTERISK2 = "**"
 
   val htmlSymbolMap = JavaHashMap[String,String]()
+ // htmlSymbolMap ++= List("&lt;" -> "<", "&gt;" -> ">", "&amp;" -> "&", "&copy;" -> "(c)", "&reg;" -> "(r)", "&trade;" -> "(TM)", "&rsquo;" -> "'", "&lsquo;" -> "'", "\t" -> " ") // TODO complete this collection
   htmlSymbolMap ++= List("&lt;" -> "<", "&gt;" -> ">", "&amp;" -> "&", "&copy;" -> "(c)", "&reg;" -> "(r)", "&trade;" -> "(TM)", "&rsquo;" -> "'", "&lsquo;" -> "'") // TODO complete this collection
 
   var tokenizeSgml = false
@@ -102,6 +103,7 @@ import cc.factorie.util.JavaHashMap
 
   /* Uncomment below for useful debugging output */
   def printDebug(tok: String) = {}//println(s"$tok: |${yytext()}|")
+  //def printDebug(tok: String) = {println(s"$tok: |${yytext()}|")}
 
 %}
 
@@ -114,8 +116,17 @@ import cc.factorie.util.JavaHashMap
 
 /* Closing with "%>" doesn't count */
 // we require at least one character inside the tag, otherwise it's REPEATED_PUNC
+SGML_NEWLINE_P = <\/?[Pp]>
+SGML_NEWLINE_BR = <\/?(br|BR)>
+SGML_NEWLINE_DIV = <\/?(div|DIV)>
+SGML_NEWLINE_TD = <\/?(td|TD)>
+SGML_NEWLINE_TITLE = <\/?(title|TITLE)>
+SGML_NEWLINE_HEADLINE = <\/?(headline|HEADLINE)>
+
+
 SGML1 = <\/?[A-Za-z!].*?[^%]>
 SGML2 = <\/?[A-Za-z!]>
+//SGML3 = <[a-zA-Z0-9]+\s[a-zA-Z0-9]+=\"[^\"]+\">
 SGML3 = <[a-zA-Z0-9]+\s[a-zA-Z0-9]+=\"[^\"]+\">
 
 /* TODO make this list complete */
@@ -276,6 +287,14 @@ WHITESPACE = ([\p{Z}\t\f]|&nbsp;)+
 CATCHALL = \P{C}
 
 %%
+
+{SGML_NEWLINE_P} |
+{SGML_NEWLINE_BR} |
+{SGML_NEWLINE_DIV} |
+{SGML_NEWLINE_TD} |
+{SGML_NEWLINE_HEADLINE} |
+{SGML_NEWLINE_TITLE} {printDebug("SGML_P"); tok(".")}
+//{SGML_NEWLINE_TITLE} {printDebug("SGML_P"); tok("!APPEND\n\n",isSgml=true)}
 
 {SGML1} |
 {SGML2} |
