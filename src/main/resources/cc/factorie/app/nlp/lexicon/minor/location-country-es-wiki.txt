@@ -1,0 +1,371 @@
+a
+aberdeen
+acapulco
+acton
+adel
+al
+alba
+ale
+alta gracia
+alto
+amazonas
+america del norte
+andalucia oriental
+antiguedad
+ao
+arabe
+arabia
+ararat
+araucania
+argel
+armada
+ashanti
+asia central
+ast
+ayuntamiento de valencia
+baja austria
+balcanes
+baleares
+bar
+barinas
+bengala
+bengali
+berlin
+bharata
+big island
+billboard
+birmingham, alabama
+black
+blanca
+bo
+bretana
+bridgetown
+british leyland
+bru
+brum
+buenos aires
+buenos aires, argentina
+burma
+ca.
+cana
+canberra
+capital
+carolina, puerto rico
+castilla y leon
+cee
+central
+chili
+christmas
+cienfuegos
+ciudad
+ciudad de guatemala
+ciudad de mexico
+ciudad de panama
+co
+coalicion
+coburgo
+colombo
+columbia
+comayagua
+comunidad
+comunidad autonoma
+comunista
+condado
+condado de nassau
+consejo de ministros
+cook
+cor
+cordoba
+corozal
+corte
+cortes de aragon
+cristiana
+cuerno de africa
+cultura
+cundinamarca
+cyclops
+dali
+david
+delhi
+del norte
+departamento
+di
+din
+dubrovnik
+el pais
+emirates
+emperatriz
+encarnacion
+eno
+er
+espartaco
+espiritu santo
+estado libre asociado
+este
+estrecho de gibraltar
+eubea
+europa
+europa central
+europa occidental
+europe
+europeos
+expansion
+federacion
+federacion de bosnia y herzegovina
+ferrara
+flamenca
+flamenco
+florencia
+flores
+florida state
+franca
+francos
+frank
+franks
+futuna
+galle
+gallego
+galos
+georgetown
+george town
+germania
+gilbert
+gobierno
+gold coast
+guarani
+guayaquil
+guerra
+guerra civil rusa
+guerra de los diez anos
+guntur
+guy
+hannover
+hanoi
+her
+history
+homburg
+home
+huelva
+hyderabad
+iberia
+iberica
+iberico
+iglesia
+imperialismo
+independence
+inner mongolia
+interior
+island
+islas
+itala
+java
+juana
+judia
+juncos
+kiev
+kingston
+kuban
+kuma
+la habana
+lares
+latino
+la union
+lengua
+leon
+li
+liberacion
+liga
+lima
+lima, peru
+local
+lombarda
+lombardia
+lombardo
+londres
+luanda
+lucca
+lucia
+lucknow
+luisiana
+m
+madeira
+madrid
+maguncia
+mal
+malabar
+malaca
+malvinas argentinas
+manchu
+manchuria
+manes
+marines
+mau
+mayaguez, puerto rico
+meridional
+meta
+metropolis
+mexico city
+mexico df
+mg
+milan
+militar
+mon
+monagas
+mongolia interior
+monserrat
+monterrey
+moscu
+mr
+na
+nacionalista
+nagpur
+navidad
+ne
+new holland
+norfolk
+normanda
+normandia
+normando
+norte
+norteamerica
+norteno
+north wales
+nu
+nubia
+nueva guinea
+oceania
+oeste
+om
+one
+ontario
+oporto
+orange
+organizacion
+osasuna
+pa
+palm beach
+palmira
+papa
+papua
+paris
+parlamento europeo
+partido
+patria
+pekin
+pemba
+peninsula
+peninsular
+pensilvania
+poblacion
+pop
+port
+primer
+primera
+provincia de valencia
+provincial
+ptolomeo
+pueblo
+punta del este
+put
+quito
+ra
+radio
+real
+reales
+region
+region metropolitana de santiago
+rehoboth
+reina
+restauracion
+rewari
+rey
+rey de espana
+reyes
+ri
+riaa
+rio grande del sur
+sahara
+sales
+salo
+salvador
+sam
+san cristobal
+sancti spiritus
+san francisco
+san jose
+san juan
+san juan bautista
+san petersburgo
+san salvador
+santa ana
+santa cruz
+santa elena
+santander
+santiago
+santiago de chile
+santo domingo
+sar
+sardo
+segunda
+segunda division
+seleccion de futbol de chile
+senor
+seongnam
+ser
+siena
+simeon
+singles
+so
+soberano
+soldado
+solo
+sonda
+sosnowiec
+south australia
+southern
+sumatra
+sur
+sur de italia
+sydney
+tampa
+target
+team canada
+tercera
+ternate
+terranova y labrador
+texas
+the rock
+tierra santa
+timor
+tobago
+ton
+top
+toronto
+toscano
+transilvania
+trivandrum
+trujillo
+tv
+universidad catolica
+unmik
+uzice
+v
+valera
+valles
+vasco
+vascos
+vecinos
+venado tuerto
+victoria
+viena
+vienna
+vientiane
+vu
+washington
+western
+western australia
+y
+yucatan
+z
+zanzibar
+zion
