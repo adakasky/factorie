@@ -1,0 +1,11 @@
+alumni
+apprentice
+archaeologist
+archeologist
+astrophysicist
+bookkeeper
+mayor
+photojournalist
+senator
+senators
+vice

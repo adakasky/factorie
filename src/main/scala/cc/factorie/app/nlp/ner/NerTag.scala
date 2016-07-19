@@ -141,7 +141,8 @@ trait BIO extends SpanEncoding {
 }
 
 object ConllNerDomain extends EnumDomain {
-  val O, PER, ORG, LOC, MISC = Value
+    //val O, PER, ORG, LOC, MISC = Value
+  val CARDINAL, GPE_STATE_PROVINCE, NORP_POLITICAL, ORGANIZATION, GPE_CITY, DATE, GPE_COUNTRY, NORP_RELIGION, O, PERSON = Value
   freeze()
 }
 class ConllNerTag(token:Token, initialCategory:String) extends NerTag(token, initialCategory) { def domain = ConllNerDomain }
