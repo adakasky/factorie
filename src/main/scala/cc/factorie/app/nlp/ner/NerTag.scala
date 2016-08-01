@@ -140,11 +140,24 @@ trait BIO extends SpanEncoding {
     }
 }
 
-object ConllNerDomain extends EnumDomain {
-    //val O, PER, ORG, LOC, MISC = Value
-  val CARDINAL, GPE_STATE_PROVINCE, NORP_POLITICAL, ORGANIZATION, GPE_CITY, DATE, GPE_COUNTRY, NORP_RELIGION, O, PERSON = Value
-  freeze()
+object ConllNerDomain extends CategoricalDomain[String] {
+    this ++= Vector (
+        "LOC",
+        "GPE:CITY",
+        "GPE:STATE_PROVINCE",
+        "GPE:COUNTRY",
+        "FAC",
+        "CARDINAL",
+        "NORP:POLITICAL",
+        "ORGANIZATION",
+        "DATE",
+        "NORP:RELIGION",
+        "O",
+        "PERSON",
+        "MISC")
+    freeze()
 }
+
 class ConllNerTag(token:Token, initialCategory:String) extends NerTag(token, initialCategory) { def domain = ConllNerDomain }
 class LabeledConllNerTag(token:Token, initialCategory:String) extends ConllNerTag(token, initialCategory) with CategoricalLabeling[String]
 
@@ -163,7 +176,7 @@ object BioConllNerDomain extends CategoricalDomain[String] with BIO {
   def spanList(section:Section): ConllNerSpanBuffer = {
     val boundaries = iobBoundaries(section.tokens.map(_.attr[BioConllNerTag].categoryValue))
     new ConllNerSpanBuffer ++= boundaries.map(b => new ConllNerSpan(section, b._1, b._2, b._3))
-  } 
+  }
 }
 class BioConllNerTag(token:Token, initialCategory:String) extends NerTag(token, initialCategory) with Serializable { def domain = BioConllNerDomain }
 class LabeledBioConllNerTag(token:Token, initialCategory:String) extends BioConllNerTag(token, initialCategory) with CategoricalLabeling[String] with Serializable
@@ -176,7 +189,7 @@ object BilouConllNerDomain extends CategoricalDomain[String] with BILOU {
   def spanList(section:Section): ConllNerSpanBuffer = {
     val boundaries = bilouBoundaries(section.tokens.map(_.attr[BilouConllNerTag].categoryValue))
     new ConllNerSpanBuffer ++= boundaries.map(b => new ConllNerSpan(section, b._1, b._2, b._3))
-  } 
+  }
 }
 class BilouConllNerTag(token:Token, initialCategory:String) extends NerTag(token, initialCategory) with Serializable {
   def domain = BilouConllNerDomain

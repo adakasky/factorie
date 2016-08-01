@@ -5,3 +5,17 @@ Jueves
 Viernes
 Sábado
 Domingo
+Lu
+Ma
+Mi
+Ju
+Vi
+Sa
+Do
+Lu.
+Ma.
+Mi.
+Ju.
+Vi.
+Sa.
+Do.

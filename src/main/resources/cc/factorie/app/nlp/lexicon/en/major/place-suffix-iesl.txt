@@ -27,7 +27,7 @@ Rd
 Rd.
 Squ.
 Sta.
-Ste?.
+Ste.
 Str
 Str.
 Ln.

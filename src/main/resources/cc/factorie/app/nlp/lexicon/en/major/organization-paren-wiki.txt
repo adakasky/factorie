@@ -351,7 +351,7 @@ Socialist Workers Organization
 Federal Security Service
 New Frontier Party
 Radical Party
-Entropia, Inc.
+Entropia
 Democratic Party
 National Party
 9th (Scottish) Division
@@ -1754,7 +1754,7 @@ First Army
 First Army
 Glendale Community College
 Glendale Community College
-Quik Internet (NZ) Ltd
+Quik Internet (NZ)
 Delamain
 Socialist Democracy
 Nova
@@ -3248,7 +3248,7 @@ Democratic Change
 100th (Yeomanry) Regiment Royal Artillery
 Modern School
 104th Regiment Royal Artillery
-Thomas Cook AG
+Thomas Cook
 105th Regiment Royal Artillery
 106th (Yeomanry) Regiment Royal Artillery
 Centre Party
@@ -3682,7 +3682,7 @@ Jackson Academy
 Minister of Government Services
 329th Infantry Regiment
 National Institute of Migration
-University of Canterbury Engineering Society Inc.
+University of Canterbury Engineering Society
 Strippergate
 Worthington Christian High School
 Los Altos High School
@@ -3702,7 +3702,7 @@ Central High School
 Roeper School
 École nationale supérieure de chimie de Montpellier
 St Francis Xavier College
-The Entertainer (Amersham) Ltd.
+The Entertainer (Amersham)
 Emmaus Bible College
 Cottonwood High School
 Skyline High School
@@ -3794,7 +3794,7 @@ Foothill High School
 Minister of Justice and Attorney General
 119th Field Artillery Regiment
 35 (South Midlands) Signal Regiment
-Thomas Hill (Rotherham) Ltd
+Thomas Hill (Rotherham)
 Special Operations Engineer Regiment
 Warehouse
 South Brunswick High School
@@ -4260,7 +4260,7 @@ Department of Primary Industries
 Southern Football League
 Montepio
 Indian Hills High School
-Parallax, Inc.
+Parallax
 Peace Party
 Maldivian
 Forest School
@@ -6444,7 +6444,7 @@ Provincial Emergency Program
 10th Infantry Brigade
 42nd Infantry Brigade
 43rd Infantry Brigade
-Murder Inc.
+Murder
 Socialist Unity Centre of India
 Prince of Wales Public School
 Star Comics
@@ -6988,7 +6988,7 @@ Lowell High School
 Beer Lovers Party
 Star Air
 Ministry of Culture
-A&R Cambridge Ltd
+A&R Cambridge
 Naartjie
 Liberal Party
 University High School
@@ -7115,7 +7115,7 @@ St. Mark's Episcopal School
 NEMS Enterprises
 Northwestern High School
 BAI
-Concordia (Youth Service Volunteers) Ltd
+Concordia (Youth Service Volunteers)
 Rugby League Charity Shield
 NVA
 Hope High School
@@ -9382,7 +9382,7 @@ JONAH
 St. Margaret's School
 Essex High School
 35th Army
-West Marine Ltd.
+West Marine
 King George School
 VIII Corps
 Holy Trinity Catholic Secondary School
@@ -11760,7 +11760,7 @@ School of the Nations
 Nur University
 Island School
 63rd Army
-Amiga, Inc.
+Amiga
 528th Support Battalion
 Communist Party of the Soviet Union
 Manaung Township Association
@@ -12016,7 +12016,7 @@ Carroll County Sheriff's Office
 Northwest Conference
 Robson Hall
 Stella Matutina
-EganaGoldpfeil (Holdings) Ltd.
+EganaGoldpfeil (Holdings)
 T3
 Independence High School
 Excel Academy
@@ -12247,7 +12247,7 @@ Murex
 Lincoln County Middle School
 Colegio San Agustín
 El Dorado High School
-Atari, Inc.
+Atari
 Roosevelt High School
 Riverdale High School
 Prospects
@@ -12274,7 +12274,7 @@ Elgin High School
 Birlinn
 L (Néry) Battery Royal Horse Artillery
 O Battery (The Rocket Troop) Royal Horse Artillery
-Boys, Girls, Adults Community Development Center, Inc.
+Boys, Girls, Adults Community Development Center
 Morrow High School
 Endless
 North High School
@@ -12471,7 +12471,7 @@ Columbia High School
 Southern Air Command
 Army of Italy
 Workers Youth League
-Eastern Bank Ltd
+Eastern Bank
 VADS
 Boden
 Nepal Sukumbasi Party
@@ -12708,7 +12708,7 @@ Nicaraguan Socialist Party
 26th Army
 Jamaica Rural Police Force
 Confederation of Filipino Workers
-Nicholson & Co (Worcester) Ltd
+Nicholson & Co (Worcester)
 Newport School District
 7th Infantry Division
 Haldex
@@ -12829,7 +12829,7 @@ North High School
 Genesee County Sheriff's Office
 18 (UKSF) Signal Regiment
 969th Artillery Battalion
-Phantom Manufacturing (Int'l.) Ltd.
+Phantom Manufacturing (Int'l.)
 American Printing Company
 6th Duke of Connaught's Own Lancers
 Conserve
@@ -13030,7 +13030,7 @@ W-League
 10th (Nelson) Mounted Rifles
 Patrick Henry High School
 5th Mounted Rifles
-Premier Holidays (Canaries) Ltd.
+Premier Holidays (Canaries)
 People's Party
 8th Military Police Brigade
 Command Airways
@@ -13494,7 +13494,7 @@ West Point High School
 Lakeview High School
 Democratic Federation
 Chautauqua County Sheriff's Office
-United States Submarine Veterans Inc.
+United States Submarine Veterans
 Ohio Central Railroad
 Abelia
 Foodland
@@ -14135,7 +14135,7 @@ Temple Christian School
 South Centre
 Elkins High School
 Left Front
-Cyberdyne Inc.
+Cyberdyne
 36th Army Corps
 Central College
 Movement for Socialism
@@ -14392,7 +14392,7 @@ Chinook High School
 Seaside High School
 Grant Union High School
 95th Bombardment Wing
-Valencia Colleges (Bukidnon), Inc.
+Valencia Colleges (Bukidnon)
 2/9th Battalion
 Líneas Aéreas Nacionales S. A.
 Giant Records
@@ -14768,7 +14768,7 @@ Wethersfield High School
 Granville High School
 Abingdon High School
 Lincoln Park Public Schools
-Magic, Inc.
+Magic
 Boiling Springs High School
 55th/53rd Battalion
 Farmington Central High School
@@ -14907,7 +14907,7 @@ Herndon High School
 1st Armoured Regiment
 Oceana High School
 Oak Grove School District 68
-American Precious Metals Exchange, Inc.
+American Precious Metals Exchange
 Proto
 1st Corps
 2nd Battalion, 153rd Infantry Regiment
@@ -14927,7 +14927,7 @@ Hamilton High School
 Old Lincoln High School
 Raspadskaya
 51st (2nd Yorkshire West Riding) Regiment of Foot
-Professional Insurance Agents Association of Ohio, Inc.
+Professional Insurance Agents Association of Ohio
 Estacado High School
 North Smithfield High School
 Labor Party
@@ -15123,7 +15123,7 @@ Celina High School
 Caledonian Airways
 1st Louisiana Regiment Infantry
 Clifton High School
-Internet Miniature Pinscher Services Inc.
+Internet Miniature Pinscher Services
 Creekside Elementary School
 Pirate Party
 73d Bombardment Squadron
@@ -15378,7 +15378,7 @@ Alexander McQueen
 3rd Combat Engineer Regiment
 Saint Francis High School
 Cedar Ridge Middle School
-Sir Edmund Hillary Outdoor Pursuits Centre Inc.
+Sir Edmund Hillary Outdoor Pursuits Centre
 23rd Battalion
 Stillwater High School
 Ministry of Healthcare
@@ -15551,7 +15551,7 @@ Julian High School
 Armored Guard Brigade
 Motorized Guard Brigade
 17th Field Artillery Regiment
-Brown & Bryant, Inc.
+Brown & Bryant
 297th Infantry Division
 General Directorate of Highways
 21st Field Artillery Regiment
@@ -15589,7 +15589,7 @@ Bureau of Censorship
 369th
 Weststar Aviation
 Free People's Party
-(ELEVEN), LLC
+(ELEVEN)
 Hillcrest High School
 No. 9 Squadron
 31st/51st Battalion
@@ -15640,7 +15640,7 @@ Bank of Melbourne
 Hampton High School
 59th Infantry Regiment
 Litchfield High School
-Mary Help of Christians School (Canlubang), Inc.
+Mary Help of Christians School (Canlubang)
 51st Infantry Regiment
 102nd Infantry Regiment
 Springhill High School
@@ -15885,8 +15885,8 @@ Western High School
 Westwood High School
 American Bulldog Association
 126th Field Artillery Regiment
-Wong & Ouyang (HK) Ltd.
-Microsoft India (R & D) Pvt Ltd
+Wong & Ouyang (HK)
+Microsoft India (R & D) Pvt
 People's Progressive Party
 Progressive Labour Party
 65th Air Defense Artillery Regiment

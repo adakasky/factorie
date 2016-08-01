@@ -2,13 +2,13 @@
 1-800 contacts
 1-800-flowers.com
 1st colonial national bank
-1st constitution bancorp
+1st constitution
 1st net technologies
 1st pacific bank of san diego california
 1st source
 1st source capital trust i fixed trust
 1st source capital trust ii floating trust
-1st state bancorp
+1st state
 360networks
 3ci complete compliance
 3com
@@ -42,7 +42,7 @@ accelr8 technology
 accent color sciences
 accenture
 acceptance insurance cos
-access anytime bancorp
+access anytime
 access growth alloc
 accessity
 accessor fds inc balanced allocation fd
@@ -187,7 +187,7 @@ advanced tobacco products
 advanced viral research
 advanced vision systems
 advanced wireless systems
-advance financial bancorp
+advance financial
 advancepcs
 advance tech
 advanta
@@ -260,14 +260,14 @@ alberta star
 alberta star development
 alberto-culver
 albertson 's
-albina community bancorp
+albina community
 alcan
 alcatel
 alcatel canada
 alchemy ventures
 alcide
 alcoa
-alcohol sensors intl. ltd
+alcohol sensors
 alcon
 aldeavision
 aldershot resources
@@ -283,7 +283,7 @@ alexion pharmaceuticals
 alexis resources
 alfa
 alfacell
-algiers bancorp
+algiers
 algo
 algoma central
 algoma steel
@@ -304,10 +304,10 @@ allcity insurance
 alleghany
 allegheny energy
 allegheny technologies
-allegheny valley bancorp
+allegheny valley
 allegiance equity
 allegiance telecom
-allegiant bancorp
+allegiant
 allegiant capital trust ii
 allen organ
 allen telecom
@@ -422,7 +422,7 @@ amanasu energy
 amarc resources
 amarillo biosciences
 amarillo mesquite grill
-amarin corp plc
+amarin
 amar ventures
 amazon com
 ambac financial
@@ -449,7 +449,7 @@ amerada hess
 ameralia
 amerco
 ameren
-ameriana bancorp
+ameriana
 america first apartment investors
 america first real estate investment partners
 america first tax exempt investors l.p.
@@ -583,7 +583,7 @@ american vantage
 american wagering
 american water star
 american water works
-americanwest bancorp
+americanwest
 american wild woodland ginseng
 american woodmark
 america online latin america
@@ -645,7 +645,7 @@ amreit
 amrep
 amr technologies
 ams homecare
-amsouth bancorp
+amsouth
 amsurg
 amtech systems
 amtelecom
@@ -696,7 +696,7 @@ animal cloning sciences
 anitech enterprises
 anixter
 annaly mortgage mangement
-annapolis bancorp
+annapolis
 ann taylor stores
 annuity and life re 
 anooraq resources
@@ -1000,7 +1000,7 @@ badger meter
 badger paper mills
 bairnco
 bakbone software
-baker boyer bancorp
+baker boyer
 baker hughes
 balaton power
 balchem
@@ -1013,7 +1013,7 @@ ballad ventures
 ballantyne of omaha
 ballard power systems
 ballistic recovery system
-ballston spa bancorp
+ballston spa
 bally total fitness holding
 balsam ventures
 baltek
@@ -1046,7 +1046,7 @@ band-ore resources
 banff resources
 bangor hydro-electric
 bank astoria 
-bankatlantic bancorp
+bankatlantic
 bankengine technologies
 bankers store
 bank mckenney 
@@ -1095,7 +1095,7 @@ barcode holdings
 bard ventures
 bar harbor bankshares
 barker minerals
-barnesandnoble.com inc
+barnesandnoble.com
 barnes & noble
 barney ny muni l
 barneys new york
@@ -1130,7 +1130,7 @@ bay national
 bayonne community bank 
 bayou steel
 bay resources
-bay state bancorp
+bay state
 baytex energy
 bay view capital
 bay view capital trust
@@ -1159,7 +1159,7 @@ beaufield consolidated resources
 beaumont select corps
 beau pre explorations
 beazer homes usa
-bebe stores inc
+bebe stores
 becker gold mines
 becker milk
 beckman coulter
@@ -1183,7 +1183,7 @@ bell resources
 bellsouth
 belltech ventures
 bellwether resources
-belmont bancorp
+belmont
 belmont resources
 belo
 belvedere resources
@@ -1207,10 +1207,10 @@ berger smaller companies growth fd
 bergstrom capital
 berkley resources
 berkley wr
-berkshire bancorp
+berkshire
 berkshire capital
 berkshire hathaway
-berkshire hills bancorp
+berkshire hills
 bernard chaus
 berry petroleum
 bert logic
@@ -1228,7 +1228,7 @@ bethlehem
 bethlehem steel
 better resources
 beverly enterprises
-beverly hills ltd
+beverly hills
 beverly national
 bevo agro
 bevsystems
@@ -1273,7 +1273,7 @@ biogen
 bio-imaging technologies
 bioject medical technologies
 bio-key
-biokeys pharmaceuticals inc
+biokeys pharmaceuticals
 biolase technology
 biolife solutions
 biolix
@@ -1340,7 +1340,7 @@ biw
 biznessonline.com
 black bull resources
 black & decker
-blackhawk bancorp
+blackhawk
 black hawk mining
 black pearl minerals consolidated
 blackpool exploration
@@ -1458,7 +1458,7 @@ boston biomedica
 boston communications
 boston development
 boston edison company
-bostonfed bancorp
+bostonfed
 boston life sciences
 boston private financial holdings
 boston properties
@@ -1525,13 +1525,13 @@ brett resources
 briazz
 brick brewing
 bricol capital
-bridge bancorp
+bridge
 bridge bank national association
 bridgepoint
 bridges.com
 bridge street financial
 bridge technology
-bridge view bancorp
+bridge view
 bridgford foods
 brigadier gold
 briggs & stratton
@@ -1579,7 +1579,7 @@ bronze marketing
 brooke
 brookfield homes
 brookfield properties
-brookline bancorp
+brookline
 brooklyn energy
 brooks pri automation
 brooks-pri automation 
@@ -1595,7 +1595,7 @@ bruker axs
 bruker daltonics
 bruneau minerals
 brunswick
-brunswick bancorp
+brunswick
 brush engineered materials
 bryn mawr bank
 b split ii
@@ -1636,7 +1636,7 @@ burst.com
 burzynski research institute
 bush industries
 bushmills enrgy
-business bancorp
+business
 business bank
 business development bank of canada
 business devl d
@@ -1686,7 +1686,7 @@ caldera resources
 cal dive
 caldwell partners
 caledonia mining
-cal fed bancorp
+cal fed
 calgon carbon
 calian technology
 caliber learning network
@@ -1697,8 +1697,8 @@ california beach restaurants
 california coastal communities
 california exploration
 california federal preferred capital
-california first national bancorp
-california independent bancorp
+california first national
+california independent
 california micro devices
 california oaks state bank
 california pizza kitchen
@@ -1726,7 +1726,7 @@ cambex
 cambior
 cambrex
 cambridge antibody tech
-cambridge bancorp
+cambridge
 cambridge energy
 cambridge heart
 cambridge holdings
@@ -1838,7 +1838,7 @@ capital alliance
 capital alliance income trust
 capital associates
 capital automotive reit
-capital bancorp
+capital
 capital bank corp 
 capital bank trust co 
 capital beverage
@@ -1859,7 +1859,7 @@ capital southwest
 capital title
 capital trust
 capita research
-capitol bancorp
+capitol
 capitol communities
 capitol federal financial
 capitol trust
@@ -1932,13 +1932,13 @@ carrier1 international (a
 carrier access
 carrington laboratories
 carrizo oil & gas
-carrollton bancorp
+carrollton
 cars4u.com
 cartier partners financial
 carvelle capitl
-carver bancorp
+carver
 casavant mining kimberlite
-cascade bancorp
+cascade
 cascade natural gas
 cascade savings bank fsb
 cascadia international resources
@@ -1973,12 +1973,12 @@ catalyst semi
 catalytica energy systems
 catapult communications
 catellus development
-cathay bancorp
+cathay
 cato corp the
 catuity
 cavalcade of sports media
 cavalier homes
-cavalry bancorp
+cavalry
 cavell energy
 c&b large cap value ptfl
 c & c industries
@@ -1999,7 +1999,7 @@ cdw computer centers
 ceapro
 ceatech usa
 cec entertainment
-cecil bancorp
+cecil
 ceco environmental
 cecs
 cedara software
@@ -2044,7 +2044,7 @@ centaur mining & explorat
 centene
 centennial communications
 centennial first financial services
-center bancorp
+center
 center financial
 centerpoint energy
 centerpoint properties trust
@@ -2056,10 +2056,10 @@ centex
 centex construction products
 centillium communications
 centiv
-central bancorp
+central
 central bankshares
 central canada foods
-central coast bancorp
+central coast
 central european distribution
 central european media enterprises
 central garden & pet
@@ -2069,8 +2069,8 @@ central natural resources
 central parking
 central securities corp 
 central sierra bank 
-central valley bancorp
-central valley community bancorp
+central valley
+central valley community
 central vermont public service
 central virginia bankshares
 central wireless
@@ -2083,7 +2083,7 @@ centrum industries
 centura resources
 centurion energy
 century aluminum
-century bancorp
+century
 century bancorp capital trust
 century business services
 century casinos
@@ -2106,7 +2106,7 @@ ceres
 ceridian corp 
 ceristar
 cerner
-cerritos valley bancorp
+cerritos valley
 certegy
 certicom
 certified services
@@ -2188,9 +2188,9 @@ chesapeake gold
 chesapeake utilities
 chesbar resources
 cheshire distributors
-chester bancorp
+chester
 chesterfield financial
-chester valley bancorp
+chester valley
 cheung kong hldgs. ltd. (
 chevrontexaco
 chevy chase savings bank fsb
@@ -2308,11 +2308,11 @@ citizens community bank
 citizens financial corp 
 citizens financial services
 citizens first
-citizens first bancorp
+citizens first
 citizens first financial
 citizens holdings
 citizens national
-citizens national bancorp
+citizens national
 citizens & northern
 citizens south banking
 citotech systems
@@ -2329,17 +2329,17 @@ city savings financial
 city telecom 
 cityview
 city xpress
-c n b bancorp
+c n b
 c n b holdings inc ga
 coachmen industries
 coactive marketing
 coal creek energy
-coastal bancorp
+coastal
 coastal banking
 coastal capital trust
 coastal caribbean oils and minerals
 coastal financial
-coast bancorp
+coast
 coastcast
 coast dental services
 coast distribution system 
@@ -2357,7 +2357,7 @@ coca-cola hellenic bottling company sa
 coddle creek financial
 code-alarm
 coded communications
-codorus valley bancorp
+codorus valley
 coeur d'alene mines
 cogeco
 cogeco cable
@@ -2406,7 +2406,7 @@ color imaging
 colorocs information tech
 colt capital
 colt telecom
-columbia bancorp
+columbia
 columbia bancorp 
 columbia banking system
 columbia financial
@@ -2441,18 +2441,18 @@ com guard.com
 commander resources
 command post and transfer
 command security
-comm bancorp
+comm
 commerce bal
-commerce bancorp
+commerce
 commerce bancshares
-commercefirst bancorp
+commercefirst
 commerce one
 commerce rscs
 commercesouth
 commercewest bank na 
 commercial bancshares inc 
 commercial bankshares
-commercial capital bancorp
+commercial capital
 commercial concepts
 commercial cons
 commercial federal
@@ -2482,7 +2482,7 @@ communication intelligence
 communications systems
 communicorp
 communitronics of america
-community bancorp
+community
 community bancorp inc 
 community bancorp of new jersey
 community bank 
@@ -2500,12 +2500,12 @@ community financial
 community first bancorporation
 community first bankshares
 community health systems
-community investors bancorp
+community investors
 community medical trans.
 community national bancorporation 
 community national corp 
 community shores bank
-community trust bancorp
+community trust
 community valley bancorp 
 community west bancshares
 compagnie generale de geophysique
@@ -2668,7 +2668,7 @@ constellation copper
 constellation energy group inc 
 consulier engineering
 consumer direct of america
-consumers bancorp
+consumers
 consumers financial
 consumr packag
 consygen
@@ -2741,7 +2741,7 @@ corio
 corixa
 cornell companies
 corner bay silver
-cornerstone bancorp
+cornerstone
 cornerstone capital resources
 cornerstone internet sol.
 cornerstone propane partn
@@ -2773,7 +2773,7 @@ cortech
 cortelco systems puerto rico
 cortex pharmaceuticals
 cortex systems
-cortland bancorp
+cortland
 corts trust countrywide capital
 corts trust disney
 corts trust first union institutional cap
@@ -2796,7 +2796,7 @@ corts trust verizon global
 corts trust wr berkley capital
 corus bankshares
 corus entertainment
-corus group plc
+corus group
 corvas
 corvel
 corvis
@@ -2842,7 +2842,7 @@ cragar industries
 crawford &
 cray
 crayfish
-crazy woman creek bancorp
+crazy woman creek
 c.r. bard
 cream minerals
 creation ventures
@@ -2996,7 +2996,7 @@ dayton power & light
 d box technologies
 dealcheck.com
 dean foods
-dearborn bancorp
+dearborn
 deb shops
 decisionlink
 deckers outdoor
@@ -3019,7 +3019,7 @@ del global technologies
 delia*s
 del laboratories
 dell computer
-delmar bancorp
+delmar
 delmarva power & light
 del monte foods
 deloro minerals
@@ -3052,7 +3052,7 @@ denbury resources
 dendreon
 dendrite
 denison energy
-denison international plc
+denison international
 denninghouse
 denny 's
 dental resources
@@ -3104,7 +3104,7 @@ diageo
 diagnocure
 diagnos
 diagnostic products
-dialog semiconductor plc
+dialog semiconductor
 dial-thru
 dialysis corporation of america
 diamcor mining
@@ -3166,7 +3166,7 @@ digitas
 digitec 2000
 dillard 's
 dillard 's capital trust
-dime bancorp
+dime
 dimeco
 dime community bancshares
 dimensional visions
@@ -3242,7 +3242,7 @@ dr reddy laboratories
 drs technologies
 drucker
 drugmax
-drugstore.com inc
+drugstore.com
 drummond financial
 dryclean usa
 e3 energy
@@ -3278,11 +3278,11 @@ eastgroup properties
 eastmain resources
 eastman chemical
 eastman kodak
-easton bancorp
+easton
 easton minerals
 east penn bank pa
 east texas financial services
-east west bancorp
+east west
 east west resource
 eastwind
 easylink services
@@ -3365,7 +3365,7 @@ elite technologies
 elizabeth arden
 elk point rsc
 ellesmere minerals
-elmer bancorp
+elmer
 elmer 's restaurants
 elmira savings bank
 el nino ventures
@@ -3382,13 +3382,13 @@ eltek
 elution technologies
 elva
 elxsi
-e*machinery.net inc.
+e*machinery.net
 e-manufacturing networks
 enamelon
 enbc
-enblast productions inc
+enblast productions
 enbridge
-enbridge energy management llc
+enbridge energy management
 enbridge energy partners
 encana
 enchira biotech
@@ -3482,7 +3482,7 @@ enterprise products partners
 enterprise technologies
 enterra energy
 entertainment boulevard
-entertainment cruises int
+entertainment cruises
 entertainment internet inc 
 entertainment properties trust
 entertainment royalties
@@ -3536,7 +3536,7 @@ e.spire communications
 e-synergies
 e.t.
 e trade group inc 
-evans bancorp
+evans
 evans & sutherland computer
 evans systems
 evci career colleges incorporated
@@ -3583,7 +3583,7 @@ exchange national bancshares
 exchequer resource
 exco resources
 exco technologies
-executive inn
+executive
 exegenics
 exelixis
 exelon
@@ -3627,7 +3627,7 @@ fab industries
 factory 2-u stores
 factory card outlet
 factory card outlet & party
-factory point bancorp
+factory point
 factset research systems
 factual data
 fahnestock viner holdings
@@ -3647,7 +3647,7 @@ falcon products
 falconstor software
 falcon ventures
 fall river resources
-falmouth bancorp
+falmouth
 family dollar stores
 family golf centers
 family room entertainment
@@ -3655,7 +3655,7 @@ family steak houses of florida
 famous dave 's of america
 famous fixins inc 
 fancamp exploration
-f and m bancorp
+f and m
 fan energy
 fannie mae
 fansteel
@@ -3671,9 +3671,9 @@ farmers bancorp
 farmers capital bank
 farmers & merchants bancorp 
 farmers & merchants bank 
-farmers national bancorp
+farmers national
 farmstead telephone
-farnsworth bancorp
+farnsworth
 faro technologies
 farrel
 far west industries
@@ -3730,12 +3730,12 @@ fidelity bancorp inc
 fidelity bankshares
 fidelity capital trust
 fidelity contrafund
-fidelity d&d bancorp
+fidelity d&d
 fidelity devonshire tr structured large cap growth fd
 fidelity devonshire tr structured large cap value fd
 fidelity devonshire tr structured mid cap growth fd
 fidelity devonshire tr structured mid cap value fd
-fidelity federal bancorp
+fidelity federal
 fidelity floating rate high income
 fidelity hastings street trust contrafund ii
 fidelity international small cap
@@ -3748,7 +3748,7 @@ fidelity select home finance ptfl
 fidelity southern
 fieldpoint petroleum
 fifth era knowledge
-fifth third bancorp
+fifth third
 fifty-plus.net
 fila holdings spa
 filene 's basement
@@ -3800,7 +3800,7 @@ firstbank corp
 first bankers trustshares
 firstbank nw corp 
 first banks
-first bell bancorp
+first bell
 firstbingo.com
 first busey
 first busey capital trust
@@ -3843,19 +3843,19 @@ first data
 first deltavision
 first echelon ventures
 firstenergy
-first essex bancorp
-firstfed american bancorp
+first essex
+firstfed american
 firstfed bancorp inc alabama
-first federal bancorp
+first federal
 first federal bancshares inc 
 first federal bankshares
 first federal capital
-first federal financial bancorp
+first federal financial
 first federal financial corp kentucky
-first federal of olathe bancorp
+first federal of olathe
 first federal savings and loan ohio
 firstfed financial
-first financial bancorp
+first financial
 first financial bancorp lodi 
 first financial bankshares
 first financial corp 
@@ -3882,14 +3882,14 @@ firstland energy
 first litchfield financial
 first look media
 first majestic resource
-first mariner bancorp
+first mariner
 firstmark
 first merchants
 first merchants capital trust
 firstmerit
 first m&f
 first mid illinois bancshares
-first midwest bancorp
+first midwest
 first midwest financial
 first montauk financial
 first morris bank 
@@ -3910,13 +3910,13 @@ first national entertain.
 first national lincoln
 first niagara financial
 first niles financial
-first northern community bancorp
+first northern community
 first oak brook bancshares
-first & ocean bancorp
+first & ocean
 first of long island
 first pacific company
 first pacific networks
-first pactrust bancorp
+first pactrust
 first place financial corp ohio
 firstplus financial
 first point minerals
@@ -3925,18 +3925,18 @@ first preferred capital trust iii
 first quantum minerals
 firstquote
 first real estate investment trust 
-first regional bancorp
+first regional
 first republicbank
 first republic bank
 first republic corp of america
 first robinson financial
-first security bancorp
+first security
 first securityfed financial
-first sentinel bancorp
+first sentinel
 firstservice
-first shares bancorp
+first shares
 first silver reserve
-first south bancorp
+first south
 first south bancorp inc 
 first southern bancshares
 first star inno
@@ -3956,7 +3956,7 @@ first virtual communications
 first washington financial crop
 firstwave technologies
 firstweb internet solutions
-first west virginia bancorp
+first west virginia
 first yellowhead equities
 fischer imaging
 fischer-watt gold
@@ -3981,7 +3981,7 @@ fonecash
 fonix
 foodarama supermarkets
 food technology services
-foothill independent bancorp
+foothill independent
 foot locker
 footmaxx holdings
 footsource
@@ -4042,10 +4042,10 @@ fox entertainment
 fragrancenet.com
 framewaves
 france telecom
-franchise bancorp
+franchise
 franc-or resources
-frankfort first bancorp
-franklin bancorp
+frankfort first
+franklin
 franklin capital
 franklin covey
 franklin credit management
@@ -4255,7 +4255,7 @@ genta
 gentek
 genterra investment
 gentex
-gentia software plc
+gentia software
 gentiva health services
 gentry resources
 genuine parts
@@ -4290,7 +4290,7 @@ gerald stevens
 gerber scientific
 gerdau ameristeel
 gerdau sa
-german american bancorp
+german american
 geron
 getgo
 getty copper
@@ -4301,7 +4301,7 @@ gexa
 g.i.e. environment technology
 g-iii apparel
 g&k services
-glacier bancorp
+glacier
 glacier capital
 glacier ventures
 glacier water services
@@ -4311,14 +4311,14 @@ glas aire industries
 glassmaster
 glatfelter
 glaxosmithkline
-glb bancorp
+glb
 gldmn ntwrk ishr
 gldmn semi ishr
 gldmn sftwr ishr
 glenayre technologies
 glenborough realty trust
 glenbriar technologies
-glen burnie bancorp
+glen burnie
 glencairn gold
 glendale
 gl energy & exploration
@@ -4390,7 +4390,7 @@ global tree technologies
 global water technologies
 global web
 globalwise investments
-globe bancorp
+globe
 globecomm systems
 globel direct
 globemin resources
@@ -4485,12 +4485,12 @@ gosun communications
 gotham capital
 gottschalks
 gourmet herb growers
-gouverneur bancorp
+gouverneur
 government income securities
 gowest amalgamated resources
 graco
 gradco systems
-graftech international ltd
+graftech international
 graham-field health prod.
 grainger ww
 grand adventures tour
@@ -4529,10 +4529,10 @@ great basin gold
 great canadian gaming
 greater atlantic capital trust
 greater atlantic financial
-greater bay bancorp
+greater bay
 greater community bancorp 
 greater delaware valley savings bank
-greater sacramento bancorp
+greater sacramento
 great lakes aviation
 great lakes chemical
 great lakes nickel
@@ -4541,10 +4541,10 @@ great northern exploration
 great northern iron ore properties
 great pacific
 great panther
-great pee dee bancorp
+great pee dee
 great plains energy
 great quest metals
-great southern bancorp
+great southern
 great southern enterprises
 great western minerals
 great-west life & annuity insurance capital
@@ -4552,7 +4552,7 @@ great-west lifeco
 greenbriar
 greenbrier companies
 green dolphin systems
-greene county bancorp
+greene county
 greene county bancshares
 green fusion
 greenhold
@@ -4619,7 +4619,7 @@ g. willi-food
 h20 entertainment
 h20 innovation 
 habanero resources
-habersham bancorp
+habersham
 hacienda national bank 
 haemacure
 haemonetics
@@ -4637,7 +4637,7 @@ hallwood
 hallwood realty partners
 ha-lo industries
 halsey drug
-hamilton bancorp
+hamilton
 hamlin bank smeth
 hammond manufacturing
 hammond power solutions
@@ -4689,7 +4689,7 @@ harris
 harris & harris
 harris interactive
 harris steel
-harrodsburg first financial bancorp
+harrodsburg first financial
 harsco
 hartco
 hartcourt companies
@@ -4764,7 +4764,7 @@ healthwatch
 healthy planet products
 hearme
 hearst-argyle television
-heartland bancorp
+heartland
 heartland bancshares inc 
 heartland express
 heartland financial usa
@@ -4819,7 +4819,7 @@ heritage commerce
 heritage companies
 heritage exploration
 heritage financial corp va
-heritage oaks bancorp
+heritage oaks
 heritage oil
 heritage propane partners
 heritage property investment trust
@@ -4842,7 +4842,7 @@ hickok electrical instrument
 hickory tech
 hienergy technologies
 high american gold
-high country bancorp
+high country
 high country financial
 high desert mineral resources
 high income principal and yield securities
@@ -4899,15 +4899,15 @@ hom
 homasote
 homburg invest
 homebank technologies
-home building bancorp
+home building
 home capital
 home city financial
 homecom communications
 home depot
 home director
 homefed
-home federal bancorp
-home financial bancorp
+home federal
+home financial
 homegold financial
 homeland holding
 homelife
@@ -4921,13 +4921,13 @@ homeseekers.com
 home services
 home solutions of america
 homestake canada
-homestead bancorp
+homestead
 homestore
 home ticket network
 hometown auto retailers
-home valley bancorp
+home valley
 homezipr
-honat bancorp
+honat
 honda motor
 honeybee technology
 honeywell
@@ -4938,7 +4938,7 @@ hoodoo hydrocarbons
 hooker furniture
 hooper holmes
 hoover 's
-hopfed bancorp
+hopfed
 horace mann educators
 horizon bancorp indiana
 horizon bank & trust
@@ -4982,14 +4982,14 @@ huaneng power
 huayang international holdings
 hubbard dyers
 hubbell
-hudson city bancorp
+hudson city
 hudson grill
 hudson hotels
 hudson resources
-hudson river bancorp
+hudson river
 hudson 's bay
 hudson technology
-hudson united bancorp
+hudson united
 hudson valley holding corp 
 huffy
 hughes electronics
@@ -5002,7 +5002,7 @@ human biosystems
 human genome sciences
 human pheromone sciences
 humatech
-humboldt bancorp
+humboldt
 humboldt capital
 humphrey hospitality trust
 humpty dumpty snack foods
@@ -5135,7 +5135,7 @@ independent growth finders
 indevus pharmaceuticals
 index development partners
 indiana michigan power
-indian village bancorp
+indian village
 indico technologies
 indiginet
 indigo books & music
@@ -5153,7 +5153,7 @@ industrial services of america
 industrias bachoco sa de cv
 industries lassonde
 industriforvaltnings ab kinnevik
-indymac bancorp
+indymac
 inergy l p
 inetevents
 inet technologies
@@ -5361,7 +5361,7 @@ intermedia capital
 intermedia marketing solutions
 intermet
 intermost
-intermountain community bancorp
+intermountain community
 intermune
 internacional briquettes holding
 internacional de ceramica sa
@@ -5536,7 +5536,7 @@ intuit
 intuitive surgical
 invacare
 invader exploration
-invensys plc
+invensys
 inventronics
 inveresk research
 inverness medical innovations
@@ -5591,7 +5591,7 @@ jackal energy
 jack henry & associates
 jack in the box
 jackson rivers co the
-jacksonville bancorp
+jacksonville
 jacksonville bancorp inc 
 jacksonville bancorp inc il
 jaclyn
@@ -5605,7 +5605,7 @@ jakks pacific
 j alexander 's
 james barclay alan
 james hardie industries nv
-james monroe bancorp
+james monroe
 jameson inns
 janel world trade
 janex
@@ -5672,7 +5672,7 @@ kensington energy
 kensington reosurces
 kent financial services
 kentucky electric steel
-kentucky first bancorp
+kentucky first
 kentucky investors
 kentucky power
 keravision
@@ -5718,7 +5718,7 @@ laidlaw
 laidlaw global
 l.air holding
 la jolla pharmaceutical
-lakeland bancorp
+lakeland
 lakeland capital trust
 lakeland financial
 lakeland industries
@@ -5746,7 +5746,7 @@ landamerica financial
 landauer
 landec
 landis mining
-landmark bancorp
+landmark
 landmark capital
 landmark global financial
 landmark national bank 
@@ -5881,7 +5881,7 @@ leitrim
 lendingtree
 lennar
 lennox
-lenox bancorp
+lenox
 leon 's furniture
 leopard capital
 lernout & hauspie n.v.
@@ -5913,7 +5913,7 @@ liberate technologies
 liberte investors
 liberty acorn trust
 liberty acorn trust foreign forty
-liberty bancorp
+liberty
 liberty homes
 liberty media
 liberty mineral exploration
@@ -5959,7 +5959,7 @@ linamar
 lincare holdings
 linc capital
 lincoln
-lincoln bancorp
+lincoln
 lincoln electric holdings
 lincoln logs
 lincoln national
@@ -6087,7 +6087,7 @@ madison energy
 madison enterprises
 madison pacific properties
 madrona mining
-maf bancorp
+maf
 magal security systems
 magellan aerospace
 magellan health service
@@ -6253,7 +6253,7 @@ matlack systems
 matria healthcare
 matrikon
 matritech
-matrix bancorp
+matrix
 matrix bancorp capital trust
 matrix energy services
 matrixone
@@ -6519,8 +6519,8 @@ mexco energy
 mexican restaurants
 mfa mortgage investments
 mfb
-m & f bancorp
-mfc bancorp
+m & f
+mfc
 mfc development
 m fd inc brandes intl equity fd
 mfic
@@ -6539,8 +6539,8 @@ miad systems
 michael anthony jewelers
 michael baker
 michaels stores
-michigan community bancorp
-michigan heritage bancorp
+michigan community
+michigan heritage
 micrel semiconductor
 micrex development
 microage
@@ -6590,15 +6590,15 @@ mid-atlantic realty trust
 midcarolina financial
 middleburg financial
 middleby
-middlefield bancorp
+middlefield
 middlesex water
 middleton doll company 
 midland capital holdings
 midnight oil and gas
 mid-north resources
-mid penn bancorp
+mid penn
 mid-power service
-midsouth bancorp
+midsouth
 mid southern savings bank
 mid-state bancshares
 mid valley bank 
@@ -6654,7 +6654,7 @@ mim
 minacs worldwide
 minco mining & metals
 mind cti
-minden bancorp
+minden
 mindoro resources
 mindready solutions
 mindset interactive
@@ -6689,7 +6689,7 @@ mi schottenstein homes
 mishibishu gold
 misonix
 mission bancorp 
-mission community bancorp
+mission community
 mission oaks national bank na
 mission resources
 mission west properties
@@ -6739,7 +6739,7 @@ momentum holdings
 monaco coach
 monarch casino & resort
 monarch cement
-monarch community bancorp
+monarch community
 monarch dental
 monarch services
 moncoa
@@ -6747,11 +6747,11 @@ mondev senior living
 moneta porcupine mines
 moneyflow systems
 monmouth capital
-monmouth community bancorp
+monmouth community
 monmouth real estate investment
 monolithic system technology
 monongahela power
-monroe bancorp
+monroe
 monroe minerals
 monroe title insurance
 monro muffler brake
@@ -6759,7 +6759,7 @@ monsanto
 monsterdaata
 montana mills bread
 montello resources
-monterey bay bancorp
+monterey bay
 monterey pasta
 montgomery realty
 montgomery street income securities
@@ -6925,7 +6925,7 @@ n app sel ret
 n app ww ret
 napro biotherapeutics
 naptau gold
-nara bancorp
+nara
 nasb financial
 nasdaq 100 trust series 1
 nasdaq stock market
@@ -6974,7 +6974,7 @@ national lumber & supply
 national management consulting
 national manufacturing
 national medical health card system
-national mercantile bancorp
+national mercantile
 national oilwell
 national penn bancshares
 national presto industries
@@ -7066,7 +7066,7 @@ net2phone
 netbank
 netcentives
 netco energy
-netcruise.com inc.
+netcruise.com
 netcurrents information s
 netdriven solutions
 netease.com
@@ -7160,7 +7160,7 @@ new century financial
 new china homes
 new claymore resources
 newcoast silver mines
-new commerce bancorp
+new commerce
 newcor
 new dragon asia
 newell rubbermaid
@@ -7193,7 +7193,7 @@ new media systems
 new medium enterprises
 new meridian mining
 newmex minerals
-newmil bancorp
+newmil
 new millenium development
 new millennium bank
 new millennium media
@@ -7229,7 +7229,7 @@ new world brands
 new world power
 new world restaurant grou
 new york broker deutsch.
-new york community bancorp
+new york community
 new york health care
 new york regional rail
 nexar technologies
@@ -7325,9 +7325,9 @@ north coast life insurance
 northcott gold
 north country financial
 north dallas bank and trust company 
-northeast bancorp
+northeast
 northeast digital ntwks.
-northeast indiana bancorp
+northeast indiana
 northeast investors trust
 northeast pennsylvania financial
 northeast utilities
@@ -7351,7 +7351,7 @@ northern trust
 north european oil royalty trust
 northfield capital
 northfield laboratories
-north fork bancorp
+north fork
 northgate exploration
 northgate innovations
 northland cranberries
@@ -7361,24 +7361,24 @@ northlinks
 north pacific geopower
 north pittsburgh systems
 northpoint communications
-northrim bancorp
+northrim
 northrop grumman
 northstar aerospace
 northstar electronics
 northstar energy
 north state national bank 
-northumberland bancorp
-north valley bancorp
+northumberland
+north valley
 northway explorations
 northway financial
 northwest airlines
-northwest bancorp
+northwest
 northwest bancp
 northwest biotherapeutics
 northwest capital trust
 northwestern steel & wire
 northwest gold
-northwest indiana bancorp
+northwest indiana
 northwest natural gas
 northwest pipe
 norton motorcycles
@@ -7515,7 +7515,7 @@ openwave systems
 ophthalmic imaging systems
 opinion research
 oplink communications
-opnet technologies inc
+opnet technologies
 opp capital presr y
 oppen emer growth y
 oppen europe y
@@ -7573,7 +7573,7 @@ orbotech
 orcana resources
 orca petroleum
 orcatron communications
-orchestream holdings plc.
+orchestream holdings
 orchid biosciences
 orckit communications
 orderpro logistics
@@ -7628,7 +7628,7 @@ pacificare health systems
 pacific biometrics
 pacific booker minerals
 pacific capital bal y
-pacific capital bancorp
+pacific capital
 pacific cma
 pacific comox resources
 pacific continental
@@ -7646,19 +7646,19 @@ pacific internet
 pacific liberty bank 
 pacific lottery
 pacific magtron
-pacific mercantile bancorp
+pacific mercantile
 pacificnet
 pacific northern gas
-pacific northwest bancorp
+pacific northwest
 pacific north west capital
 pacificorp
-pacific premier bancorp
+pacific premier
 pacific ridge exploration
 pacific rim mining
 pacific rodera ventures
 pacific safety products
 pacific sands
-pacific state bancorp
+pacific state
 pacific stratus ventures
 pacific sunwear of california
 pacific systems control technology
@@ -7697,7 +7697,7 @@ palomar enterprises
 palomar medical technologies
 paloma ventures
 palweb
-pamrapo bancorp
+pamrapo
 pam transportation services
 panaco
 panamed
@@ -7742,7 +7742,7 @@ parentech
 pareto
 parexel
 pargas enterprises
-park bancorp
+park
 parke bank 
 park electrochemical
 parker drilling
@@ -7774,12 +7774,12 @@ pason systems
 passion media
 pasw
 patagonia gold
-patapsco bancorp
+patapsco
 patch safety services
 patent enforcement and royalties
 path 1 network technologies
 patheon
-pathfinder bancorp
+pathfinder
 pathfinder resources ltd canada
 pathmark stores
 patient infosystems
@@ -7791,7 +7791,7 @@ patrick industries
 patriot bank
 patriot investment
 patriot motorcycles
-patriot national bancorp
+patriot national
 patriot petroleum
 patriot scientific
 patriot transportation holdings
@@ -7802,7 +7802,7 @@ paula financial
 paul mueller
 paulson capital
 paul son gaming
-pavilion bancorp
+pavilion
 paving stone
 pawnbroker.com
 pawnmart
@@ -7866,8 +7866,8 @@ penn laurel financial
 penn national gaming
 penn octane
 pennrock financial services
-penns woods bancorp
-pennsylvania commerce bancorp
+penns woods
+pennsylvania commerce
 pennsylvania power
 pennsylvania real estate investment trust
 pennsylvania state bank 
@@ -7883,14 +7883,14 @@ pentastar communications
 penteco resources
 penton media
 penwest pharmaceuticals
-people 's bancorp
+people 's
 peoples bancorp of easley sc
 peoples bancorp of north carolina
 peoples banctrust
 people 's bank
 peoples bankcorp inc 
 peoples bank of commerce oregon
-peoples community bancorp
+peoples community
 people 's community capital
 peoples energy
 peoples federal savings bank of dekalb city
@@ -8088,8 +8088,8 @@ pivotal self service technologies
 pixar
 pixelworks
 pixtech
-pizza inn
-pocahontas bancorp
+pizza
+pocahontas
 pocketspec technologies
 pogo producing
 point.360
@@ -8189,12 +8189,12 @@ premier concepts
 premier development & investment
 premier diamond
 premier farnell
-premier financial bancorp
+premier financial
 premier oil
 premier service bank
 premier tech ltee
 premier valley bank
-premierwest bancorp
+premierwest
 premium brands
 premium income
 prentiss properties trust
@@ -8246,7 +8246,7 @@ primus telecommunications
 prince resource
 princeton american
 princeton media
-princeton national bancorp
+princeton national
 princeton review
 princeton video image
 principal financial
@@ -8300,7 +8300,7 @@ programmer 's paradise
 progress energy
 progress financial
 progressive asset management
-progressive bancorp
+progressive
 progress software
 prolab technologies
 prologic management systems
@@ -8342,7 +8342,7 @@ provell
 provena foods
 provenor
 providence & worcester railroad
-provident bancorp
+provident
 provident bankshares
 provident capital trust ii
 provident energy trust
@@ -8359,7 +8359,7 @@ proxymed
 pr specialists
 prudential financial
 prudential finl
-prudential plc
+prudential
 pru pacific gth z
 p.t. pasifik satelit nusa
 pubco
@@ -8417,7 +8417,7 @@ quadrax
 quad systems
 quaker aggr growth
 quaker chemical
-quaker city bancorp
+quaker city
 quaker core equity
 quaker fabric
 quaker fx instl
@@ -8468,7 +8468,7 @@ quintiles transnational
 quinton cardiology systems
 quinto technology
 quipp
-quixit inc
+quixit
 quixote
 quokka sports
 quorum information technologies
@@ -8597,7 +8597,7 @@ red bell brewing company
 red chip
 redcorp ventures
 reddi brake supply
-redding bancorp
+redding
 redex
 red hat
 redhawk resources
@@ -8613,7 +8613,7 @@ redox technology
 red robin gourmet burgers
 redstar gold
 red-tail infotech
-redwood empire bancorp
+redwood empire
 redwood energy
 redwood trust
 reebok
@@ -8684,7 +8684,7 @@ reptron electronics
 republic bancorp inc 
 republic bancshares
 republic capital trust
-republic first bancorp
+republic first
 republic goldfields
 republic rscs
 republic services
@@ -8693,7 +8693,7 @@ rescon technology
 research frontiers
 research incorporated
 research in motion
-reserve bancorp
+reserve
 reserve petroleum
 resin systems
 resmed
@@ -8778,7 +8778,7 @@ rio verde industries
 ripper oil and gas
 rise energy
 rise healthware
-rising sun bancorp
+rising sun
 rita capital
 rita medical systems
 ritchie bros. auctioneers
@@ -8791,9 +8791,9 @@ river gold mines
 riverside forest products
 riverstone networks
 riverstone resources
-river valley bancorp
+river valley
 river valley energy services
-riverview bancorp
+riverview
 riviana foods
 riviera holdings
 riviera tool
@@ -8821,7 +8821,7 @@ rochester medical
 rock creek resources
 rockford
 rockport healthcare
-rockport national bancorp
+rockport national
 rock resources
 rock tenn
 rockvale resources
@@ -8849,7 +8849,7 @@ rollins
 rolls-royce plc 
 rolltech
 romarco minerals
-rome bancorp
+rome
 rome resources
 romios gold resources
 rona
@@ -8858,7 +8858,7 @@ roper industries
 rosedale decorative products
 roseland resources
 rosetta exploration
-roslyn bancorp
+roslyn
 ross river minerals
 ross stores
 ross systems
@@ -8904,7 +8904,7 @@ sable resources
 sabratek
 sabre holdings
 sadia sa
-saehan bancorp
+saehan
 saes getters spa
 safari associates
 safe alternatives corporation of america
@@ -8932,7 +8932,7 @@ salem communications
 sales online direct
 salesrepcentral.com
 salient 3 communications
-salisbury bancorp
+salisbury
 salish ventures
 salix pharmaceuticals
 salomon bros 2008 worldwide government trust
@@ -8958,7 +8958,7 @@ sandisk
 sands regent 
 sand technology
 sandy spring capital trust
-sandy springs bancorp
+sandy springs
 sangamo biosciences
 san gold resources
 sangoma technologies
@@ -8974,7 +8974,7 @@ santa clara valley bank n.a.
 santa fe energy trust
 santa fe financial
 santa lucia national bank
-santander bancorp
+santander
 san telmo energy
 santos
 santoy resources
@@ -8997,7 +8997,7 @@ satyam computers services
 saucony
 sauer
 saul centers
-savannah bancorp
+savannah
 savaria
 save on energy
 savia sa de cv
@@ -9099,8 +9099,8 @@ sears roebuck acceptance
 sears roebuck and
 seattle genetics
 seaview video technology
-sec assoc
-second bancorp
+sec
+second
 second bancorp capital trust
 secure computing
 secured data
@@ -9110,7 +9110,7 @@ security associates
 security bancorp inc 
 security capital
 security capital us real estate shares
-security financial bancorp
+security financial
 security first technologies
 security intelligence technologies
 security investments grp.
@@ -9199,7 +9199,7 @@ serengeti resources
 serologicals
 serono sa
 service 1st bank
-service bancorp
+service
 service merchandise compa
 service plus hospitality
 serviceware technologies
@@ -9210,7 +9210,7 @@ seven seas
 seven seas petroleum
 seventh energy
 seven ventures
-severn bancorp
+severn
 sextant entertainment
 seychelle environmental t
 seymour exploration
@@ -9291,7 +9291,7 @@ siebel systems
 siebert financial
 siemens
 siena holdings
-sierra bancorp
+sierra
 sierra health services
 sierra minerals
 sierra monitor
@@ -9330,7 +9330,7 @@ silverline technologies
 silver standard resources
 silver star foods
 silverstar holdings
-silver state bancorp
+silver state
 simex technologies
 simmonds capital
 simmons first national
@@ -9364,7 +9364,7 @@ siricomm
 sirios resources
 sirius satellite radio
 siskon gold
-sistersville bancorp
+sistersville
 si technologies
 sitec ventures
 sitel
@@ -9398,7 +9398,7 @@ smithfield foods
 smith micro software
 smith midland
 smith & nephew
-smithtown bancorp
+smithtown
 smithway motor xpress
 smith & wesson holding
 smith & wollensky restaurant
@@ -9410,7 +9410,7 @@ smtek
 smucker jm
 smurfit-stone container
 sobeys
-sobieski bancorp
+sobieski
 sociedad quimica y minera de chile sa
 societe generale group (a
 societe miniere louvem
@@ -9451,7 +9451,7 @@ solutioninc technologies
 solvay bank 
 somanetics
 somera communications
-somerset hills bancorp
+somerset hills
 sona development
 sonesta international hotels
 sonex research
@@ -9466,7 +9466,7 @@ sonics & materials
 sonic solutions
 sonicwall
 sonoco products
-sonoma valley bancorp
+sonoma valley
 sonomawest holdings
 sonomax hearing healthcare
 sonoran energy
@@ -9484,7 +9484,7 @@ sorrento networks
 sos staffing services
 sotheby 's holdings
 soulfood concepts
-sound federal bancorp
+sound federal
 soundview tech
 source capital
 sourcecorp
@@ -9506,14 +9506,14 @@ southern community bank & trust commonwealth
 southern community capital trust 1
 southern community financial
 southern company
-southern connecticut bancorp
+southern connecticut
 southern cross resources
 southern energy homes
 southernera resources
-southern financial bancorp
+southern financial
 southern financial capital trust
-southern michigan bancorp
-southern missouri bancorp
+southern michigan
+southern missouri
 southern pacific development
 southern pacific petroleum nl
 southern peru copper
@@ -9536,7 +9536,7 @@ southtrust
 southwall technologies
 southward energy
 southwest airlines
-southwest bancorp
+southwest
 southwest bancorporation of texas
 southwest community bank
 southwestern bell telephone
@@ -9546,7 +9546,7 @@ southwestern resources
 southwest gas
 southwest georgia financial
 southwest water
-sovereign bancorp
+sovereign
 sovereign chief ventures
 sovran self storage
 soyo
@@ -9688,17 +9688,17 @@ star telecommunications
 starwood hotels & resorts worldwide
 st assembly test services
 state auto financial
-state bancorp
+state
 state farm
 statefed financial
 state financial services
-staten island bancorp
+staten island
 state street
 state street exchange
 state street investment trust
 station casinos
 statoil asa
-s & t bancorp
+s & t
 steakhouse partners
 steak n shake
 stealth medialabs
@@ -9710,7 +9710,7 @@ steelcity products
 steelcloud
 steel dynamics
 steel technologies
-steelton bancorp
+steelton
 steeplejack industrial
 steiner leisure
 stein mart
@@ -9731,7 +9731,7 @@ stereo vision entertainment
 stericycle
 sterion
 steris
-sterling bancorp
+sterling
 sterling bancshares
 sterling bancshares capital trust ii
 sterling bancshares capital trust iii
@@ -9805,7 +9805,7 @@ strategic data
 strategic diagnostics
 strategic distribution
 strategic internet investments
-strategic merchant bancorp
+strategic merchant
 strategic metals
 strategic solutions
 strategic technologies
@@ -9860,7 +9860,7 @@ stuart energy systems
 student advantage
 student loan
 studio bromont
-sturgis bancorp
+sturgis
 sturm ruger &
 styleclick
 styling technology
@@ -9894,7 +9894,7 @@ sun bancorp inc
 sun bancshares
 sunburst acquisitions iv
 sun capital trust ii
-suncoast bancorp
+suncoast
 sun communities
 suncor energy
 sun country bank victorville
@@ -9978,7 +9978,7 @@ surgilight
 surmodics
 surry bank & trust mount airy nc
 susquehanna bancshares
-sussex bancorp
+sussex
 sustainable energy technologies
 sutron
 sutter holdings company
@@ -10046,7 +10046,7 @@ targets trust xvi
 targets trust xvii
 targitinteractive
 taro pharmaceutical industries
-tarpon coast bancorp
+tarpon coast
 tarragon realty investors
 tarrant apparel
 tartan energy
@@ -10426,7 +10426,7 @@ tiger telematics
 tii network technologies
 tilden associates
 timberland
-timberland bancorp
+timberland
 timberline software
 timco aviation services
 timebeat.com enterprises
@@ -10519,13 +10519,13 @@ touchtunes music
 tournigan gold
 tower air
 tower automotive
-tower bancorp
+tower
 tower financial
 tower properties
 tower semiconductor
 town bank of westfield 
 town center bancorp 
-town & country bancorp
+town & country
 town & country trust
 towne bank
 toxin alert
@@ -10609,7 +10609,7 @@ trans world
 trans world entertainment
 tranzcom security networks
 travelbyus com
-travelbyus inc.
+travelbyus
 travelers property casualty
 travellersmall.com
 travelzoo
@@ -10769,11 +10769,11 @@ uni-marts
 union acceptance
 unionbancal
 unionbancal financial trust
-union bancorp
+union
 union bancorp inc 
 union bankshares
 union bankshares capital trust
-union community bancorp
+union community
 union electric
 union financial bancshares
 union gold
@@ -10801,7 +10801,7 @@ united capital
 united carina resources
 united china
 united commerce bank bloomington ind
-united community bancorp
+united community
 united community banks
 united community financial
 united corporations
@@ -10823,7 +10823,7 @@ united leisure
 united medicorp
 united micro electronics
 united mobile homes
-united national bancorp
+united national
 united natural foods
 united network marketing services
 united online
@@ -10857,7 +10857,7 @@ uniterre resources
 unitil
 unitrin
 unitronix
-unity bancorp
+unity
 unity wireless
 univec
 univercell holdings
@@ -10885,7 +10885,7 @@ universal security instruments
 universal stainless & alloy products
 universal star ventures
 universe2u
-university bancorp
+university
 univest corp of pennsylvania
 uniview technologies
 univision communications
@@ -10992,7 +10992,7 @@ valley financial
 valley forge scientific
 valley high ventures
 valley media
-valley national bancorp
+valley national
 valley national gases
 valmont industries
 valpey fisher
@@ -11126,7 +11126,7 @@ vimpel communications
 vina concha y toro sa
 vina technologies
 vincor
-vineyard national bancorp
+vineyard national
 vintage petroleum
 vion pharmaceuticals
 vior exploration mines
@@ -11134,12 +11134,12 @@ viracocha energy
 virage
 virage logic
 viragen
-viragen international inc
+viragen international
 viral genetics
 virbac
 virco manufacturing
 virgin express holdings
-virginia commerce bancorp
+virginia commerce
 virginia electric & power
 virginia financial
 virginia national bank
@@ -11253,10 +11253,10 @@ warnaco
 warnex
 warp technology holdings
 warrantech
-warren bancorp
+warren
 warrior energy nv
 warwick communications
-warwick community bancorp
+warwick community
 warwick valley telephone
 wasatch pharmaceuticals
 waseco resources
@@ -11267,7 +11267,7 @@ washington mutual
 washington post
 washington real estate investment trust
 washington savings bank fsb
-washington trust bancorp
+washington trust
 washmax
 waste connections
 wastecorp international investments
@@ -11301,7 +11301,7 @@ wave systems
 wavo
 waxman industries
 waymar resources
-wayne bancorp
+wayne
 wayne savings bancshares
 waypoint financial
 weatherford
@@ -11317,7 +11317,7 @@ web press
 webquest
 websense
 websmart.com communications
-webster city federal bancorp
+webster city federal
 webster financial
 webster preferred capital
 weda bay minerals
@@ -11357,7 +11357,7 @@ wesco financial
 wesdome gold mines
 westaff
 westaim
-westamerica bancorp
+westamerica
 westar energy
 west bancorporation
 westbank
@@ -11390,7 +11390,7 @@ western pacific trust
 western power & equipment
 western prospector
 western quebec mines
-western sierra bancorp
+western sierra
 western spirit investments
 western standard
 western troy capital resources
@@ -11398,7 +11398,7 @@ western warrior resources
 western water
 western wind energy
 western wireless
-west essex bancorp
+west essex
 westfair foods
 westfield financial
 westfort energy
@@ -11452,7 +11452,7 @@ williams industries
 williams-sonoma
 willis group holdings
 willis lease finance
-willow grove bancorp
+willow grove
 wilmington capital management
 wilmington rexford
 wilmington trust
@@ -11518,7 +11518,7 @@ wisper
 witness systems
 witnet
 wizzard software
-w.p. carey & co llc
+w.p. carey
 w.r. grace &
 w-waves usa
 philip morris

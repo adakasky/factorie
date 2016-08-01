@@ -235,7 +235,7 @@ Chase
 Federal Security Service
 New Frontier Party
 TV3
-Entropia, Inc.
+Entropia
 The Frontier
 Socialist Equality Party
 ABC
@@ -1061,7 +1061,7 @@ Next Generation
 Glendale Community College
 Glendale Community College
 Trud
-Quik Internet (NZ) Ltd
+Quik Internet (NZ)
 Delamain
 Nova
 GEOS
@@ -1969,7 +1969,7 @@ Newman College
 Kennedy Middle School
 Beautiful Savior Lutheran Church
 Modern School
-Thomas Cook AG
+Thomas Cook
 Wesley College
 Wallis
 The Gazette
@@ -2227,7 +2227,7 @@ Danville High School
 Theodore Roosevelt High School
 DFS
 Jackson Academy
-University of Canterbury Engineering Society Inc.
+University of Canterbury Engineering Society
 Strippergate
 Worthington Christian High School
 Los Altos High School
@@ -2242,7 +2242,7 @@ Central High School
 Roeper School
 École nationale supérieure de chimie de Montpellier
 St Francis Xavier College
-The Entertainer (Amersham) Ltd.
+The Entertainer (Amersham)
 Emmaus Bible College
 Cottonwood High School
 Skyline High School
@@ -2310,7 +2310,7 @@ Nashi
 Lakeland College
 Lincoln College
 Foothill High School
-Thomas Hill (Rotherham) Ltd
+Thomas Hill (Rotherham)
 Warehouse
 South Brunswick High School
 Haden
@@ -2579,7 +2579,7 @@ People's Coalition
 Southern Football League
 Montepio
 Indian Hills High School
-Parallax, Inc.
+Parallax
 Maldivian
 Forest School
 Cornerstone
@@ -4789,7 +4789,7 @@ Reveille
 Lowell High School
 Star Air
 NIBS
-A&R Cambridge Ltd
+A&R Cambridge
 Naartjie
 University High School
 Abbeville High School
@@ -6614,7 +6614,7 @@ Colonial Conference
 Yarmouth Schools
 St. Margaret's School
 Essex High School
-West Marine Ltd.
+West Marine
 King George School
 Urban Realm
 Al-Ayyam
@@ -8349,7 +8349,7 @@ Northwest Conference
 Robson Hall
 Stella Matutina
 Sequence
-EganaGoldpfeil (Holdings) Ltd.
+EganaGoldpfeil (Holdings)
 T3
 Independence High School
 Excel Academy
@@ -8534,7 +8534,7 @@ Murex
 Lincoln County Middle School
 Colegio San Agustín
 El Dorado High School
-Atari, Inc.
+Atari
 Roosevelt High School
 Riverdale High School
 Ocean City Police Department
@@ -8692,7 +8692,7 @@ Home Power
 Milton High School
 Revolutionary Party
 British Film
-Eastern Bank Ltd
+Eastern Bank
 VADS
 Boden
 Skytel
@@ -8853,7 +8853,7 @@ Campbell College
 Nicaraguan Socialist Party
 Jamaica Rural Police Force
 Young Money
-Nicholson & Co (Worcester) Ltd
+Nicholson & Co (Worcester)
 Haldex
 Znak
 Tupelo High School
@@ -8944,7 +8944,7 @@ Vinçotte
 North High School
 Genesee County Sheriff's Office
 PC Magazine
-Phantom Manufacturing (Int'l.) Ltd.
+Phantom Manufacturing (Int'l.)
 American Printing Company
 Głos
 Pinky
@@ -9074,7 +9074,7 @@ ABC Radio
 W-League
 Old man
 Patrick Henry High School
-Premier Holidays (Canaries) Ltd.
+Premier Holidays (Canaries)
 People's Party
 List of bank failures in the United States
 Command Airways
@@ -9147,7 +9147,7 @@ Northwestern Conference
 Le Matin
 Instituto Lingüístico de Verano
 Veritas School
-Audience Measurement and Analytics Ltd.
+Audience Measurement and Analytics
 Movement for Democratic Change
 Lanier High School
 Lakewood High School
@@ -10409,7 +10409,7 @@ Independent Labour Party
 United People's Party
 Bath County High School
 Conservative Party
-Wong & Ouyang (HK) Ltd.
+Wong & Ouyang (HK)
 People's Progressive Party
 Progressive Labour Party
 Progressive Liberal Party

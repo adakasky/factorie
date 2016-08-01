@@ -18755,7 +18755,7 @@ Gallery Place â Chinatown
 Judiciary Square
 New York Avenue-Florida Avenue-Gallaudet University
 New York AvenueâFlorida AvenueâGallaudet University
-New York Ave
+New York
 New York Ave-Florida Ave-Gallaudet U
 Redirect:New York AveâFlorida AveâGallaudet University
 New York Avenue â Florida Avenue â Gallaudet University
@@ -18771,7 +18771,7 @@ Rhode Island AvenueâBrentwood
 Rhode Island Avenue â Brentwood
 Rhode Island Avenue-Brentwood
 Rhode Island Avenue - Brentwood
-Rhode Island Ave
+Rhode Island
 Rhode Island Avenue-Brentwood
 Rhode Island Ave-Brentwood
 Rhode Island Avenue
@@ -19983,7 +19983,7 @@ King Street
 King Street
 King Street - Old Town
 King Street
-Eisenhower Ave.
+Eisenhower
 Eisenhower Avenue
 Huntington
 Huntington
@@ -20025,7 +20025,7 @@ Eastern Market
 Eastern Market
 Potomac Avenue
 Potomac Avenue
-Potomac Ave
+Potomac
 StadiumâArmory
 Stadium-Armory
 Stadium-Armory
@@ -20043,7 +20043,7 @@ Addison Road-Seat Pleasant
 Morgan Boulevard
 Largo Town Center
 Largo Town Center
-Minnesota Ave
+Minnesota
 Minnesota Avenue
 Minnesota Avenue
 Deanwood
@@ -20104,14 +20104,14 @@ Navy Yard - Ballpark
 Congress Heights
 Congress Heights
 Southern Avenue
-Southern Ave
+Southern
 Southern Avenue
 Naylor Road
 Naylor Road
 Suitland
 Suitland
 Branch Avenue
-Branch Ave
+Branch
 Branch Avenue
 High Point
 Hwy 13
@@ -26178,7 +26178,7 @@ SR-248
 Route 248
 Colorado Boulevard
 Colorado Boulevard
-Colorado Blvd.
+Colorado
 California State Route 248
 State Route 248
 Westgarth
@@ -33380,7 +33380,7 @@ SR-164
 California State Route 164
 SR-19
 State Route 164
-Lakewood Blvd.
+Lakewood
 Route 19
 California State Route 19
 Squaw Valley, California
@@ -37821,7 +37821,7 @@ I-565
 US 24
 U.S. Route 24
 Telegraph Road
-Telegraph Rd.
+Telegraph
 U.S. Highway 24
 Lycoming Creek
 RosemontâLa Petite-Patrie
@@ -42194,8 +42194,8 @@ River Arrow
 Grand Hotel
 Wennington
 Southbank
-S. Sepulveda Blvd.
-Sepulveda Blvd.
+S. Sepulveda
+Sepulveda
 RomainmÃŽtier-Envy
 Romainmotier-Envy
 State Route 66
@@ -44702,7 +44702,7 @@ Mikhailov
 Mikhaylov
 Norristown Elm Street
 Norristown
-Wynnefield Ave
+Wynnefield
 M-4
 M-134
 M-134
@@ -49221,8 +49221,8 @@ Pineview Reservoir
 Portugese Fort
 State Route 385
 Overbrook Loop
-63rd Street/Malvern Ave
-63rd Street/Malvern Ave
+63rd Street/Malvern
+63rd Street/Malvern
 Mermaids
 Highway 17
 Highway 17
@@ -49884,16 +49884,16 @@ Tysons Central
 Tysons Central 7
 Tysons Central 7
 Tysons - Spring Hill Road
-Tysons â Spring Hill Rd
+Tysons â Spring Hill
 Tysons West
 Tysons â Spring Hill Road
-TysonsâSpring Hill Rd
+TysonsâSpring Hill
 Tysons West
 Reston â Wiehle Avenue
 Wiehle Avenue
 Reston - Wiehle Avenue
 Wiehle Avenue
-Reston â Wiehle Ave
+Reston â Wiehle
 Reston Parkway
 Reston Parkway
 HerndonâMonroe
@@ -53780,7 +53780,7 @@ Route 289
 Interstate 289
 I-289
 Colorado State Highway 78
-6th Ave
+6th
 US 6
 U.S. Route 38
 U.S. Highway 6
@@ -54395,7 +54395,7 @@ Holdorf
 Interstate 95
 I-95
 Florida State Road 9A
-North Ave.
+North
 N79 road
 Steinfeld
 Route 105
@@ -55807,7 +55807,7 @@ Little Sandy River
 Metuchen
 Edison
 Jersey Avenue
-Jersey Ave
+Jersey
 Hamilton
 Saint-Marcel
 Saint Marcel
@@ -58716,7 +58716,7 @@ Eching
 Wabern
 State Route 255
 SR-255
-Research Park Blvd
+Research Park
 Ranch to Market Road 243
 FM 243
 RM 243
@@ -61011,7 +61011,7 @@ St. Pancras South East
 St. Pancras South-East
 St Pancras South-East
 Route 134
-South Blvd
+South
 South Boulevard
 Linden
 Highway 88
@@ -82038,7 +82038,7 @@ Snow Mountain
 Perry High School
 Perry High School
 Ultra Mega Power Plants
-Roosevelt Blvd
+Roosevelt
 Zitava
 Skoyenasen
 Alfeld
@@ -82170,7 +82170,7 @@ Smith Island
 Lakeland
 Winter Haven
 State Road 128
-San Juan Ave
+San Juan
 SR 128
 San Juan Avenue
 Mission House
@@ -88095,7 +88095,7 @@ Goellheim
 Gollheim
 Moravita River
 MoraviÈa River
-Paul Ave.
+Paul
 Caritas Academy
 Paraul Auriu
 Valea Babei River
@@ -92773,7 +92773,7 @@ PÃ¢rÃ¢ul Boului
 Indian head pond
 West Youyi Road
 Youyi Road
-Youyi Rd.
+Youyi
 Baoan Highway
 Baoan Road
 Bao'an Highway
@@ -109700,7 +109700,7 @@ Waipapa River
 Koryta
 Pohori
 Otamatea River
-Jiannan Rd.
+Jiannan
 Preto River
 Salvador River
 Trairi River

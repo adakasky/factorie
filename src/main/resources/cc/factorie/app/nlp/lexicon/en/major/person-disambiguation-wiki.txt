@@ -1257,7 +1257,7 @@ Bong
 Bonheur
 Boniface
 Boniface I
-Boniface II
+Boniface
 Bonobo
 Bono
 Bont
@@ -1593,7 +1593,7 @@ Catherine Fisher
 Catherine Hall
 Catherine Hayes
 Catherine Howard
-Catherine II
+Catherine
 Catherine Martin
 Catherine of Bosnia
 Catherine of Habsburg
@@ -2830,7 +2830,7 @@ Edward Hooper
 Edward Hopkins
 Edward Hussey
 Edward I
-Edward III
+Edward
 Edward James
 Edward Jessup
 Edward Johnston
@@ -2944,7 +2944,7 @@ Elizabeth Fuller
 Elizabeth George
 Elizabeth Hill
 Elizabeth I
-Elizabeth II
+Elizabeth
 Elizabeth Jones
 Elizabeth Kelly
 Elizabeth Mitchell
@@ -3666,12 +3666,12 @@ George Hogg
 George Horton
 George Hudson
 George Huntington
-George III
+George
 George Innes
 George Inness
 George Ireland
 George Irvine
-George IV
+George
 George Jones
 George Kennedy
 George Knox
@@ -4661,7 +4661,7 @@ Isshu
 István Kovács
 István Szabó
 Italiano
-Ivan III
+Ivan
 Ivan Milas
 Ivan the Terrible
 Ivor Brown
@@ -4853,7 +4853,7 @@ James Howe
 James Hunt
 James Hutton
 James I
-James II
+James
 James Inglis
 James Ingram
 James Irwin
@@ -5924,7 +5924,7 @@ Kapur
 Karaman
 Karasu
 Karataş
-Karekin II
+Karekin
 Karen Campbell
 Karen Davis
 Karen Price
@@ -6455,7 +6455,7 @@ Lord North
 Lorillard
 Loris
 Lotan
-Lothair II
+Lothair
 Lou Brock
 Lou Graham
 Lou Holtz
@@ -6485,7 +6485,7 @@ Lucy Brown
 Ludlow
 Ludwig Bauer
 Ludwig Fischer
-Ludwig II
+Ludwig
 Ludwig Müller
 Lugger
 Luigi
@@ -7057,7 +7057,7 @@ Michael Hicks
 Michael Hogg
 Michael Howard
 Michael Hurst
-Michael II
+Michael
 Michael Jackson
 Michael Jarvis
 Michael Jeffery
@@ -7463,7 +7463,7 @@ Nicholas Hammond
 Nicholas Heath
 Nicholas Hill
 Nicholas Hyde
-Nicholas II
+Nicholas
 Nicholas Lechmere
 Nicholas Moore
 Nicholas Murphy
@@ -7626,9 +7626,9 @@ Ostroróg
 Oswald Mosley
 Otho
 Otto I
-Otto II
-Otto III
-Otto IV
+Otto
+Otto
+Otto
 Otto of Bavaria
 Otto Schmidt
 Otto Schulz
@@ -8094,7 +8094,7 @@ Pontiac
 Ponticelli
 Pontifex
 Pope
-Pope John Paul II
+Pope John Paul
 Popiel
 Poppy
 Porcaro
@@ -8483,8 +8483,8 @@ Richard Howard
 Richard Howell
 Richard Hudson
 Richard I
-Richard II
-Richard III
+Richard
+Richard
 Richard Jacob
 Richard Jebb
 Richard Jefferies

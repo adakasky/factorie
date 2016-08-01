@@ -12,6 +12,8 @@
    limitations under the License. */
 
 package cc.factorie.app.chain
+import java.io._
+
 import cc.factorie.variable._
 
 import scala.collection.mutable.{HashMap, HashSet}
@@ -141,12 +143,16 @@ class SegmentEvaluation[L<:LabeledMutableCategoricalVar[String]](baseLabelString
     labelCount += labels.length
     labels.foreach(label => if (label.valueIsTarget) labelCorrectCount += 1)
   }
+  //debug mode
   def +=(sentence: cc.factorie.app.nlp.Sentence): Unit = {
     val tokens = sentence.tokens
     val labels = tokens.map(_.attr[L with LabeledMutableCategoricalVar[String]])
+    val writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream("../es_training_tag.diff", true),"UTF-8"))
     evals.values.foreach(eval => eval += labels)
     labelCount += labels.length
-    tokens.foreach(token => if (token.attr[L with LabeledMutableCategoricalVar[String]].valueIsTarget) labelCorrectCount += 1 /*else println(token.string, token.attr[L with LabeledMutableCategoricalVar[String]].target.categoryValue, token.attr[L with LabeledMutableCategoricalVar[String]].categoryValue, sentence.string)*/)
+    tokens.foreach(token => if (token.attr[L with LabeledMutableCategoricalVar[String]].valueIsTarget) labelCorrectCount += 1 else writer.write(s"${token.string}\t${token.attr[L with LabeledMutableCategoricalVar[String]].target.categoryValue}\t${token.attr[L with LabeledMutableCategoricalVar[String]].categoryValue}\t${sentence.string}\n"))
+    writer.flush()
+    writer.close()
   }
 
   // This is a per-label measure

@@ -673,7 +673,7 @@ Concordia College
 Philosophy Students Association
 Concordia Univeristy
 Dodge
-Daimler-Benz InterServices AG
+Daimler-Benz InterServices
 Whig
 Whig
 Whig
@@ -932,7 +932,7 @@ James Cook University
 Prospect of Whitby
 BSA
 Council
-BP plc
+BP
 Air India
 Federal Express (FedEX) Corporation
 Air Force Academy
@@ -1151,7 +1151,7 @@ Irving
 Financial Times, London
 Financial Times
 Telewest
-Hachette Filipacchi (UK) Ltd
+Hachette Filipacchi (UK)
 Liberal Unionist Party
 EMI
 Abbey Road
@@ -1211,7 +1211,7 @@ T-Mobile
 University of Agricultural Sciences (UAS), Bangalore
 Freedom Party
 Labour Party
-Smith (WH) Group plc
+Smith (WH) Group
 Twitch
 Richard Roy
 Converse
@@ -1330,7 +1330,7 @@ Indian Institute Of Technology Bombay
 Indian Institute Of Technology Madras
 Carrefour
 Morrison
-Morrison (Wm) Supermarkets plc
+Morrison (Wm) Supermarkets
 Morrison (Wm) Supermarkets
 Agfa-Gevaert N.V.
 National Theatre
@@ -1351,7 +1351,7 @@ Lotus
 Lotus
 Ultimate Fighting Championship
 Green Party
-Sainsbury (J) plc
+Sainsbury (J)
 Sainsbury
 Twentieth (20th)Century Fox
 Rotherham
@@ -1426,7 +1426,7 @@ Federal Trade Commission
 VG
 Granada
 Century
-Viacom Inc.
+Viacom
 Foreign Affairs
 Foreign Affairs
 Foreign Affairs
@@ -1645,7 +1645,7 @@ Green Party fraction
 TLC
 TLC
 Dragonair
-Court Line (Aviation) Ltd
+Court Line (Aviation)
 Palmolive
 Shanghai Jiao Tong University
 Sunshine Records
@@ -1720,7 +1720,7 @@ Visa
 VISA
 Visa
 AudioFile
-Raytheon Co.
+Raytheon
 Socialist Labor Party
 Socialist Labor Party
 Socialist Labor Party
@@ -1878,7 +1878,7 @@ Saint Mary's (Maryland) Seahawks
 St. Mary's (Maryland) Seahawks
 St. Mary's (MD) Seahawks
 Dacia
-Weetabix Ltd
+Weetabix
 Weetabix
 Tierarztliche Hochschule Hannover
 TierÃ€rztliche Hochschule Hannover (High School of animal medicine at Hanover
@@ -1922,7 +1922,7 @@ Northwestern (Minn.) Eagles
 Northwestern (MN) Eagles
 Northwestern (Minnesota) Eagles
 Northwestern College
-Domtar (Canada) Paper Inc.
+Domtar (Canada) Paper
 Oneworld
 Forbes
 Forbes
@@ -1978,8 +1978,8 @@ National School of Public Administration
 Georgetown (Ky.) Tigers
 Georgetown (KY) Tigers
 Georgetown (Kentucky) Tigers
-AIR CHINA Development Corporation (H.K.) Ltd.
-Air China Development Corporation (H.K.) Ltd.
+AIR CHINA Development Corporation (H.K.)
+Air China Development Corporation (H.K.)
 Central High School
 Central High School
 Brentwood School
@@ -2094,7 +2094,7 @@ ABC News
 ABC News
 ABC News
 National Radio Astronomy Observatory
-News International Newspapers (Scotland) Ltd
+News International Newspapers (Scotland)
 Carnival Pinnacle
 CRS
 Albert Einstein College of Medicine
@@ -2119,7 +2119,7 @@ Sky
 Sky
 Sky Digital
 Institute of Agri-Food and Land Use
-HSBC Holdings plc
+HSBC Holdings
 Salamander
 Big Red
 Oklahoma State University
@@ -2261,7 +2261,7 @@ Menâs Health
 Harlow
 Alliance
 Alliance
-Cadence Design Systems (India) Pvt. Ltd.
+Cadence Design Systems (India) Pvt.
 Middle East Media Research Institute
 Creation
 Chicago Mercantile Exchange
@@ -2352,7 +2352,7 @@ Communication Workers' Union
 Medina of TÃ©touan
 HKS
 Ion Storm
-Arbitron Inc.
+Arbitron
 Mark Hall
 Yang Yang
 Residential colleges
@@ -2401,7 +2401,7 @@ War Department
 War Office
 TrueBlue
 Facility of Foreign Languages and Area Studies
-China Mobile (Hong Kong) Ltd
+China Mobile (Hong Kong)
 Calverton Elementary/Middle School
 The Grange
 Order of Patrons of Husbandry
@@ -2421,9 +2421,9 @@ Payne Hall
 University of Georgia
 Myers Hall
 Tim Martin
-Wetherspoon (J D) plc
+Wetherspoon (J D)
 Tim Martin
-Wetherspoon(J D) plc
+Wetherspoon(J D)
 Wetherspoons
 Progressive Party (New Zealand
 Progressive Party
@@ -2515,7 +2515,7 @@ ABC
 Collier's
 WECB
 Tudor
-Air Namibia (PTY) Ltd.
+Air Namibia (PTY)
 Amalgamated Society of Engineers
 Electrical Trades Union
 State Bank of India
@@ -2603,7 +2603,7 @@ Warrington
 British 63rd (Royal Naval) Division
 63rd Division
 SilkAir (Singapore) Pte Limited
-John Swire & Sons (H.K.) Ltd.
+John Swire & Sons (H.K.)
 UTA
 Wilmington (OH) Quakers
 Wilmington (Oh.) Fightin' Quakers
@@ -2749,7 +2749,7 @@ FX
 MIT Computer Science and Artificial Intelligence Laboratory
 National Labour Party
 National Labour Party
-Ziff Davis Inc.
+Ziff Davis
 The Telegraph
 The Telegraph
 The Telegraph
@@ -2765,7 +2765,7 @@ Elizabeth Walker
 Dana Jacobson
 Craig Hall
 John Brookes
-Second Cup Ltd.
+Second Cup
 DSM
 DSM
 Saint-cyriens
@@ -2786,7 +2786,7 @@ Assignment
 Canyon Records
 American Society For Microbiology
 Tyco International
-Tyco International (US) Inc.
+Tyco International (US)
 China Netcom Group Corporation (Hong Kong) Limited
 China Unicom (Hong Kong) Limited
 ECM
@@ -2850,7 +2850,7 @@ St. Paul's School
 Loyola University
 Union Government
 Union Party
-EnCana Oil & Gas (USA) Inc.
+EnCana Oil & Gas (USA)
 Harvey's
 Harvey's
 143
@@ -2867,9 +2867,9 @@ Universal Wrestling Federation
 Mid-South Sports
 Portfolio
 St John's College
-Cheung Kong (Holdings) Ltd.
+Cheung Kong (Holdings)
 é¿æ±å®äž (éå¢) æéå¬åž
-Cheung Kong (Holdings) Ltd
+Cheung Kong (Holdings)
 Cheung Kong
 é·æ±å¯Šæ¥­ (éå) æéå¬åž
 Cheung Kong (Holdings) Limited
@@ -2880,7 +2880,7 @@ Fedora Linux
 Discover
 Dennis Young
 George Dance
-Shuttle, Inc
+Shuttle
 Group Sense (International) Limited
 Porter College
 Dip A
@@ -2971,7 +2971,7 @@ Ministry of intelligence
 Ministry of Information
 Jones Dormitory
 College of Physicians and Surgeons
-Levi Strauss & Co.
+Levi Strauss
 University of Hertfordshire
 CREN
 The Phantom (game system
@@ -3020,10 +3020,10 @@ Saint Xavier College
 St. Xavier College
 Xavier University
 Liberal Party
-Wachovia Corp.
+Wachovia
 Liberal Party
 Liberal Party
-Deutsche Bank AG
+Deutsche Bank
 Skyscraper
 Geauga Lake
 Craig High School
@@ -3045,7 +3045,7 @@ College of the Immaculate Conception
 Blue Coat School
 The School of Pharmacy
 University College Hospital
-Lindt & Sprungli (Canada) Inc.
+Lindt & Sprungli (Canada)
 Concertacion
 CNAC
 Westminster (UT) Griffins
@@ -3055,7 +3055,7 @@ Westminster College
 Westminster (Utah) Parsons
 Battelle
 SUNY Empire State College
-Newsquest (Herald & Times) Ltd
+Newsquest (Herald & Times)
 Members of the Tennis Hall of Fame
 Members of the Tennis Hall of Fame
 CP
@@ -3117,7 +3117,7 @@ IKCO
 Pink
 Individual events
 Nationalliga A
-MathWorks, Inc.
+MathWorks
 University of St. Thomas
 University of Saint Thomas
 University of Saint Thomas
@@ -3198,9 +3198,9 @@ Major Indoor Soccer League
 Major Indoor Soccer League
 Major Indoor Soccer League
 Major Indoor Soccer League
-Jet Airways (India) Pvt. Ltd.
-Jet Airways (India) Ltd.
-Jet Lite (India) Ltd.
+Jet Airways (India) Pvt.
+Jet Airways (India)
+Jet Lite (India)
 DFT Digital Film Technology
 Parti Socialiste
 Socialist Party
@@ -3211,7 +3211,7 @@ Socialist Party
 College of Charleston
 Åbaku
 Obaku
-DB Schenker Rail (UK) Ltd.
+DB Schenker Rail (UK)
 Freightliner
 Freightliner
 Freightliner
@@ -3389,7 +3389,7 @@ Forbidden Planet
 Flix
 Flix
 Indian Railway
-Belo Corp.
+Belo
 MMS
 Concordia College
 The Concordian
@@ -3443,7 +3443,7 @@ Koss
 Trust Bank
 Westpac
 Wales
-UBS AG
+UBS
 UBS Bank
 Crossroads School
 Presidency College
@@ -3547,7 +3547,7 @@ Centennial College
 MOLO
 McKinley High School
 McKinley High School
-Occidental Petroleum (Caledonia) Ltd
+Occidental Petroleum (Caledonia)
 Occidental Petroleum Corporation
 SnoBol
 Universum Film Archiv
@@ -3605,7 +3605,7 @@ John Adams Middle School
 Coeur d'Alene Avenue Elementary School
 The Family
 RTA
-Lilly (Eli) & Co.
+Lilly (Eli)
 CLA
 Communist League of America
 CLA
@@ -3622,7 +3622,7 @@ Central (Ia.) Dutch
 World Press
 OWW
 Virgin Mobile
-Virgin Mobile Holdings (UK) plc
+Virgin Mobile Holdings (UK)
 Maynooth College
 James Powers
 WXIA
@@ -3747,8 +3747,8 @@ Coles
 Indian Institute of Technology Delhi
 DMS (Department of Management Studies), IIT Delhi
 Georgia (U.S. state) Department of Transportation
-Credit Suisse Group AG
-AIB Group (UK) plc
+Credit Suisse Group
+AIB Group (UK)
 Madhouse
 Brixia-Zust
 Brixia-Zust
@@ -3766,7 +3766,7 @@ Shopper's World
 Shoppers World
 Shoppers World
 WMI
-Abbey Auto Engineering Co. Ltd
+Abbey Auto Engineering
 Abbey
 Star TV
 STAR TV
@@ -3941,7 +3941,7 @@ Great Chase
 Riverside Amusement Park
 Riverside Amusement Park
 Reitmans (Canada) Limited
-Reitman's (Canada) Ltd.
+Reitman's (Canada)
 PC World
 PC World
 PC Welt
@@ -3950,7 +3950,7 @@ BAPE
 Xingu
 Kaiser
 KATU
-Forzani Group Ltd.
+Forzani Group
 Universal
 Universal
 Recruit
@@ -4028,7 +4028,7 @@ Universidad de los Andes
 Los Andes University
 University of Andes
 Round Table
-Pioneer Electronics (USA) Inc.
+Pioneer Electronics (USA)
 Pioneer
 3C
 Thomsonfly
@@ -4209,7 +4209,7 @@ Mercury Aircraft
 Xavier College
 Beeline
 Institute for Theoretical Physics
-McKesson Corp.
+McKesson
 Amiga
 AMIGA
 LMS
@@ -4328,7 +4328,7 @@ Augustana (Ill.) Vikings
 Augustana (Illinois) Vikings football
 Autocar
 Academic Building
-Newmont Mining Corp.
+Newmont Mining
 Newmont Mining Corporation
 Telkom
 Loburg
@@ -4447,7 +4447,7 @@ Central Reorganization Committee, CPI
 Central Reorganization Committee, Communist Party of India
 Bank of China (Hong Kong
 Bank of China (Hong Kong) Limited
-BOC Hong Kong (Holdings) Ltd
+BOC Hong Kong (Holdings)
 BOC
 Danubius
 Indiana
@@ -4602,7 +4602,7 @@ Catholic High School
 Catholic High School
 Dartford
 Playland
-Electronic Music Studios (London) Ltd
+Electronic Music Studios (London)
 Bowne
 Pinnacle Entertainment
 West Bend
@@ -4731,7 +4731,7 @@ St. Lawrence & Atlantic Railroad
 St. Lawrence and Atlantic Railroad
 St. Lawrence & Atlantic Railroad
 St. Lawrence and Atlantic Railroad
-Puget Energy Inc.
+Puget Energy
 International Longshore and Warehouse Union
 The International Longshore and Warehouse Union
 National Union of Marine Cooks and Stewards
@@ -4781,7 +4781,7 @@ Federal Protective Service
 Federal Protection Service
 Angel Air
 Angel Airlines
-Ping An Insurance (Group) Company of China, Ltd.
+Ping An Insurance (Group) Company of China
 WLOS
 Club International
 Grey College
@@ -4823,7 +4823,7 @@ Ming Pao Daily News
 Ming Pao
 World Journal News
 Chinavision Canada Corporation
-Cathay International Television Ltd
+Cathay International Television
 Coca-Cola Enterprises
 Coca-Cola Hellenic Bottling Company
 Ãcole nationale supÃ©rieure d'Ã©lectronique, d'Ã©lectrotechnique, d'informatique, d'hydraulique et des tÃ©lÃ©communications
@@ -4884,8 +4884,8 @@ Science Fiction Theater
 Cablevision
 EWTN
 Mutant
-Wimpey(George) plc
-Wimpey (George) plc
+Wimpey(George)
+Wimpey (George)
 Anglo American
 Joker
 Sabra
@@ -4933,7 +4933,7 @@ E!
 University of San Carlos
 Agricultural University
 WCBS-TV
-Focus (DIY) Ltd
+Focus (DIY)
 Focus
 Circa
 Sylvania
@@ -5132,7 +5132,7 @@ Giant Records
 Giant Records
 Bobby Robinson
 FlyBuys
-Transocean Inc.
+Transocean
 Edward R. Roybal High School
 Edward R. Roybal Learning Center
 Minister for Defence
@@ -5160,7 +5160,7 @@ WHN
 SMRT
 Chainsaw
 Digit
-Desert Inn
+Desert
 Embedix
 National Socialist Movement
 Pontifical University of Comillas
@@ -5281,7 +5281,7 @@ Laura Anthony
 Brainpool
 Avianca
 WEA
-Yeti Airlines Domestic (P) Ltd.
+Yeti Airlines Domestic (P)
 Cave
 Cave
 Cave
@@ -5305,7 +5305,7 @@ Rossair
 Skin Deep
 HBJ
 KVBC
-Sealed Air Corp.
+Sealed Air
 Sahara Airlines
 Convergence
 Atlas Comics
@@ -5366,7 +5366,7 @@ International Association for Promotion of Christian Higher Education
 Aerovista Airlines
 National Heritage
 National Heritage Party
-Bhoja Airlines (Pvt) Ltd.
+Bhoja Airlines (Pvt)
 South East Asian Airlines
 University of San Diego High School (USDHS) or Uni
 Eastern Maine Railway
@@ -5474,7 +5474,7 @@ Guthrie
 CNPC
 CNPC
 CPNC (Hong Kong) Limited
-CNPC (Hong Kong) Ltd.
+CNPC (Hong Kong)
 CJG
 Channel 39
 KIAH
@@ -5507,7 +5507,7 @@ Christian Socialist Party
 Atlantic Airlines
 Winair
 Newcastle High School
-Sealink (U.K.) Ltd
+Sealink (U.K.)
 Australians for Constitutional Monarchy
 St. Joseph's Secondary School
 AAA
@@ -5520,7 +5520,7 @@ Communist Party of Colombia
 Partido Comunista de Colombia
 Marmara
 Suncor Energy (U.S.A.) Pipeline Company
-Suncor Energy (U.S.A.) Inc.
+Suncor Energy (U.S.A.)
 Knox College
 Mission San Jose High School
 Raleigh
@@ -5553,7 +5553,7 @@ Doris Taylor
 Hoegaarden
 Forbidden Fruit
 The Blue Streak
-Milkyway Image (HK) Ltd.
+Milkyway Image (HK)
 Wild Life
 The Palladium
 K Factor
@@ -5704,7 +5704,7 @@ People's National Congress
 Ãglise du GesÃ¹
 LCC
 The Cross-Harbour (Holdings) Limited
-The Cross-Harbour (Holdings) Ltd
+The Cross-Harbour (Holdings)
 National Institute of Oceanography
 TBS
 TBS
@@ -5732,7 +5732,7 @@ Partido Comunista Chileno
 PC
 Partido Comunista Revolucionario
 Radio Shack
-The Source (Bell) Electronics Inc.
+The Source (Bell) Electronics
 Faculty of Mechanical Engineering
 Scripps
 Scripps (E. W.) 'A'
@@ -5869,8 +5869,8 @@ NCAA
 Jet Aviation Business Jets (Hong Kong) Limited
 Jet Aviation Business Jets
 BZF
-Jet Aviation Business Jets (Hong Kong) Ltd.
-Jet Aviation Business Jets (Hong Kong) Ltd
+Jet Aviation Business Jets (Hong Kong)
+Jet Aviation Business Jets (Hong Kong)
 Crown (Minnesota) Storm
 Crown (Minn.) Storm
 Crown (MN) Storm
@@ -6120,7 +6120,7 @@ Universita degli Studi Tor Vergata
 Blue Jean
 Manchester High School
 Ricordi
-GoAirlines (India) Pvt. Ltd.
+GoAirlines (India) Pvt.
 Whitney Young High School
 Rive Gauche
 Smiths
@@ -6189,7 +6189,7 @@ KYSR
 National School of Agronomy and Food Industries
 Bob Evans
 Eleanor Roosevelt High School
-The One Laptop Per Child Association, Inc.
+The One Laptop Per Child Association
 WTVC
 York School (Toronto
 ISI
@@ -6463,7 +6463,7 @@ Baldwin High School
 North Allegheny High School
 Center of Science and Industry
 Center of science and industry
-ORIX Auto Leasing (Thailand) Co., Ltd.
+ORIX Auto Leasing (Thailand)
 Billabong
 Four Four Two
 St. Tikhon's Orthodox Theological Seminary
@@ -6590,7 +6590,7 @@ Altenheim Subdivision
 Blind
 Blind
 Sony Music Entertainment
-Sony Music Entertainment (Japan) Inc.
+Sony Music Entertainment (Japan)
 WGMS
 Samsung
 Samsung
@@ -6632,12 +6632,12 @@ Maccabee
 Bible Study Fellowship
 Spirit of the West
 Mushroom Records
-Data Control & Systems (Pvt) Ltd.
+Data Control & Systems (Pvt)
 Western Power
 Tamil Nadu Horticulture Development Agency
 Tamil Nadu State Agricultural Marketing Board
 Tamil Nadu Horticultural Producers Co-operative Enterprises Limited
-Nissan Motor Manufacturing (UK) Ltd
+Nissan Motor Manufacturing (UK)
 Jefferson High School
 CGI
 Oasis
@@ -6648,8 +6648,8 @@ Univ. of Arkansas Comm. College at Batesville
 Jefferson Community College
 Jefferson Community and Technical College
 St. Herman's Orthodox Theological Seminary
-Tayto (NI) Ltd.
-Tayto (NI) Ltd
+Tayto (NI)
+Tayto (NI)
 Yes!
 Au
 Au
@@ -6928,7 +6928,7 @@ ALBA
 Be
 Trinity School
 George Morgan
-Fluor Corp.
+Fluor
 Fluor
 Maurice King
 Frank King
@@ -6977,7 +6977,7 @@ Garfield Senior High School
 Garfield High School
 Garfield Senior High School
 Clayton High School
-The Wharf (Holdings) Ltd.
+The Wharf (Holdings)
 Wharf (Holdings) Limited
 The Wharf (Holdings) Limited
 John Muir High School
@@ -7009,7 +7009,7 @@ Lycee La Fontaine
 Lycee La Fontaine
 Maryville Middle School
 Classe
-Elliott Brothers (London) Ltd
+Elliott Brothers (London)
 Washington High School
 Green School
 Lee High School
@@ -7120,7 +7120,7 @@ WYLL
 Vinnie
 ROOTS
 Spirit AeroSystems
-Spirit AeroSystems (Europe) Ltd.
+Spirit AeroSystems (Europe)
 Durham School
 WZME
 Indian Hills High School
@@ -7155,7 +7155,7 @@ Melrose High School
 KCT
 LBC
 MOL
-Swallow Coachbuilding Co. (1935) Ltd.
+Swallow Coachbuilding Co. (1935)
 Polymancer
 Polymancer
 Mojo Rules System
@@ -7306,7 +7306,7 @@ Heliservices (Hong Kong) Limited
 Ibis Budget
 Caron
 Kawasaki Motors (Phils.) Corporation
-Del Monte Corp.
+Del Monte
 Pantech
 A. Y. Jackson Secondary School
 A. Y. Jackson Secondary School
@@ -7401,7 +7401,7 @@ Canal 7
 Channel 7
 Baptist Bible College
 Baptist Bible College
-Chang'an Automobile (Group) Co Ltd
+Chang'an Automobile (Group)
 Crescent School
 Farrer
 Castle View School
@@ -7414,7 +7414,7 @@ Bogdan
 John F. Kennedy High School
 John F. Kennedy High School
 John F. Kennedy High School
-McAlpine (Alfred) plc
+McAlpine (Alfred)
 George Washington High School
 Parker High School
 University of Pittsburgh
@@ -7608,7 +7608,7 @@ Emmanuel (GA) Lions
 Emmanuel (Ga.) Lions
 Luxembourg Income Study
 Southwest Guilford High School
-South East (Fujian) Motor Co Ltd
+South East (Fujian) Motor
 Furnas
 Furnas
 Eletrobras Furnas
@@ -7623,7 +7623,7 @@ Eleanor Roosevelt High School
 Eleanor Roosevelt High School
 Eleanor Roosevelt High School
 China Resources (Holdings) Company Limited
-China Resources (Holdings) Co., Ltd.
+China Resources (Holdings)
 Gallagher's Steak House
 Festival Records
 John Todd
@@ -7794,7 +7794,7 @@ Philippine Olympic Committee
 The Philippine Olympic Committee
 Tattersall's
 Tattersalls
-Epla Laboratories (Pvt) Ltd.
+Epla Laboratories (Pvt)
 Southern Syria
 Simonsen & Weel (S&W) Medico Teknik, Denmark
 Coastwatch
@@ -7816,7 +7816,7 @@ Jive
 Black Channel
 Partido Social Regionalista
 Partido Social Regionalista
-Namco Bandai Holdings (USA), Inc.
+Namco Bandai Holdings (USA)
 The Phoenix
 Xinhua finance
 Xfmedia
@@ -8001,7 +8001,7 @@ LUSH
 MAUP
 St. Augustine's College
 St. Augustine's College
-Western Ferries (Clyde) Ltd.
+Western Ferries (Clyde)
 Turpin High School
 Turpin High School
 Dutchtown High School
@@ -8044,7 +8044,7 @@ Tally
 Maxim's
 St. Pius X Catholic High School
 Saint Pius X Catholic High School
-John Holt & Co
+John Holt
 Clovis High School
 Mountain View High School
 Mountain View High School
@@ -8232,7 +8232,7 @@ The Pioneer
 The Pioneer
 Ridgewood High School
 Carroll High School
-Alberto-Culver Co.
+Alberto-Culver
 Democratic Party
 Origin Energy
 Tusker
@@ -8380,7 +8380,7 @@ Golden Nugget Atlantic City
 Golden Nugget Atlantic City
 St. Paul's School,
 Spur
-Spur Group (Pty) Ltd
+Spur Group (Pty)
 Tsing Yi Public School
 PLK Tsing Yi Secondary School
 Santa Fe Community College
@@ -8456,7 +8456,7 @@ Ruthless Records
 Derby High School
 Derby High School
 Our Lady Of Nazarath High School
-Konka Electronics (Group) Co., Ltd.
+Konka Electronics (Group)
 Rugby
 Skyview High School
 Atlantic Community High School
@@ -8579,7 +8579,7 @@ St. Andrew's Episcopal School
 Foreign Policy Analysis
 Royal Academy of Art
 Royal Academy of Art
-SemBioSys Genetics Inc.
+SemBioSys Genetics
 Fraser Valley Distance Education School
 Farmers
 Farmers
@@ -8994,7 +8994,7 @@ S&M Simplex
 Telenor
 Western Hills High School (Cincinnati, Ohio
 STX
-Grainger (W.W.) Inc.
+Grainger (W.W.)
 Grainger
 Granite Hills High School
 West Orange High School
@@ -9009,7 +9009,7 @@ Pearl
 Pearl Light
 Morris and Company
 Frontier
-Schein (Henry) Inc.
+Schein (Henry)
 Hispanic Business
 Canyon High School
 Canyon High School
@@ -9146,8 +9146,8 @@ TAJ Productions
 Christian Brothers Academy
 College of Health Sciences
 College of Education and Rehabilitation
-SA Airlink (Pty) Ltd.
-Bombardier Sifang (Qingdao) Transportation Ltd
+SA Airlink (Pty)
+Bombardier Sifang (Qingdao) Transportation
 Sifang Power (Qingdao) Transportation
 St. Mark High School
 St. Joseph's College
@@ -9373,7 +9373,7 @@ International Telegram
 Congress
 Lippincott Williams & Wilkins
 Yes
-D.B.S. Satellite Services (1998) Ltd.
+D.B.S. Satellite Services (1998)
 SHAZAM
 Monterey High School
 L'ecole Brodeur
@@ -9473,7 +9473,7 @@ Campion School
 Colombian Professional football
 Central High School
 International Network for Traditional Building, Architecture & Urbanism
-Athena Co. Ltd.
+Athena
 Chelsea High School
 Rolls Royce (1972) Limited
 Bennett High School
@@ -9499,7 +9499,7 @@ Era
 WFUN-AM
 Scots College
 Queens University
-Creative Programs, Inc.
+Creative Programs
 Yorkshire Terrier
 Washington Afro-American and Washington Tribune
 Sherco
@@ -10408,7 +10408,7 @@ Akshaya Patra
 Sheffield High School
 Lowell Senior High School
 Star Air
-A&r cambridge ltd
+A&r cambridge
 University High School
 Kiev Restaurant
 Kiev Restaurant
@@ -10586,7 +10586,7 @@ Rhodes Department Store
 The Galleria
 Clark Peterson
 Dickheads
-China Merchants Holdings (Int'l) Co. Ltd.
+China Merchants Holdings (Int'l)
 Ashworth
 Houston Refinery
 Orbital Base Station
@@ -10786,7 +10786,7 @@ Evidence Based Nursing
 Bureau Of Investigation
 Bureau of Investigation
 Fairchild
-Fairchild Aircraft Ltd.
+Fairchild Aircraft
 Assumption Catholic Secondary School
 Modern Review
 Linwood College
@@ -11183,7 +11183,7 @@ Eisenhower High School
 South Side High School
 Magellan
 Austintown-Fitch High School
-Hunt(J.B.) Transport Serv Inc.
+Hunt(J.B.) Transport Serv
 Bouzoukia
 St. Elizabeth's Hospital
 Accelerator
@@ -11229,7 +11229,7 @@ Wilson High School
 Woodrow Wilson High School
 Wilson High School (Portland, Oregon
 Woodrow Wilson High School
-Construction Testing and Inspections - CTI Consultants, Inc.
+Construction Testing and Inspections - CTI Consultants
 St Peter's RC Primary School
 Trinity High School
 Modern Man
@@ -11405,7 +11405,7 @@ Black Diamond
 Zak's
 Red Diamond
 Red Diamond
-Cinesite (Europe) Ltd
+Cinesite (Europe)
 Mir Yeshiva
 Mir
 Mir yeshiva
@@ -11695,7 +11695,7 @@ ColÃ©gio Pedro II
 Roosevelt High School
 METRO
 Czechoslovak Society of Arts and Sciences
-Czechoslovak Society of Arts and Sciences, Inc.
+Czechoslovak Society of Arts and Sciences
 WKRI
 WNBK
 BCIHL
@@ -11859,7 +11859,7 @@ Butler County Community College
 Central Catholic High School
 Epoch
 AYI
-Acuity Brands, Inc.
+Acuity Brands
 Permodalan Nasional Berhad
 Amanah Saham Nasional Berhad
 High and Mighty
@@ -12064,7 +12064,7 @@ Smithfield High School
 Rap-Up
 Nathan Hale High School
 Institute of Rural Management Anand
-Shanxi Coking (Group) Co.
+Shanxi Coking (Group)
 Adventure island
 St. Mary's Catholic School
 Shortridge High School
@@ -12617,7 +12617,7 @@ Purvanchal University
 Xavier College Preparatory High School
 Mission College Preparatory High School
 United Airways
-United Airways (BD) Ltd.
+United Airways (BD)
 Rocky Mountain College
 Sports Association of Tasmanian Independent Schools
 HANC
@@ -12792,7 +12792,7 @@ RiSE
 ION
 Hillcrest High School
 Highlands High School
-Bank of New York Mellon Corp.
+Bank of New York Mellon
 Scottish International
 Sacred Heart Catholic School
 Sacred Heart Catholic High School
@@ -12860,7 +12860,7 @@ Communist Party (bolsheviks) of Belorussia
 SUA - Suppression of Unlawful Acts Against the Safety of Maritime Navigation
 Waterford High School
 St. Anthony Elementary School
-Egyptian Association of Canterbury, Inc.
+Egyptian Association of Canterbury
 Egyptian Association of Canterbury
 Paleontology
 Emerson Elementary School
@@ -12914,7 +12914,7 @@ Caritas Academy
 Francis-Barnet
 Francis-Barnett
 Opportunities for a Better Tomorrow
-Netmorf, Inc
+Netmorf
 Philippine Open
 Akademisches Gymnasium
 Star-Gazette
@@ -12954,7 +12954,7 @@ Emissions & Generation Resource Integrated Database
 Junipero Serra High School
 Blow Up
 Oakland Post
-British Motor Corporation (Australia) Pty Ltd
+British Motor Corporation (Australia)
 Robert Forest
 Greenbrier High School
 Murray High School
@@ -13006,7 +13006,7 @@ Kenneth Cole
 Munster Senior League
 Munster Senior League
 Munster Senior League
-ODEL (PVT) LTD
+ODEL (PVT)
 Kobelco
 Socialist Resistance
 Socialist Resistance
@@ -13035,7 +13035,7 @@ OBI
 Serbian Democratic Party
 Serb Democratic Party
 Goose Creek Memorial High School
-Bard (C.R.) Inc.
+Bard (C.R.)
 C.I.P.
 CIP
 Spencer High School
@@ -13067,7 +13067,7 @@ Bonny Doon
 Bonny Doon
 John Paul College
 Moshpit Tragedy Records
-Shanghai Zhenhua Heavy Industry Co., Ltd.
+Shanghai Zhenhua Heavy Industry
 Bear Creek High School
 Grin
 Pyr
@@ -13088,7 +13088,7 @@ Tory (political faction
 Tories
 Torys
 Tory
-Henry Holt and Co.
+Henry Holt and
 Freestream
 Eckington School
 Tente
@@ -13385,7 +13385,7 @@ Cromwell High School
 Hazen High Scool
 The Point
 The Point
-The Daily Observer Company (Gambia) LTD
+The Daily Observer Company (Gambia)
 Marlborough School
 Fred Carr
 Carrington Elementary School
@@ -13511,7 +13511,7 @@ Sumner High School
 Jones Middle School
 Carthage High School
 La Mission
-Henry (Jack) & Assoc.
+Henry (Jack) &
 Welcomgroup Graduate School of Hotel Administration
 La Tour-Blanche
 Osteopathic Family Physician
@@ -13519,8 +13519,8 @@ Wesley College
 Play It Again, Sam
 Play it Again Sam
 Play It Again Sam
-Sa waste holdings (pty) ltd
-SA Waste Holdings (Pty) Ltd
+Sa waste holdings (pty)
+SA Waste Holdings (Pty)
 DxO Optics Pro Standard 4.5.1 (MacOS X) W1BMVDDCW2TFG
 KLMT
 Graduate Institute of International Studies (HEI), Geneva
@@ -13659,7 +13659,7 @@ Fairfield Junior-Senior High School
 Tara High School
 Independence Party
 82nd Regiment of Foot
-Holloway Brothers (London) Ltd.
+Holloway Brothers (London)
 Zigurat
 Made in Spain
 Independance Movement
@@ -13676,9 +13676,9 @@ SVM
 Stored value marketing
 Torres
 Douglass High School
-National Shipping Co.
+National Shipping
 Release
-Ryobi Die Casting (USA), Inc.
+Ryobi Die Casting (USA)
 Monavie
 MonaVie
 Walker High School
@@ -13844,7 +13844,7 @@ HSBC Bank (Panama) SA
 WQED
 Strawberry Frog
 Hillview High School
-Yue Yuen Industrial (Holdings) Ltd
+Yue Yuen Industrial (Holdings)
 The PowerMark Group
 Gila County Sheriff's Office
 Maricopa County Sheriff's Office
@@ -13853,7 +13853,7 @@ Ross
 Heritage Christian Academy
 Biological Psychiatry
 Double-Take
-Zeeland Farm Services, Inc.
+Zeeland Farm Services
 LG
 Bi-Autogo
 Affinium
@@ -13875,8 +13875,8 @@ Walden University
 Kurdish Democratic Party
 Liga NaÈionalÄ
 Liga NaÅ£ionalÄ
-Borders (UK) Ltd.
-Borders (UK) Ltd
+Borders (UK)
+Borders (UK)
 John Glenn High School
 Agel
 People's Unity
@@ -13887,7 +13887,7 @@ Incentive Mentoring Program
 Starmaker
 Charvet
 International Journal of South American Archaeology - IJSA
-Leiths (Scotland) Ltd
+Leiths (Scotland)
 Le DÃŽme
 Leaf Aptus 22(LF7220 )/Hasselblad H1
 Socialist Equality Party
@@ -13900,9 +13900,9 @@ Lincoln County Middle School
 Lincoln County Schools
 Colegio San Agustin
 Atari
-Atari, Inc
-Atari, Inc.
-Atari, Inc.
+Atari
+Atari
+Atari
 Lutheran High School
 The Law Society
 Theodore Roosevelt High School
@@ -13953,7 +13953,7 @@ Immanuel Lutheran College
 MiÅcarea DemocraticÇ
 Marea Adunare NaÅ£ionalÇ
 Atlanta History
-Focus Films Ltd.
+Focus Films
 Focus Films
 Leroy (Roy) M. Cox
 Edward Howard
@@ -14021,7 +14021,7 @@ Saint Thomas University
 Saint Thomas University
 Roosevelt Science High School
 Lake View High School
-Voluntary Protection Programs Participants' Association, Inc.
+Voluntary Protection Programs Participants' Association
 Science Focus Program
 Piaui
 School of the Arts
@@ -14036,7 +14036,7 @@ University of Kurdistan
 Education TV
 Tom Terry
 New Voices
-Clear Sky Radio Inc.
+Clear Sky Radio
 S.B.I.O.A Model Matric. & Hr. Sec. School
 Christ School
 Santa Cruz High School
@@ -14263,7 +14263,7 @@ SSVP
 Emmaus College
 Emmaus College
 San Bernardino County Sheriff's Department
-China Northern Locomotive & Rolling Stock Industry (Group) Corp
+China Northern Locomotive & Rolling Stock Industry (Group)
 China Northern Locomotive and Rolling Stock Industry (Group) Corporation
 China North Locomotive and Rolling Stock Industry (Group) Corporation
 Anonima Italiana Petroli
@@ -14306,13 +14306,13 @@ American Academy of Hospice and Palliative Medicine
 EUCLID
 EUCLID
 EUCLID
-Sony of Canada Ltd
+Sony of Canada
 Tim Johnston
 National Aviation University
 Pingus
 Washington High School
 Open Core Protocol International Partnership Association
-Power Jets (Research and Development) Ltd.
+Power Jets (Research and Development)
 The Edge
 THE EDGE
 EDGE
@@ -14328,8 +14328,8 @@ Children's Hospital of Orange County
 Children's Medical Center (Dallas
 Pelham Bay General Hospital
 The Washington National Opera
-ITtex, (Guernsey) Ltd
-ITtex exchange, (Jersey) Ltd
+ITtex, (Guernsey)
+ITtex exchange, (Jersey)
 Zong
 China Mobile
 Wimpy
@@ -14346,7 +14346,7 @@ Mid-State Conference (IHSAA)/version 2
 Urban Design Group
 Kulim(m)berhad
 Epos
-SPI (Australia) Assets Pty Ltd
+SPI (Australia) Assets
 SPI (Australia) Assets
 Seven Society
 Olympic Conference
@@ -14385,7 +14385,7 @@ The Africa Policy Information Center
 Redress
 Young House
 Birkdale High School
-BGR Energy Systems Ltd
+BGR Energy Systems
 Chris Wright
 Lifa
 Hammes Company
@@ -14406,8 +14406,8 @@ Scientific Reyada School
 Summer Institute of Linguistics
 Instituto Linguistico de Verano
 St Paul's Cathedral School
-Audience Measurement and Analytics Ltd.
-Audience Measurement and Analytics Ltd.
+Audience Measurement and Analytics
+Audience Measurement and Analytics
 Movement for Democratic Change
 Movement for Democratic Change
 Movement for Democratic Change
@@ -14555,7 +14555,7 @@ Solungen
 Kicker
 MahaRaja's Boys' High School
 Daily Tribune
-Alexander Robertson and Sons Ltd
+Alexander Robertson and Sons
 Elepaio
 Prva HNL Juniori
 The Record-Courier
@@ -14568,7 +14568,7 @@ Gleaner
 The Associated British Oil Engine Company
 Associated British Oil Engine Company
 National Institute of Bank Management
-Urban Ministries, Inc.
+Urban Ministries
 The News Herald
 Guardia Nacional
 The Times-News
@@ -14583,14 +14583,14 @@ Congress of the People
 Ruggles
 Ministry of Interior
 Klick
-Quotable Value Ltd
+Quotable Value
 Eureka
 Lumiere
 Elizabeth Shaw
 Midlothian High School
 Soul City Records
 West Coast League
-Hunter Boot Ltd.
+Hunter Boot
 Wismut
 All Saints Catholic School
 Alta Partners
@@ -14599,7 +14599,7 @@ Keene High School
 Astralis
 Clarendon Hills
 Tecnologia Automotiva Catarinense
-Khanani and Kalia International (Pvt.) Ltd.
+Khanani and Kalia International (Pvt.)
 Animal genetics
 Animal Genetics
 Del Valle
@@ -14736,7 +14736,7 @@ Semanatorul
 SemÄnÄtorul
 Allied American University
 Primera Hora
-Philippine Rabbit Bus Lines, Inc
+Philippine Rabbit Bus Lines
 Vorwarts
 Washington Irving Middle School
 Washington Irving Middle School
@@ -14790,7 +14790,7 @@ Emtunga
 Acta paediatrica
 Acta paediatrica (Oslo, Norway : 1992). Supplement
 Acta Paediatrica
-Bharti Airtel Lanka (Pvt) Ltd.
+Bharti Airtel Lanka (Pvt)
 Wheeling and Lake Erie Railway
 Wheeling and Lake Erie Railroad
 Wheeling and Lake Erie Railway
@@ -14833,7 +14833,7 @@ Sky Vegas
 Sky Vegas
 Departments of Business Management
 US Geospatial Intelligence Foundation
-Lloyds Banking Group PLC
+Lloyds Banking Group
 Snohomish County Public Utility District
 Lilienfelder Hof
 Lilienfelder Hof
@@ -14886,7 +14886,7 @@ Goldsmiths
 AKF
 Premiair
 Bharatiya Gorkhali Welfare Association
-Dickson Concepts (International) Ltd.
+Dickson Concepts (International)
 L.e.i.
 Psychosomatic Medicine
 Oghma
@@ -14941,7 +14941,7 @@ Progress of Theoretical Physics
 Alex English
 Crawford High School
 Dachan Food (Asia) Limited
-WIZZIT Payments (Pty) Ltd
+WIZZIT Payments (Pty)
 Foodworks
 Henley College
 Uttara Foods and Feeds
@@ -14949,7 +14949,7 @@ Spirit and Life
 Geist und Leben
 Ragstock
 Reliance Insurance
-Reliance Insurance Co.
+Reliance Insurance
 Better Living Together
 Party of Labour of Iran
 Marxist-Leninist Organization Tufan
@@ -15047,7 +15047,7 @@ Heritage High
 Heritage High School
 San Carlos High School
 Charis School
-Zishan Engineers (Pvt) Ltd
+Zishan Engineers (Pvt)
 Sexually Transmitted Infections (STI) Journal
 Natural History Museum
 THE UNIVERSITY NETWORK OF THE EUROPEAN CAPITALS OF CULTURE
@@ -15060,7 +15060,7 @@ St. Joseph's Convent
 National League
 Republican Party Of India
 White Wolf
-Clelands (Successors) Ltd
+Clelands (Successors)
 John Graham, Jr.
 Aarupadai Veedu Medical College
 Worldwide Responsible Accredited Production
@@ -15098,7 +15098,7 @@ Universidad del Pacifico
 Kapo
 Lincoln High School
 Temple Christian School (Titusville, Florida
-The Mortgage Works (UK) plc
+The Mortgage Works (UK)
 Central College
 Informatics
 St. Paul University
@@ -15138,12 +15138,12 @@ La Minerve
 Universidad de CÃ³rdoba
 Universidad de Cordoba
 Nordic Journal of English Studies
-CK Life Sciences International (Holdings) Inc.
+CK Life Sciences International (Holdings)
 CK Life Sciences International
 Philippine Sports Association of the Differently Abled - (PHILSPADA) - NPC Philippines
 Rolling Stock of the Kent & East Sussex Railway
 De Bug
-Hong Kong Ferry (Holdings) Co. Ltd.
+Hong Kong Ferry (Holdings)
 Hong Kong Ferry (Holdings) Company Limited
 The American Council for an Energy-Efficient Economy
 Atlantic Coast Hockey League

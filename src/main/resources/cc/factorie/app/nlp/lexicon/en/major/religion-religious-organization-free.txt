@@ -2175,7 +2175,7 @@ s.s.j.
 ''episcopalian''
 sacred congregation of studies
 ba ealawiyyah
-american atheists, inc.
+american atheists
 oblates of saint joseph
 armed forces of great britain
 diskin orphanage
@@ -4075,7 +4075,7 @@ good friars
 roman apostolic catholic religion
 syrian catholic patriarch of antioch and all the east
 tibetan-style
-united israel appeal, inc.
+united israel appeal
 the order of preachers (dominican order)
 doctrine of the faith
 pure evangelical faith

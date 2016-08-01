@@ -1071,7 +1071,7 @@ third college
 han schools
 the royal military college of woolwich
 richland community college
-whitman education group, inc.
+whitman education group
 seattle prep panthers
 girls to attend school
 new hanover county high school
@@ -4886,7 +4886,7 @@ university of maine's
 sugar land high school
 trinity college chapel choir
 tosu
-hybrid electric vehicle technologies, inc
+hybrid electric vehicle technologies
 lockport central
 francis howell high school
 han chiang college
@@ -10360,7 +10360,7 @@ king saud university
 st. alban at valladolid
 university of haute-alsace
 bauman mstu
-queensland girls' secondary schools sports association inc
+queensland girls' secondary schools sports association
 vladivostok sea school of far navigation
 stanfurd
 heriot watt
@@ -10661,7 +10661,7 @@ notre dame high school (burlington, iowa)
 uw-la crosse
 st georgeas hospital, london
 kalyani mahavidyalaya
-itt educational services, inc.
+itt educational services
 mirabeau lamar high school
 usc
 louisiana polytechnic institute
@@ -11402,7 +11402,7 @@ concordia college minnesota
 john randolph tucker high school
 university of kentucky college of medicine
 patrician brothers' college, blacktown
-aptech ltd.
+aptech
 red cloud indian school
 william esper studio
 crossroads school for arts and sciences
@@ -13151,7 +13151,7 @@ pebblebrook falcons
 astor secondary school
 calcutta university law college
 amboy high school
-trinity schools, inc.
+trinity schools
 hochschule fur musik freiburg
 brighton polytechnic
 school of mines at columbia university
@@ -13646,7 +13646,7 @@ university of wisconsin board of regents
 lady harding medical college and hospital
 autonomous university of queretaro
 american college of chest physicians
-strayer education, inc.
+strayer education
 west virginia state
 exhall grange school and science college
 lawrence college, murree
@@ -16214,7 +16214,7 @@ bloxham school
 university of buckingham press
 peterhouse in the university of cambridge
 gordon-conwell
-aptech ltd
+aptech
 westview elementary school (winnipeg)
 unm anderson school of management
 the pennsylvania academy of fine arts
@@ -19596,7 +19596,7 @@ columbian university
 hillcrest school and community college
 university of texas southwestern
 media design school
-dps international school pte ltd
+dps international school pte
 bijupattanaik university of technology
 pontifical academy of ecclesiastical nobles
 carl harrison high school
@@ -19956,7 +19956,7 @@ kumon leysin academy of switzerland
 queen's grant high school
 teacher training institutions
 minsthorpe high school
-king's inn
+king's
 ucsb college of engineering
 st xavier college
 central college of finance
@@ -20685,7 +20685,7 @@ saskatchewan university
 gik institute of engineering sciences technology
 graduate school of public health
 lambrick park secondary school
-university of denver, co
+university of denver
 central crossing
 kirkley community high school
 westmont hilltop high school (johnstown, pennsylvania)
@@ -21527,7 +21527,7 @@ julius hartt school of music
 st. xavier's college, calcutta
 ural state conservatory
 sycamore high school
-google, inc
+google
 eton school
 alagappa college of technology
 center for research and communication
@@ -21818,7 +21818,7 @@ top gun
 valley springs high school
 school of osteopathic medicine
 guangzhou institute of fine arts
-mckinsey and co.
+mckinsey and
 al-beroni university
 orleans correctional facility
 christian heritage academy
@@ -29992,7 +29992,7 @@ centenary heights state high school
 toulon high school
 adobe mountain school
 central university of jammu
-wissahickon inn
+wissahickon
 bromley technical high school
 mercer county high school
 royal university of malta
@@ -32352,7 +32352,7 @@ liu
 shreemati nathibai damodar thackersey women's university
 california (disambiguation)
 columbia college for women
-orange co
+orange
 cetis (centro de estudios tecnolagicos industrial y de servicios)
 mount carmel academy
 osaka shin-ai college
@@ -37431,7 +37431,7 @@ wheaton college in illinois
 central high school (detroit)
 nong lam university
 herberger college of the arts
-google inc.
+google
 chittagong collegiate school
 oxfordas
 saint gilbert school
@@ -40255,7 +40255,7 @@ oriental college, lahore
 bournemouth arts college
 mississippi valley state university's
 gayhurst
-apollo education group inc.
+apollo education group
 creighton law school
 seaside high school (oregon)
 sharon oster
@@ -41019,7 +41019,7 @@ metropolitan avenue public school campus
 master of laws in cross-cultural business practice
 kyoritsu women's junior college
 symbiosis law school, pune (sls, pune) symbiosis law school, noida (sls, noida)
-de la salle-professional schools, inc.
+de la salle-professional schools
 candlewood elementary school (derwood, maryland)
 albany college of pharmacy and health science
 ho chi minh university of industry
@@ -42290,7 +42290,7 @@ international school (buffalo, new york)
 kimberley boys' high school
 lehigh valley christian
 east pennsboro
-silay institute, inc.
+silay institute
 asu-newport
 simon fraser elementary school
 university of music in stuttgart
@@ -44161,7 +44161,7 @@ bengals
 montgomery blair
 r. a.
 hopkins medical school
-riviera beach (fl) suncoast co.
+riviera beach (fl) suncoast
 clementi middle school
 london school of medicine
 the vanguard school (colorado)
@@ -44837,7 +44837,7 @@ central institute of mining and fuel research
 red wing technical college
 jacksonville state
 asian development research institute
-kaplan, inc.
+kaplan
 agsv schools
 rock creek junior/senior high school
 cambridge barracks, portsmouth
@@ -45137,7 +45137,7 @@ university of science and technology
 bishop kelley
 touro university nevada college of osteopathic medicine
 crown college (tennessee)
-rmit international university holdings pty. ltd.
+rmit international university holdings
 the cathedral school of st. john the divine (new york city)
 sukhothai thammathirat open university
 kochi university of technology
@@ -46805,7 +46805,7 @@ the blue coat school, dudley
 st. mary's town and country school
 islamic university in gaza
 duchesne academy of the sacred heart in omaha
-john b. lacson colleges foundation-bacolod, inc.
+john b. lacson colleges foundation-bacolod
 simpson bible college
 london school for film techniques
 the sentinel, the military college of south carolina
@@ -47833,7 +47833,7 @@ los angeles (calif.) high school
 mayerthorpe jr/sr high school
 pine creek high school
 k.c.t. engineering college
-great northern way campus ltd
+great northern way campus
 technion-israel institute of technology
 cal tech
 chang'an (disambiguation)
@@ -49030,7 +49030,7 @@ society's international seminary
 united states army ranger school
 st. mildred's-lightbourn school
 university academy warrington
-google, inc.
+google
 mathematical sciences foundation, delhi
 american conservatory theater school
 bukkyo university
@@ -56933,7 +56933,7 @@ university of san raffaele vita-salute
 christian fellowship school
 palisades park high school
 universita d'auvergne
-mayes education inc
+mayes education
 manhattanville convent of the sacred heart
 rostov university
 mount carmel - blytheswood public school
@@ -57553,7 +57553,7 @@ give center west
 stilklassen
 bergvliet primary school
 bexley
-rhodes colleges, inc.
+rhodes colleges
 howard payne university yellow jackets
 saybrook
 california state university in los angeles
@@ -58393,7 +58393,7 @@ city of london college
 ymca university of science and technology
 pebblebrook high school
 uah
-cisco systems inc
+cisco systems
 newport news apprentice school
 university of san diego school of law
 pittsburg state gorillas football
@@ -59011,7 +59011,7 @@ cambridge judge business school
 kempner high school
 dublin it
 menzies school of health research
-mckinsey and co
+mckinsey and
 chaminade college prep
 sekolah menengah kebangsaan bukit bandaraya
 ucf (disambiguation)
@@ -59835,7 +59835,7 @@ albany state college golden rams
 police vehicles in taiwan
 the maine college of art
 st patrick's college (wellington)
-cisco systems, inc
+cisco systems
 university in bournemouth
 lowell state
 russel group
@@ -59878,7 +59878,7 @@ universidad iberoamericana (unibe)
 university of magnaura
 high achievement academy
 miami-jacobs career college
-bridgepoint education, inc.
+bridgepoint education
 serangoon secondary school
 netherthorpe grammar school
 true light middle school of hong kong
@@ -60350,7 +60350,7 @@ regional technical college, waterford
 marburg (disambiguation)
 blue ridge community college
 kansas city central high school
-desilu productions, inc.
+desilu productions
 265 u.s. 57
 hejaaz international school
 selinsgrove area intermediate school
@@ -61138,7 +61138,7 @@ steubenville
 shevah mofet
 wisconsin state college
 st peter's catholic comprehensive school
-the associated board of the royal schools of music (publishing) ltd.
+the associated board of the royal schools of music (publishing)
 universidade lusaada de lisboa
 georgia tech lorraine
 hill murray
@@ -64433,7 +64433,7 @@ sri sathya sai higher secondary school
 lessius hogeschool
 anderson institute
 universidad autonoma del estado de morelos
-kern co
+kern
 the woman's college of the university of north carolina
 helsinki finnish upper secondary school
 state university of music and performing arts stuttgart
@@ -64918,7 +64918,7 @@ natomas h.s. event center
 ben shemen agricultural school
 la martinere school
 sydney faculty of education and social work
-great public schools' association inc
+great public schools' association
 trimble tech
 kaist business school
 koya university
@@ -66004,7 +66004,7 @@ faculty of law, university of belgrade
 yavneh day school
 christopher whitehead language college
 montgomery college president
-google inc
+google
 instituto de banca y comercio
 hereworth school
 ntnu
@@ -66868,7 +66868,7 @@ louisiana state university agricultural center
 cms, station road branch
 wickliffe
 academy of fine arts of naples
-career education corp
+career education
 arlington heights, va.
 shaw high school (georgia)
 tucker high school
@@ -72170,7 +72170,7 @@ paarl boys' high school
 ebs law school
 goderich district collegiate institute
 max planck institute for biophysical chemistry (karl friedrich bonhoeffer institute)
-philippine college of health sciences, inc.
+philippine college of health sciences
 maryland institute school of art and design
 henry b. tippie college of business
 chonnam national university
@@ -72254,7 +72254,7 @@ xavier college (melbourne)
 sharjah university city
 royal holloway, london university
 bornova anadolu lisesi
-orangeburg preparatory schools, inc.
+orangeburg preparatory schools
 lake state
 school of planning and architecture, new delhi
 valle verde early college high school
@@ -74139,7 +74139,7 @@ eden mohila college, dhaka
 college misericordia
 sagar mahavidyalaya
 meyersdale area high school
-waynesboro (ga) burke co.
+waynesboro (ga) burke
 warsaw academy
 berkeley high school (california)
 liu c.w. post
@@ -76826,7 +76826,7 @@ iipa
 university of yale
 australian college of physical education
 faculty of engineering in belgrade
-st. therese educational foundation of tacloban, inc.
+st. therese educational foundation of tacloban
 shenandoah university
 royal borough of windsor
 mandhu college
@@ -76944,7 +76944,7 @@ west chester university golden rams marching band
 marion county high school (kentucky)
 willamette
 roosevelt middle school (oakland, california)
-drik picture library ltd.
+drik picture library
 gurukul kangri vishwavidyalaya
 new albany high school
 f.i.t.
@@ -79472,7 +79472,7 @@ loomis chaffee school
 county of armagh
 narsinh govindrao vartak high school
 uscaspartanburg
-kaplan inc.
+kaplan
 northwestern preparatory school
 national dali senior high school
 back river (disambiguation)
@@ -80368,7 +80368,7 @@ crane mustangs
 jinnah polytechnic institute
 polytech'savoie
 kiac school of visual arts
-art instruction, inc.
+art instruction
 pennsbury falcons
 school of industrial engineering of barcelona
 windsor high school (virginia)
@@ -81503,7 +81503,7 @@ koguryeo college
 memorial middle school (houston, texas)
 conservatoire russe de paris serge rachmaninoff
 sri siddhartha institute of technology
-delphi schools, inc.
+delphi schools
 arcadia high school (wisconsin)
 roma tre university
 monticello seminary
@@ -82191,7 +82191,7 @@ balagarh bijoy krishna mahavidyalaya
 hammond high school (louisiana)
 round top-carmine high school
 streatham clapham high school gdst
-delphi schools inc.
+delphi schools
 514 u.s. 938
 adelphi university's
 rsmas
@@ -85239,7 +85239,7 @@ satyawati college
 texas wesleyan
 the laidlaw memorial school, ketti
 thurrock technical college
-kaplan, inc
+kaplan
 vivekananda tamil school
 luther college (victoria)
 loyola university in los angeles
@@ -85366,7 +85366,7 @@ canadian academy of arts
 albert-ludwigs-universitaet freiburg
 ely high school
 international institute of technology
-cisco systems, inc.
+cisco systems
 christ the king seminary
 mcdonough school of business
 natchitoches high school
@@ -85829,7 +85829,7 @@ central catholic high school (grand island, nebraska)
 bishops college school
 new hope high school
 dry ridge
-fort lewis, co
+fort lewis
 city of jersey
 southwest united university
 unb fredericton
@@ -87484,7 +87484,7 @@ vishvabharati university
 saginaw heritage
 yale university's school of music
 willowridge high school (houston)
-the college inn
+the college
 higher courses of study (aukatieji kursai)
 sacramento state
 animo south los angeles charter high school
@@ -88761,7 +88761,7 @@ ethical culture and fieldston schools
 yeshiva of nitra
 delaware state
 van hall larenstein
-capella education co.
+capella education
 s. k. h. tsang shiu tim secondary school
 dartford technology college
 shawnee mission west
@@ -89471,7 +89471,7 @@ joanna wozniak
 silver spring, md.
 northumbria university city campus
 semiahmoo trail elementary school
-cisco systems inc.
+cisco systems
 landry-walker college and career preparatory high school
 london's central saint martins art school
 pocklington grammar school
@@ -95193,7 +95193,7 @@ royal belfast college
 university of krakau
 u.s. industrial college of the armed forces
 saint charles college
-elwyn inc.
+elwyn
 crosswinds (disambiguation)
 instituto cultural tampico
 sanghamitta balika vidyalaya
@@ -95415,7 +95415,7 @@ days creek wolves
 bismarck high school
 20 mich. 452
 gymnasium querfurt
-saint vincent's academy of apalit pampanga inc.
+saint vincent's academy of apalit pampanga
 royal school of hawaii
 university of mendoza
 national academy,
@@ -98728,7 +98728,7 @@ earl warren college
 frank c. munson institute of american maritime studies
 tameer-e-nau public college, quetta
 california state university, long beach (csulb)
-guardian angel school inc.
+guardian angel school
 west virginia university school of dentistry
 thomas w. harvey high school
 t. h. williams high school
@@ -100232,7 +100232,7 @@ christian academy
 ernestown secondary school
 riverside high school (el paso, texas)
 holyrood secondary school
-great public schools association of queensland inc
+great public schools association of queensland
 allentown high school
 mahaveer jain college
 north shields
@@ -102317,7 +102317,7 @@ cypress springs
 institute of sacred music
 wilmington high school (massachusetts)
 brick (disambiguation)
-holy child college of davao, inc.
+holy child college of davao
 sky (disambiguation)
 punjab international public high school
 institute for the study of muslim civilisations
@@ -104067,7 +104067,7 @@ local methodist boys' school
 marian school board
 university of the federal armed forces munich
 itasca community college
-google india pvt. ltd.
+google india pvt.
 toros university
 university of the republic, uruguay
 south pasadena high school
@@ -104796,7 +104796,7 @@ avon old farms
 kobe city college of nursing
 pushkin (disambiguation)
 pleasant valley high school (alabama)
-ob montessori center inc.
+ob montessori center
 erwin technical center
 parsons college
 kashan university of medical sciences
@@ -107275,7 +107275,7 @@ royal liberty grammar school
 bicol university tabaco campus
 burntwood school
 norfolk, massachusetts
-kaplan inc
+kaplan
 kiev aviation institute
 eclectika
 lincoln high school (portland, oregon)
@@ -108103,7 +108103,7 @@ faith bible falcons
 east side hebrew institute
 ionian academy
 kazi nazrul islam mahavidyalaya
-associated universities, inc
+associated universities
 elk mound high school
 huber heights, ohio
 gordon's college
@@ -109346,7 +109346,7 @@ berlin collegiate and technical institute
 caloocan
 homewood-flossmoor community high school
 yangon international educare center
-mckinsey co.
+mckinsey
 bishop thomas francis hendricken high school
 tullabeg, co. offaly
 dance academy (tilburg)
@@ -111379,7 +111379,7 @@ williamstown high school (west virginia)
 santa croce (disambiguation)
 kolbe catholic college, rockingham
 deacon's school
-queen margaret's school, york ltd
+queen margaret's school, york
 st leonard's school
 loras college (iowa)
 glen eyre high school
@@ -114743,7 +114743,7 @@ mount saint agnes college
 smk hamid khan
 juan diego catholic high school
 chung chi college
-riverside college, inc.
+riverside college
 liu brooklyn
 wharton school of economics
 university project in charlottesville
@@ -118021,7 +118021,7 @@ russian academy of the arts
 polytechnic university of catalonia (upc)
 14 t.c. 635
 chelsea college of arts
-associated universities, inc.
+associated universities
 socastee high school
 ogden-weber applied technology college
 iona college (havelock north)
@@ -118532,7 +118532,7 @@ hospital corps school
 st. modan's roman catholic high school
 robert (disambiguation)
 anton de kom university of suriname
-apollo group inc.
+apollo group
 west point military academy
 united states naval postgraduate school
 central academy of drama
@@ -121178,7 +121178,7 @@ balliol college's
 g. h. patel college of engineering and technology
 st. george's college, jerusalem
 john paul stevens high school
-great public schools association of queensland inc.
+great public schools association of queensland
 baptist health
 parkville school
 california pacific school of theology
@@ -123147,7 +123147,7 @@ pnca
 gujarat technological university
 technikon southern africa
 st mary's anglican girls' school
-stanley h. kaplan co.
+stanley h. kaplan
 dimitrie cantemir (disambiguation)
 castle view high school
 fellow of king's college london
@@ -125994,7 +125994,7 @@ fishkill correctional facility
 cotter high school
 colorado technical university
 dublin art school
-university athletic association, inc.
+university athletic association
 royal scottish academy of music and dramatic art
 donald bren school of information and computer sciences
 rhythmic music conservatory
@@ -128903,7 +128903,7 @@ tresham college
 citv (disambiguation)
 d j science college
 bridgeport university
-devry inc.
+devry
 university of mississippi medical center school of dentistry
 brannock high school
 rocky mountain high school (colorado)
@@ -133672,7 +133672,7 @@ azerbaijan state institute of petroleum and chemistry
 sharon regional health system
 balmain east, new south wales
 national university of gabon
-notre dame of cotabato, inc.
+notre dame of cotabato
 towson university
 institute of human virology
 nikolaevsky engineering academy

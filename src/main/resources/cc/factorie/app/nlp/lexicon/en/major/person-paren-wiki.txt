@@ -8,7 +8,7 @@ BT
 Bob Young
 Chris Morris
 Charles Baxter
-Constantine II
+Constantine
 Chuck Smith
 Kelly Johnson
 David Thompson
@@ -39,7 +39,7 @@ Paul Cohen
 Peter Jones
 Pribislav
 Peter Carey
-Pope Theodore II
+Pope Theodore
 Robert Chambers
 Rocca
 Anastasius I
@@ -259,7 +259,7 @@ Ray Burke
 Thomas Ball
 Mark Lawrence
 Helena
-Constantine III
+Constantine
 Christy Martin
 Dave Williams
 Joe Jackson
@@ -705,10 +705,10 @@ William Thomson
 William Magee
 John Lind
 David Oldfield
-Leo II
+Leo
 Derek Simpson
 Luis Gonzalez
-Constantine III
+Constantine
 Antonio García López
 Roger Fisher
 Alexander
@@ -3108,7 +3108,7 @@ Stanisław Poniatowski
 Jimmie Rodgers
 Tom Boyd
 Jimmie Rodgers
-Constans II
+Constans
 Thomas Harris
 Harry Carey
 Charles Hayward
@@ -5201,8 +5201,8 @@ Charles Eliot
 Edward Thomas
 Sam Williams
 Tom Knight
-Antipope Victor IV
-Antipope Victor IV
+Antipope Victor
+Antipope Victor
 Mike Kelley
 Ulpius Marcellus
 Rick White
@@ -6328,7 +6328,7 @@ William Cowper
 Thomas Turner
 Michael Barrett
 David Collins
-John Lowell, Jr.
+John Lowell
 William Laxton
 Robert McBride
 Countess Maria of Nassau
@@ -6928,8 +6928,8 @@ John Fleming
 Robert Ford
 Lou Jones
 Earl Young
-Artabanus II
-Artabanus IV
+Artabanus
+Artabanus
 Artabanus V
 Samuel Merrill
 Robert Ouko
@@ -6949,7 +6949,7 @@ Drake
 John Glover
 Milton Wright
 Cecil King
-Artabanus III
+Artabanus
 John Russell
 Denis Murphy
 Arthur Thompson
@@ -9140,7 +9140,7 @@ Arthur Horner
 David Prior
 David Prior
 Charles Murphy
-William Clark, Jr.
+William Clark
 Samuel Loomis
 Brian Murphy
 Scott Lucas
@@ -9308,7 +9308,7 @@ Harry Parker
 Phil Moore
 Jason Lewis
 José Dolores Estrada
-Adam Clayton Powell IV
+Adam Clayton Powell
 Fan Ye
 William Thomson
 Liu Xuan
@@ -9425,10 +9425,10 @@ James Craig
 Jean LeClerc
 Kassa
 Suleyman
-Maghan II
+Maghan
 Sandaki
 Trevor Morgan
-Maghan III
+Maghan
 Gao
 Mohammed ibn Gao
 Adam Greenberg
@@ -10192,7 +10192,7 @@ Juan Carlos Navarro
 Scott Taylor
 Romanus
 Gregory
-Theodore II
+Theodore
 Paul Rodriguez
 Theophylactus
 Scott Brown
@@ -11140,7 +11140,7 @@ Eric Edwards
 David May
 Alan Fletcher
 Robert Fuller
-Abd al-Malik II
+Abd al-Malik
 Beth Morgan
 Henry Thomas
 Zhang Lin
@@ -12481,7 +12481,7 @@ Tyler Walker
 Thomas O'Malley
 Brandon Miller
 Sean McManus
-Robert II
+Robert
 George Graham
 Tim James
 William Daniel
@@ -13626,7 +13626,7 @@ John Church
 Steve Rogers
 Patrick Côté
 Jan de Vries
-Wilfrid II
+Wilfrid
 Stephen Dixon
 Gerry Reynolds
 Martin Knudsen
@@ -16779,7 +16779,7 @@ Yang Yang
 David Hughes
 Paul Hirsch
 Murph
-John Kerr, Jr.
+John Kerr
 Simon Clark
 Gary Martin
 Joan Bauer
@@ -17306,7 +17306,7 @@ Philip Russell
 Antonio Lombardo
 John Wilson
 Henry Cooke
-John Wilson Jr.
+John Wilson
 Harry Foster
 Christen Christensen
 James Richardson
@@ -18082,7 +18082,7 @@ Bill Briggs
 Jim Shaw
 Jerry York
 James Baxter
-John Kerr, Jr.
+John Kerr
 Dan Jones
 Victoria Longley
 Andrew Clarke
@@ -18124,7 +18124,7 @@ Motilal
 George Allan
 Chris Lawrence
 Thomas Mitchell
-Richard III
+Richard
 Mohamed Omer
 Margaret Smith
 Bill Irwin
@@ -19472,7 +19472,7 @@ John Brant
 Daniel Bennett
 Francis Charteris
 Bruce Murray
-James Taylor, Jr.
+James Taylor
 Nicky Robinson
 Michael Gibson
 Keith Robinson
@@ -19934,7 +19934,7 @@ John Rooney
 Alfonso, Prince of Asturias
 Zouzou
 Ricardo González
-Robert Richardson, Jr.
+Robert Richardson
 Richard Green
 Ricardo Costa
 Ricardo Costa
@@ -20081,7 +20081,7 @@ Paul Warwick
 Fred Mitchell
 Emil Fuchs
 Brian Ford
-Máel Ísu II
+Máel Ísu
 Bob Price
 Steve Brown
 Richard Smith
@@ -20239,7 +20239,7 @@ Adrian Ilie
 James Robertson
 Alan Wilson
 Graham Nash
-John Foster, Sr.
+John Foster
 John Blundell
 William Hewson
 David Llewellyn
@@ -20396,8 +20396,8 @@ Ian Ross
 Paul Jackson
 Jim Rhodes
 Richard Peck
-Gebhard III
-Gebhard II
+Gebhard
+Gebhard
 Gebhard I
 Joseph Johnson
 Santiago Álvarez
@@ -22672,7 +22672,7 @@ Frank Caprio
 Neil Macfarlane
 Gao Yao
 John Sutcliffe
-John IV
+John
 Kevin Brock
 Athanasius I
 Walter Johnson
@@ -25482,8 +25482,8 @@ David Lane
 Daniel Ross
 Simon Meredith
 Herman I
-Herman II
-Frederick II
+Herman
+Frederick
 Chris Hicks
 Richard Jobson
 Ken Nicol
@@ -25931,7 +25931,7 @@ Scott Murray
 David Griffiths
 Edward Dunn
 David Arnold
-John Kennedy, Jr.
+John Kennedy
 Lee Richardson
 Chris Willmott
 John Mackay
@@ -27929,7 +27929,7 @@ Jim Northrup
 Kevin Spencer
 James Graham
 Dan Hicks
-Anselm IV
+Anselm
 Bill Stewart
 Tcheco
 Tommy Jones
@@ -28004,7 +28004,7 @@ Robert Ray
 Mike Lawrence
 Derrick Hamilton
 Jason Gavin
-Anselm III
+Anselm
 Chuck Rosenthal
 William Bickford
 Thomas Taylor
@@ -28095,7 +28095,7 @@ Charles Ashton
 Jason Stephens
 Giovanni Visconti
 William L. Nelson
-Arnulf III
+Arnulf
 Jim Brown
 Stephen Jones
 Damien Smith
@@ -28385,7 +28385,7 @@ Rocky Thompson
 Colin McDonald
 Robert Lindsey
 Zhu Yi
-Geoffrey II
+Geoffrey
 John Button
 Hisashi
 Nina Li
@@ -28502,7 +28502,7 @@ William Reid
 Thomas Pope
 Tip O'Neill
 Ibrahim Hussein
-Anselm II
+Anselm
 Steve Little
 Iakovos
 Geoff Smith
@@ -28648,7 +28648,7 @@ Bobby Clark
 William Thomas
 Abdul Karim
 John Barnes
-Bohemond II
+Bohemond
 Clive Clark
 Charles Jones
 Peter Bowler
@@ -29261,7 +29261,7 @@ Daniel Webb
 Fred Wampler
 David Wenham
 Daniel Warner
-John Blake, Jr.
+John Blake
 Samuel Gross
 Edward Taylor
 Bob Levy
@@ -30145,7 +30145,7 @@ Cameron White
 Karl Koller
 David Wilder
 David King
-Manasses II
+Manasses
 Louis Bertrand
 Phillip Wright
 Matt Tuttle
@@ -32963,7 +32963,7 @@ John Montagu
 Michael Harrison
 Frederick Cuming
 Kay Hammond
-Athanasius II
+Athanasius
 Joe Alexander
 Peter Palmer
 George Robinson
@@ -33311,7 +33311,7 @@ Jim Turner
 Alex McKinnon
 Richard Rood
 Robert Thompson
-Landulf II
+Landulf
 Kevin Danaher
 Peter Millar
 Bob Foster
@@ -36338,7 +36338,7 @@ Robert Cohen
 Albert Kahn
 Paul Robinson
 James Reimer
-Hamilton Fish II
+Hamilton Fish
 Kevin Kiley
 John McCormack
 Paul Fenton
@@ -36543,7 +36543,7 @@ Zoran Janković
 Peter Gallagher
 Dinei
 Neil Mann
-Uli II
+Uli
 Cui Liang
 George Hagan
 George Murray
@@ -36961,7 +36961,7 @@ John Everard
 Mark Jackson
 Mick O'Brien
 Billy Young
-John Lowell, Jr.
+John Lowell
 John Gregory
 Amanullah
 Doug Roberts
@@ -38369,7 +38369,7 @@ David ben Zakkai
 Solomon
 Zhang Liang
 Phantasia
-Mar 'Ukban III
+Mar 'Ukban
 John Sheridan
 Jimmy White
 Mark Proctor
@@ -39605,7 +39605,7 @@ Mike Flores
 Robert Hale
 John Otis
 James Wilson I
-James Wilson II
+James Wilson
 Edmund Burke
 Bob Fisher
 Samuel Wilson
@@ -39633,7 +39633,7 @@ Armen Nazaryan
 John Quelch
 Mark Cole
 Daniel Fernandes
-Suleiman II
+Suleiman
 Will James
 Harry Allen
 Tom James
@@ -40123,7 +40123,7 @@ Clyde Williams
 John Dougherty
 John Buckley
 Freddy García
-Burchard II
+Burchard
 George Moffatt
 Magnus Arvidsson
 Gene Taylor
@@ -42204,7 +42204,7 @@ James Bates
 Charles Henry Chapman
 Joseph Hall
 James Haggerty
-Frederic W. Lincoln, Jr.
+Frederic W. Lincoln
 Jack Anthony
 Tony Church
 John Aitchison
@@ -43452,7 +43452,7 @@ Bernard Smith
 John Greene
 Christopher Hart
 Tim Ward
-Mahmud IV
+Mahmud
 David Hughes
 Gene Snyder
 Dan Ross
@@ -43731,16 +43731,16 @@ Bob Johnson
 Dunn
 Waermund I
 Jason Turner
-Waermund II
+Waermund
 Cuthwulf
 Swithwulf
 Ceolmund
 Daniel
 Ælfstan
-Godwine II
+Godwine
 Siward
 John I
-John II
+John
 Ascelin
 Walter
 John Hubbell
@@ -43793,8 +43793,8 @@ Don Head
 Dave Lloyd
 Li Shuang
 Ian Wood
-Æthelwold II
-Ælfsige II
+Æthelwold
+Ælfsige
 Steve Pearce
 Jack Reed
 Francis Day
@@ -43827,7 +43827,7 @@ Henry Bertie
 Biauswah
 Wilfrith I
 Waermund
-Wilfrith II
+Wilfrith
 Samson
 William de Blois
 Henry Wakefield
@@ -45096,7 +45096,7 @@ John Burroughs
 Bill MacDonald
 John Dreyer
 William Laird
-Robert II
+Robert
 John Williams
 William Goodell
 Ross Wilson
@@ -45926,7 +45926,7 @@ Michel Côté
 Lucius Caecilius Metellus
 Jack Ryan
 Tom Marshall
-Joseph Wright, Jr.
+Joseph Wright
 Quintus Caecilius Metellus
 David Napier
 John Keogh
@@ -47069,7 +47069,7 @@ Richard Browne
 William Steele
 James Hutchison
 John Parry
-William Clark, Jr.
+William Clark
 Jacob Klock
 Ted Sullivan
 Sean Lynch
@@ -47196,7 +47196,7 @@ Dave Lewis
 Glycerius
 James Tennant
 John Wright
-Siegfried III
+Siegfried
 Perico
 George Bullock
 Michael White
@@ -47546,7 +47546,7 @@ David Higgins
 Robert Richardson
 William Creed
 William Cook
-John Roberts, Jr.
+John Roberts
 Hiroko Hayashi
 John Hodges
 Ed Baker
@@ -49427,7 +49427,7 @@ Scott Field
 Jamie Johnson
 Tamás Kovács
 Billy Smith
-James Taylor, Jr.
+James Taylor
 William Marland
 Arthur Wheeler
 Chris Finch
@@ -50916,7 +50916,7 @@ Jim Duncan
 Bob Breitenstein
 Jimmy Mann
 Natasha Barrett
-James Roosevelt, Jr.
+James Roosevelt
 Nicholas Roosevelt
 David Irvine
 William Beckett
@@ -52895,7 +52895,7 @@ Jack Ryan
 John Shea
 Pat Simmons
 George Anderson
-Rhescuporis II
+Rhescuporis
 Richard Owen
 Alan Parsons
 Steve Carter
@@ -52962,7 +52962,7 @@ Mark Saul
 Harry Taylor
 Christian Howes
 Jim Dent
-Amanieu II
+Amanieu
 Henry Pease
 Robert Irving
 Robin Wagner
@@ -54696,14 +54696,14 @@ William Forrester
 Brian Etheridge
 Andrew Ireland
 Robert Hardy
-Mahmud III
+Mahmud
 Thomas McHugh
 Oliver Jones
 Anthony Stuart
 Charles Egerton
 James Bailey
 Henry Porter
-Mahmud II
+Mahmud
 Craig Farrell
 Lee Evans
 William Gilmour
@@ -61959,7 +61959,7 @@ Christopher Morgan
 Jim Lewis
 Paul McGowan
 Christopher McKee
-Abdul Hamid II
+Abdul Hamid
 Thomas Parker
 John McGuinness
 Ryan Jackson
@@ -64204,7 +64204,7 @@ Chris Allison
 John Lennon
 Chris Mahoney
 Eugene O'Brien
-Joseph II
+Joseph
 Bernard Goldstein
 Ryan Phillips
 John Darley
@@ -64484,7 +64484,7 @@ Gaius Salvius Liberalis
 David Evans
 Charles Richardson
 Pat Shea
-Joseph III
+Joseph
 Keith Jones
 Anthony Anderson
 Jeff Kent
@@ -64741,7 +64741,7 @@ Tim Armstrong
 Brian Evans
 Will Matthews
 Siegfried Müller
-Joseph IV
+Joseph
 Joseph Simpson
 John Arundell
 Robert Jackson
@@ -65955,7 +65955,7 @@ John Bray
 John Sidney Smith
 Francis Hill
 George Strong
-Alexander (Zander) Blewett, III
+Alexander (Zander) Blewett
 John Davis
 Thomas Horton
 Robert Harris
@@ -66266,7 +66266,7 @@ Tyler Willis
 Edward Holland
 Aamer Munir
 John Oldham
-John Paul, Jr.
+John Paul
 Thomas Pelham
 Pei Ji
 William Austin
@@ -66319,7 +66319,7 @@ Thomas J. O'Brien
 Dick Wesson
 Ludwig Hirzel
 Robert Holt
-James Jackson, Jr.
+James Jackson
 Arthur Caldwell
 Tommy Angelo
 Jimmy Fortune
@@ -67681,7 +67681,7 @@ John Fox
 Peter Saville
 Joseph Wright
 Lee Hyun-Seung
-Francis J. (Frank) Crown, Jr.
+Francis J. (Frank) Crown
 John Leland
 James Swan
 Kamran Khan
@@ -68956,7 +68956,7 @@ Kevin Dwyer
 Padmini
 George Stearns
 Paulo Henrique
-Paulo Jr.
+Paulo
 Allen Buchanan
 Joseph Morin
 Barry Wallace
@@ -69105,7 +69105,7 @@ Matthew Fox
 Steve Newman
 Elaine Lee
 Billy Stone
-John Brown, Jr.
+John Brown
 William Crofts
 Winter
 David Hay
@@ -71930,7 +71930,7 @@ William Barber
 Aat
 Chris Cracknell
 Christopher Potter
-Savaric II
+Savaric
 John Ashworth
 Mark Handley
 Neil Stewart
@@ -72143,7 +72143,7 @@ Thomas Stapleton
 Louise Adélaïde de Bourbon
 Adhimoolam
 William Horne
-H. L. (Bud) Goodall, Jr.
+H. L. (Bud) Goodall
 Henry Harper
 Chris Robertson
 George Peck
@@ -72293,7 +72293,7 @@ Achaeus
 Mike Hicks
 Jack Hall
 Bill Chambers
-Cotys III
+Cotys
 James Pond
 Thomas Clarkson
 Eamon Morrissey
@@ -72684,7 +72684,7 @@ Michael Organ
 Daniel Ayala
 Thomas Donnelly
 Terrence O'Connor
-Cotys III
+Cotys
 Hugh Waddell
 George Hadley
 Noel Johnson
@@ -72714,7 +72714,7 @@ Bill Atwood
 Harry Butcher
 Richard Brooks
 Steve Thorburn
-Cotys II
+Cotys
 Greg Tate
 Olof Hanson
 John Brockway
@@ -72863,7 +72863,7 @@ David Kerr
 David Snell
 Patricia Maldonado
 Richard Green
-Robert F. Wagner, Jr.
+Robert F. Wagner
 James Balfour
 Jackie Robinson
 Francesco Bianchi
@@ -75522,7 +75522,7 @@ Billy Mercer
 Sunna
 Glen Collins
 John Bickerton
-Hermenegild II
+Hermenegild
 Santiago Fernández
 Karen Price
 Travis Williams
@@ -77164,7 +77164,7 @@ Zachary Taylor
 Zequinha
 Steve Greenberg
 Aleksandr Kozlov
-Charles McDowell, Jr.
+Charles McDowell
 Daisuke Watanabe
 Lyubomir Ivanov
 David Stern
@@ -78444,7 +78444,7 @@ John McTaggart
 Joe Farrell
 Hodgson
 John Mott
-Cotys II
+Cotys
 Lee Fletcher
 Brad Hunt
 Samuel-Jacques Bernard
@@ -79115,7 +79115,7 @@ Thomas Vernon
 Harry Armstrong
 Marcus Fabius Ambustus
 Richard Proulx
-Abraham III
+Abraham
 Alex Gardner
 Jim Driscoll
 David Miller
@@ -79466,7 +79466,7 @@ Gary Jones
 Bill Dugan
 Richard Wallace
 Harry Dean
-John Foster, Jr.
+John Foster
 Tony Wright
 Michael Joyce
 Harry Holt
@@ -79496,7 +79496,7 @@ Michael Thomas
 Hans Olsen
 David Howie
 Ed Bagley
-John Foster, Sr.
+John Foster
 Valuk
 George Williams
 Walter Hungerford
@@ -80039,7 +80039,7 @@ Kim Jung-Joo
 Phil Heath
 William Hole
 Yang Hao
-Timothy II
+Timothy
 Andrés Flores
 David Harper
 Adam Tarnowski
@@ -80375,7 +80375,7 @@ Stephen Byrne
 Pauline Newman
 Pat Scanlon
 Thomas Welch
-Hori II
+Hori
 Nikolay Kuznetsov
 Rhoda
 David Austin
@@ -80952,7 +80952,7 @@ Samantha Harris
 Marta Sánchez
 Zhang Ping
 Charles Alexander
-Ptahmose IV
+Ptahmose
 Mery
 Don Moon
 Chen Yongqiang
@@ -81396,7 +81396,7 @@ John Fogarty
 Bobby Parker
 John Norman
 George Richardson
-Ptahmose II
+Ptahmose
 Gordon Pritchard
 Roy Brown
 Red Smith
@@ -83625,7 +83625,7 @@ Mary Jane Kelly
 Jack Ford
 John Blakeney
 John Kerr
-Michael Abbott Jr.
+Michael Abbott
 Frank Marion
 Haranath
 Javier Moreno
@@ -83666,13 +83666,13 @@ Thomas Arthur
 Reg Edwards
 Fred Valentine
 Hyman Goldstein
-Prehotep II
+Prehotep
 William Price
 John Anderson
 Devan
 Aaron Goldstein
 James Rennie
-Hori II
+Hori
 Albinus
 Paul Lange
 Michael Brennan
@@ -84141,7 +84141,7 @@ Danny Greene
 José Cabrera
 Hendra Gunawan
 Harry Gregory
-John Held, Jr.
+John Held
 John Hynes
 Fred Lucas
 Wang Ying
@@ -84821,7 +84821,7 @@ Peter Spencer
 Walter Powell
 Frank Day
 Sverre Krogh
-William France, Sr
+William France
 Ralph Hunt
 Samuel Johnson
 Yogesh
@@ -92328,7 +92328,7 @@ Thomas Owen
 Brian Muir
 Daniel Perez
 John Usher
-Bertrand II
+Bertrand
 Frédéric Petit
 James Robertson
 Milan Stojanović
@@ -95098,7 +95098,7 @@ Steve Hart
 Tommy Graham
 Edward Barkham
 Suero I
-Peter III
+Peter
 Michael Scanlon
 Bob Davidson
 Robert Turnbull
@@ -98016,7 +98016,7 @@ Stanley Cole
 James MacDonald
 Gaius Antistius Vetus
 Peter Schaffer
-Simon II
+Simon
 Malcolm Hall
 Justin Kelly
 Sam Crawford

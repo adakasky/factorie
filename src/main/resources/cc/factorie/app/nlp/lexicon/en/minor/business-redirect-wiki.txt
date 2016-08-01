@@ -59,8 +59,8 @@ Cesare borgia
 DelawarE
 Dublin, Ireland
 Denver, Colorado
-Denver, CO
-Denver, co
+Denver
+Denver
 City and County of Denver
 Des Moines
 Enterprise Resource Planning
@@ -391,8 +391,8 @@ Charlottesville
 Tampa, FL
 Tampa, Fl
 TAMPA, FL
-Boulder, co
-Boulder, CO
+Boulder
+Boulder
 Sir George Gilbert Scott
 Historic England
 Orlando, Fl

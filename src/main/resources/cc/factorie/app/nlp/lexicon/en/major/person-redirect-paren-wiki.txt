@@ -15,11 +15,11 @@ Albrecht
 Alcaeus
 Ealdred
 Ealdred
-Alexander II.
-Alexander II
+Alexander
+Alexander
 Alexander I
-Alexander II
-Alexander III
+Alexander
+Alexander
 Alexius I Comnenus
 Jacksoninan Party
 Alypius
@@ -107,7 +107,7 @@ Michaelangelo (Caravaggio) Morigi
 Morigi, Michaelangelo
 Caravaggio
 Constantine I
-Constantine II
+Constantine
 Constantine I
 Clement
 Chris Cunningham
@@ -159,7 +159,7 @@ Francis Bacon
 Francis Bacon
 Ricardo Reis
 Franco
-Frederick III
+Frederick
 Friedrich III of Germany
 Frederick III of Germany
 Archduchess Maria Anna of Austria
@@ -206,9 +206,9 @@ Hannibal
 Hernando Cortes
 Henry I
 Henry I
-Henry II
-Henry II
-Henry II
+Henry
+Henry
+Henry
 Henry VII
 Henry VII
 Henry VIII
@@ -310,7 +310,7 @@ Leon Lederman
 Louis I
 Louis I
 Hearn
-Leo III
+Leo
 Agassiz
 Four Souls
 Fleur
@@ -346,12 +346,12 @@ Mary I
 Macbeth
 Matthew
 Maria of Hungary
-Mary II
+Mary
 Mary
 Maximinus I
 Nadir Shah
 Malcolm I
-Malcolm III
+Malcolm
 Niels (Henrik David) Bohr
 Dr. Nikola Tesla
 Norman Foster
@@ -366,7 +366,7 @@ Oliver Cromwell
 Cromwell, Oliver
 Iron Chancellor
 Bin
-Otto IV
+Otto
 Olga
 Paul Cohen
 Patricia Lee ("Patti") Smith
@@ -376,12 +376,12 @@ Twilight World
 Peter Falk
 Pope (Saint) Linus
 John XXIII
-John II
+John
 Stephen
 Pope Stephen
-Stephen II
-Pope Stephen (II) III
-Stephen II
+Stephen
+Pope Stephen (II)
+Stephen
 Prospero Alpini
 Pope John XXI
 Paulinus of Nola
@@ -391,7 +391,7 @@ Clement VII
 Saint Paul
 Paul
 General (ret) Pervez Musharraf
-Pope Stephen (III) IV
+Pope Stephen (III)
 Pope Stephen (IV) V
 Pope Stephen (V) VI
 Pope Stephen (VI) VII
@@ -409,8 +409,8 @@ Pele
 Pele
 Pele
 Pele
-Philip II
-Philip II
+Philip
+Philip
 Ishtar
 Reagan
 Robert Chambers
@@ -420,19 +420,19 @@ RenA(c) Descartes
 Robert Scott
 Robert E. Lee
 Anastasios I
-Anastasius II
-Anastasios II
+Anastasius
+Anastasios
 Roger Bacon
 October
 October
 Richard Garfield
 Robert Johnson
 Robert Johnson
-Rudolf II
+Rudolf
 Romare (Howard) Bearden
 Poems
 Robin Wright
-Richard III
+Richard
 Band of Angels
 Rudyard Kipling
 Rilke
@@ -532,7 +532,7 @@ Battle of Loudoun Hill
 Walt (Walter) Whitman
 William I
 William I
-William II
+William
 William Congreve
 William (Gerald) Golding
 Constitution of Lacedaemon
@@ -549,8 +549,8 @@ St. Matthias
 Lucretius
 William I
 Harriet (Araminta) Ross Tubman
-Charles II
-Carol II
+Charles
+Carol
 Denise Lee Richards
 Stevie Case
 Brutus
@@ -565,9 +565,9 @@ Brontosaurus
 Louis I
 Wenzel
 King Vaclav (Wenceslas) IV of Bohemia
-Charles IV
+Charles
 Phillis Wheatley
-Otto III
+Otto
 Robert Broom
 Broom
 Farrell
@@ -575,7 +575,7 @@ Robbie Williams
 Harry Truman
 Franz Ferdinand
 Maximilian I
-Maximilian II
+Maximilian
 Frederick I
 Frederick I
 Edward V
@@ -590,23 +590,23 @@ Charles I
 Charles I
 Margaret of Scotland
 Margaret of Scotland stry
-Harold II
+Harold
 Joseph Priestly
 Alternate Generals
 Alternate Generals
 John Morton
-George IV
+George
 Harthacnut
 Harold I
 John Wentworth
-Lothar III
-Lothair III
+Lothar
+Lothair
 Daniel Burnham Memorial Competition
 Henry V
 Henry V
-Henry IV
-Henry IV
-Heinrich (Henry) IV
+Henry
+Henry
+Heinrich (Henry)
 Otto I
 Otto I
 Karl Jung
@@ -616,16 +616,16 @@ Rollo, Count (or Duke) of Normandy
 Nikita (Sergeyevich) Khrushchev
 Jogaila
 Jogaila
-Wladyslaw II
+Wladyslaw
 Jogaila
 Jogaila
-WÅadysÅaw II
+WÅadysÅaw
 Jogaila
 The Crossing
 Love of Life
 Fergie
 Fergie
-William IV
+William
 Paul Kelly
 John Gilmore
 Johannes (Jan) Vermeer
@@ -645,18 +645,18 @@ Elizabeth
 ÐÐ»ÐžÐ·Ð°Ð²ÐµÌÑÐ° (ÐÐ»ÐžÑÐ°Ð²ÐµÌÑ) ÐÐµÑÑÐŸÌÐ²ÐœÐ°
 Peter I
 Socrates
-Henry III
-Henry III
-Conrad II
+Henry
+Henry
+Conrad
 Anomaly
 Thomas F. Bayard
-Ferdinand II
-Ferdinand II
+Ferdinand
+Ferdinand
 Pope Leo I
 Thomas Hardy
 Thomas Hardy
 Thomas Hardy
-Edward II
+Edward
 The Early Years
 The Platinum Collection
 Frederick Frelinghuysen
@@ -678,16 +678,16 @@ Karl Brandt
 Karl Brandt
 Lakoff
 Edward I
-Edward III
-Edward IV
+Edward
+Edward
 (James) Ramsay MacDonald
 MacDonald, (James) Ramsay
-Richard II
-Henry III
-Henry III
+Richard
+Henry
+Henry
 Cambyses
-Charles II
-Charles II
+Charles
+Charles
 John Sherman
 John Sherman
 Duncan Campbell
@@ -696,16 +696,16 @@ Richard Lloyd
 Wallis Simpson
 Henry VI
 Henry VI
-Henry IV
-Henry IV
+Henry
+Henry
 Echion
 Catherine of Valois
 The Love Album
-Louis II
-Louis II
-Charles II
-William III
-William III
+Louis
+Louis
+Charles
+William
+William
 William of Orange
 Star Quality
 Star Quality
@@ -742,9 +742,9 @@ Leonid Brezhnev
 Thomas Harrison
 Thomas Harrison
 King Edward VI
-William II
+William
 James V
-James IV
+James
 Lewis, (Harry) Sinclair
 (Harry) Sinclair Lewis
 RenÃ© FranÃ§ois Armand (Sully) Prudhomme
@@ -786,9 +786,9 @@ Ciribiribin
 Lucan
 Mark Connelly
 Mark Connelly
-Philip II
+Philip
 Felipe II of Spain
-Philip II
+Philip
 Philip I of Portugal
 MarÃ­a of Spain
 Filipe I of Portugal
@@ -822,20 +822,20 @@ Robert Kelly
 Harald I
 Leopold I
 Buried Alive
-Frederick II
+Frederick
 Charles Stewart
 Max Reinhardt
 Max Reinhardt
 Max Reinhardt
 Psychopathia Sexualis
-Leopold II
+Leopold
 Carmen, the secret wife of Leopold II, King of Belgium
-Leopold II
+Leopold
 Ian Livingstone
 Stephen Crane
 Alexander ("Shasha") Shulgin
 Dr. Alexander ("Sasha") Shulgin
-Henry IV
+Henry
 Fritz Walter
 Fritz Walter
 Fritz Walter
@@ -922,8 +922,8 @@ Jacques Villeneuve
 Jacques Villeneuve
 Ulrich of Dillingen (890-973), Bishop of Augsburg
 Ulrich of Dillingen (890â973), Bishop of Augsburg
-Pedro II
-Pedro II
+Pedro
+Pedro
 George (Spanky) McFarland
 Jessica Bennett
 (Harry) Lee Kuan Yew
@@ -974,13 +974,13 @@ Zacharias
 Michael Fox
 Boniface of Savoy
 Boniface of Savoy
-Frederick II
+Frederick
 Shemaiah
 Just In Time
 Magic
 Tiberius Sempronius Gracchus
-Charles II
-Charles Emmanuel II
+Charles
+Charles Emmanuel
 Alfonso I
 Othniel
 Frankie Howerd
@@ -1008,15 +1008,15 @@ Mary Tudor
 Mary Tudor
 Mary Tudor
 Alfonso II (Alfons II) of Aragon
-Ferdinand III
-Ferdinand III
+Ferdinand
+Ferdinand
 Francis, Dauphin of France
 Charles V
 Charles V
 Charles I
 Karl V.
-Charles IV
-Ivan IV
+Charles
+Ivan
 Idi Amin
 Billy Wright
 Anne of Bohemia
@@ -1030,7 +1030,7 @@ John White
 Alexander Boswell
 Thomas Wyat
 Prince William
-John IV
+John
 Akaba
 Frederick I
 La Provinciale
@@ -1080,23 +1080,23 @@ ChrÃ©tien
 Chretien,
 Chretien
 Charles IX
-Henry II
-Henry III
+Henry
+Henry
 Mary Ann Evans
-Louis III
+Louis
 Ernest Thompson ("Seton Thompson") Seton
 Antonin (Leopold) Dvorak
 Excrescence
 Charles VII
-Maximinus II
+Maximinus
 (Vere) Gordon Childe
-Philip IV
+Philip
 Maurice (Rocket) Richard
 Captain Brown
 Louis-Philippe King of the French
 Louis Philippe
 Louis-Philippe
-Charles II
+Charles
 It's Good to Be Alive
 It's Good to Be Alive
 Charles VI
@@ -1104,11 +1104,11 @@ VelÃ¡zquez
 Velazquez
 Charles V
 Jeanne of France
-John II
+John
 Charles VIII
 Cassius
 Cassius
-Charles III
+Charles
 Zeno (emperor
 Michel
 Jack Cole
@@ -1120,8 +1120,8 @@ Lionel (Leo) Hampton
 Henry I
 Carleton S. Coon
 Philip I
-Philip III
-Charles IV
+Philip
+Charles
 Philip V
 Ephialtes
 Jack Lang
@@ -1132,8 +1132,8 @@ Johannes Wilhelm (Hans) Geiger
 Yusuf
 Eustace
 Quintin Hogg
-Robert II
-Robert II
+Robert
+Robert
 William Pitt
 Giotto
 Richard of Cornwall
@@ -1157,7 +1157,7 @@ David Crockett
 John Kerr
 John Kerr
 Brian Wilson
-Pedro II
+Pedro
 Jail Bait
 Jailbait
 Claude of Lorraine
@@ -1231,7 +1231,7 @@ Peter Ainsworth
 Charlie Kennedy
 William Smith
 Arvo PÃ€rt
-Louis II
+Louis
 Regulus
 Black Cherry
 James stirling
@@ -1264,7 +1264,7 @@ William Clowes
 George Clymer
 William Henry Perkin
 Samuel Adams
-Frederick II
+Frederick
 Lorca
 Philip V
 Ravi Shankar
@@ -1281,7 +1281,7 @@ Falls the Shadow
 Giorgio Vasari
 John Hughes
 John Hughes
-John Forbes Nash Jr.
+John Forbes Nash
 John Nash
 John Nash
 Lazlo Toth
@@ -1294,7 +1294,7 @@ Theobald Mathew
 Antonio (Pietro) Cesti
 Heinrich (Harry) Heine
 Frederick I
-John III
+John
 George McClellan
 Steven Wright
 Henry Morgan
@@ -1332,8 +1332,8 @@ Mike Hawthorne
 Paul Martin
 Paul Martin
 Jose Luis Rodriguez
-William II
-William III
+William
+William
 Johann StrauÃ
 Johann Strauss
 Alex Mardas
@@ -1411,13 +1411,13 @@ Felipe II of Portugal
 Felipe III of Spain
 Filipe II of Portugal
 Philip III of Spain
-Philip III
+Philip
 You may fire when you are ready, Gridley
 Manu GinÃ³bili
 Manu Ginobili
 Richard Simmons
-John III
-John II
+John
+John
 Bardiya
 William Holden
 William holden
@@ -1436,51 +1436,51 @@ Clinton, George
 George Clinton
 George Clinton
 George Clinton
-Robert II
-Robert II
-Robert III
-Robert III
+Robert
+Robert
+Robert
+Robert
 Grace Budd
-David II
-David II
+David
+David
 David I
-Donnchad II
-Duncan II
+Donnchad
+Duncan
 Duncan I
-Malcolm IV
-Kenneth II
-James III
-James II
-James II
-Donald III
-Malcolm II
-Kenneth III
-Constantine III
-Donald II
+Malcolm
+Kenneth
+James
+James
+James
+Donald
+Malcolm
+Kenneth
+Constantine
+Donald
 Thomas Balguy
 Feodor (Theodore) III Alexeevich of Russia
 Joseph I
 James Taylor
 Helena
-Constantine III
-Constantine III
-Leopold II
-Leopold II
+Constantine
+Constantine
+Leopold
+Leopold
 Leopold I
 Leopold I
 Leopold I
 Filipe III of Portugal
 Felipe IV of Spain
 Felipe III of Portugal
-Philip IV
+Philip
 Philip III of Portugal
 Philip IV of Spain
 Surf's Up!
 Now That Everything's Been Said
 Joe Jackson
 Joe Jackson
-Charles IV
-Charles III
+Charles
+Charles
 Bartolommeo (or Baccio) Bandinelli
 Al Green
 John Anderson
@@ -1503,8 +1503,8 @@ Narayan, R
 R Narayan
 Olaf the Stout
 Frederick II (III) of Sicily
-Frederick II
-Frederick III
+Frederick
+Frederick
 Henry VI
 Henry VI
 Philip
@@ -1512,23 +1512,23 @@ Ferdinand I
 Ferdinand I
 Ferdinand I
 Ferdinand I
-Ferdinand II
-Ferdinand II
-Ferdinand III
-Ferdinand III
+Ferdinand
+Ferdinand
+Ferdinand
+Ferdinand
 Charles VI
 Charles VI
 William I
 William I
 Frederick III of Germany
 Friedrich III of Germany
-Frederick III
+Frederick
 Juana I de Castilla
 Philip I
 John I
 John I
-John II
-John II
+John
+John
 Richard Wilson
 Mark Thomas
 Nick Hancock
@@ -1566,13 +1566,13 @@ Jimmy Davidson
 25/8
 John I
 John I
-John II
-John II
+John
+John
 Karl I
 Charles I
 Phil Collins
 John I
-John IV
+John
 Gilbert Sheldon
 Gilbert Sheldon
 Thomas Cartwright
@@ -1580,8 +1580,8 @@ Robert Powell
 John Potter
 John Potter
 John Potter
-Henry III
-Henry III
+Henry
+Henry
 Franz Xaver Gruber
 Franz Gruber
 Carlos Zarate
@@ -1627,7 +1627,7 @@ Alexandre Dumas
 Kean
 Live from Las Vegas At the Palms - EP
 William I
-William II
+William
 William Courtney
 Oda
 Roger
@@ -1687,12 +1687,12 @@ John Johnson
 John Johnson
 Rock Hudson
 Escobar
-Charles II
+Charles
 Gaius Calpurnius Piso
 Mayakovskaya
 Cuvier
 David Gates
-Henry II
+Henry
 Kamal
 Holderlin
 Hoelderlin
@@ -1703,8 +1703,8 @@ HÃ¶lderlin
 Longinus
 Longinus
 Longinus
-Charles II
-Charles II
+Charles
+Charles
 Amir Khan
 Laura (Riding) Jackson
 Barbara Bush
@@ -1749,8 +1749,8 @@ Louis I
 Gulf and western
 Gene McCarthy
 John Mitchell
-Henry II
-Henry II
+Henry
+Henry
 Robert Hardy
 Tony Perkins
 Try A Little Tenderness
@@ -1935,8 +1935,8 @@ Tal
 Dana
 Stephen Jones
 Amanda Davies
-Louis II
-Louis II
+Louis
+Louis
 Alexander Henry
 David Bailey
 David Bailey
@@ -2027,7 +2027,7 @@ Brian Adams
 Stresemann, Gustav
 Augier,
 Fergus
-Fergus II
+Fergus
 John Taylor
 John Taylor
 Otto I
@@ -2118,7 +2118,7 @@ Hafez
 ComtÃ© de Provence, France. Robert D'Anjou
 Comte de Provence, France. Robert D'Anjou
 Pataki
-Nelson Piquet Sr.
+Nelson Piquet
 Nelson Piquet
 Wang Wei
 Matthew Perry
@@ -2211,7 +2211,7 @@ Anna Brownell (Murphy) Jameson
 Much Ado About Nothing
 Giovanni Bellini
 William Reese
-Robert L. (Bob) Barr, Jr.
+Robert L. (Bob) Barr
 John King
 Michael Moorer
 Dennis O'Keefe
@@ -2404,7 +2404,7 @@ Peer International
 Afra
 Bill Nye
 Nicola
-Charles III
+Charles
 Leave
 Genuine
 Saturnalia
@@ -2535,14 +2535,14 @@ Lingen
 John Toland
 John Toland
 Sgt. Slaughter
-Leo II
+Leo
 James Hinton
 James Hinton
 Whitley Stokes
 Luis GonzÃ¡lez
 Luis Gonzalez
-Constans II
-Constans II
+Constans
+Constans
 Leontius
 Antonio Garcia Lopez
 Marty Friedman
@@ -2554,14 +2554,14 @@ Constance of Portugal
 ConstanÃ§a of Portugal
 Constance of Portugal
 Constance of Portugal
-Alexander III
+Alexander
 Alexander
 Forever Free
 Luke
 David Whittaker
 Boleslaw II the Generous
 BolesÅaw II the Generous
-Pedro II
+Pedro
 Richard Jobson
 Richard
 The Captain
@@ -2642,7 +2642,7 @@ Vinci
 I Know You Got Soul
 Don't Stop Me Now
 Don't Stop Me Now
-Thomas Phillip (Tip) O'Neill, Jr.
+Thomas Phillip (Tip) O'Neill
 Joan Rivers (TV) Show
 Lord Snowdon
 Antony Armstrong-Jones
@@ -2726,8 +2726,8 @@ Bhagavan Das
 William Rowley
 Louis-Philippe d'OrlÃ©ans
 Louis Philippe d'OrlÃ©ans
-Louis Philippe II
-Louis Philippe II
+Louis Philippe
+Louis Philippe
 Siege of Acre
 Eyre Coote
 Eyre Coote
@@ -2745,7 +2745,7 @@ John Ford
 Ford, John
 Jacob Epstein
 Jacob Epstein
-Frederick III
+Frederick
 David Copperfield
 The Sea named Solaris
 Robert Finn
@@ -2995,8 +2995,8 @@ Lillian Fencl
 Larry Brown
 Daniel Webster Jones
 Wesley Willis
-James II
-James II
+James
+James
 Tajiri
 Tara
 Victoria
@@ -3080,7 +3080,7 @@ Duncan Cameron
 Duncan Cameron
 Robert Blake
 Philippe de Remi
-Richard (Rick) Francis Dennis Barry III
+Richard (Rick) Francis Dennis Barry
 Thomas (Tom) Joseph Gola
 Seweryn Klosowski
 John Hooper
@@ -3352,7 +3352,7 @@ Marquis of Pombal
 Jon Moss
 Dick Clark
 Richard Clarence (Dick) Clark
-Eirik II
+Eirik
 Dick Clark
 Richard Clark
 Benjamin Wade
@@ -3383,7 +3383,7 @@ George Papandreou
 Georgios Papandreou
 GeÃ³rgios PapandrÃ©ou
 Bonaparte
-Ludwig III.
+Ludwig
 Mbiti, J. S.
 Wilson
 Gail Sheridan
@@ -3398,7 +3398,7 @@ Ron Davies
 Mani
 George Brown
 Peter Taylor
-Robert II
+Robert
 Charles
 Thaksin Shinawatra
 Herbet Morrison
@@ -3501,7 +3501,7 @@ William Still
 William Still
 William Still
 Charles Manners-Sutton
-Francis II
+Francis
 Gabriel
 Luis Miguel
 Peter cartwright
@@ -3560,7 +3560,7 @@ James Miller
 Louis, Prince of CondÃ©
 Louis, Prince of Conde
 Anne de Montmorency
-Ptolemy VIII Euergetes II
+Ptolemy VIII Euergetes
 Dan Butler
 John Keene
 John Keen
@@ -3749,23 +3749,23 @@ John Thomas
 Anxi
 Major C. H. (Clifford Hugh) Douglas MIMechE, MIEE
 C. H. (Clifford Hugh) Douglas
-Josiah Robins (Jo) Bonner, Jr.
+Josiah Robins (Jo) Bonner
 Michael Dennis (Mike) Rogers
-Robert E. (Bud) Cramer Jr.
-Robert E. (Bud) Cramer, Jr
+Robert E. (Bud) Cramer
+Robert E. (Bud) Cramer
 Donald Edwin (Don) Young
 Cambyses
 Roger Davis
 Hussein bin Ali
-Walter William (Wally) Herger, Jr.
+Walter William (Wally) Herger
 George Miller
 Rep. George Miller
 George Miller
 George Miller
 George Miller
-Rep. "Pete" Stark, Jr
+Rep. "Pete" Stark
 Howard P. (Buck) McKeon
-Frank James (Jim) Sensenbrenner, Jr.
+Frank James (Jim) Sensenbrenner
 Rep. Henry Waxman
 Gerald (Jerry) Daniel Kleczka
 Paul Ryan
@@ -3783,7 +3783,7 @@ Rosanna
 Nancy Johnson
 Elizabeth
 You
-Hassan II
+Hassan
 Rep. Charles Rangel
 Chris Jones
 Chris Jones
@@ -4137,8 +4137,8 @@ Charles Anthony
 David Kaye
 Roman History
 Gary Lewis
-Louis III
-Louis III
+Louis
+Louis
 Tom Arnold
 Cherries
 John Randall
@@ -4216,7 +4216,7 @@ Poseidippus
 George Mitchell
 Princess Marie-Chantal
 James Clark
-Richard II
+Richard
 Lucius Cornelius Balbus
 Lucius Cornelius Balbus
 Lucius Cornelius Balbus
@@ -4354,7 +4354,7 @@ Bernie Williams
 Bernie Williams
 Andy Thompson
 Michael Cassidy
-Domitianus II
+Domitianus
 Domitianus
 Frank Buckley
 Zhang Bao
@@ -4550,7 +4550,7 @@ That's Life
 George Smith
 Alter Ego
 LVs & Autotune
-Joseph P. Kennedy II
+Joseph P. Kennedy
 Michael Kennedy
 Stephen Day
 William Ross
@@ -4686,9 +4686,9 @@ Avram David (Avi) Lewis
 Elizabeth Stanhope, Countess of Chesterfield
 Muhammad Yunus
 Muhammad Yunus
-William II
-William II
-William II
+William
+William
+William
 Brian Johnson
 Stephen Davis
 Prince Friedrich Karl of Prussia
@@ -4883,7 +4883,7 @@ Connie Mack
 Non
 Ahmad Shah
 James Ferguson
-Mohammed Shah II
+Mohammed Shah
 Peter North
 Peter North
 Peter North
@@ -5172,7 +5172,7 @@ Xiang
 Walter Gordon
 Henry of Burgundy
 Henry of Burgundy
-Robert II
+Robert
 Philip of Burgundy
 James Sharp
 Brad Davis
@@ -5256,7 +5256,7 @@ Emeril
 Lourenco Marques
 David Bates
 Conan
-Conan IV
+Conan
 John Taylor
 John Taylor
 John Taylor
@@ -5387,7 +5387,7 @@ Ben Walker
 Grant Hill
 Grant Hill
 Sting
-Charles II
+Charles
 Jean de Lorraine
 Tom Johnston
 Tom Johnston
@@ -5440,7 +5440,7 @@ Drury
 David Davies
 David T C Davies
 Alka Yagnik
-General (Retired) Burwell B. Bell III
+General (Retired) Burwell B. Bell
 The Viper
 The Legacy
 Mona
@@ -5675,7 +5675,7 @@ Thomas Andrews
 Thomas Andrews
 John Wall
 Charles I
-Charles II
+Charles
 Steven (Steve) Chabot
 Henri, Prince of CondÃ©
 Henri, Prince of Conde
@@ -6011,7 +6011,7 @@ John Murray
 Karl Jenkins
 Howard Johnson
 Theodora (Tonie) Nathan
-Nicholas Joseph (Nick) Begich, Sr.
+Nicholas Joseph (Nick) Begich
 Ordinary Day
 Darrell Russell
 Alex Garcia
@@ -6091,7 +6091,7 @@ A J Cook
 Bob Lutz
 Robert Lutz
 Robert Lutz
-John Thompson, Jr.
+John Thompson
 John Thompson
 William Jones
 John Rogers
@@ -6250,7 +6250,7 @@ Stanislaw Poniatowski
 Stanislaw Poniatowski
 Jimmie Rodgers
 Jimmie Rodgers
-Constans II
+Constans
 Thomas Harris
 Harry Carey
 The Great Divide
@@ -6935,7 +6935,7 @@ Nest
 Nest
 Norman Blake
 Two
-Kellen Winslow, Jr.
+Kellen Winslow
 James Charles (Jim) Greenwood
 Laura Ingalls
 Laura Ingalls
@@ -6946,7 +6946,7 @@ Robert Aitken
 John Ireland
 John Ireland
 Egeria
-Li Ting, Sr.
+Li Ting
 Li Ting
 Jack Quinn
 Tom Brown
@@ -6982,8 +6982,8 @@ Marcia Williams
 Johannes Acronius
 Dr. Crippen
 John Davis
-Henry IV
-Henry IV
+Henry
+Henry
 Walter Jones
 Li Ao
 Li Ao
@@ -7020,8 +7020,8 @@ Edgar Winter's White Trash
 Edgar Winter's White Trash
 Johnny Moss
 Alan white
-Floris III
-Floris III
+Floris
+Floris
 Robert Lindsay
 Mark Bell
 Mark Bell
@@ -7329,7 +7329,7 @@ Terry Farrell (architect)/Old
 Paula Kelly
 Paula Kelly
 Eric Scott
-Anno II
+Anno
 Gary Sheffield
 Paul Adams
 Run
@@ -7626,7 +7626,7 @@ Pat O'Brien
 Thomas
 Thomas
 Thomas
-Charles O. (Chuck) Prince III
+Charles O. (Chuck) Prince
 The L.A. Four
 Daniel Brodhead
 Alexander Ypsilantis
@@ -8024,8 +8024,8 @@ Lewis Morris
 Caroline Elizabeth Sarah (Sheridan) Norton
 John O'Keefe
 John Owen
-Ronald (Ron) William Artest Jr.
-Ronald (Ron) William Artest, Jr.
+Ronald (Ron) William Artest
+Ronald (Ron) William Artest
 My World
 World Peace
 Herbert Kohl
@@ -8306,7 +8306,7 @@ John McGovern
 Frank Gardner
 Frank Gardner
 Geki
-Robert (Woody) Johnson IV
+Robert (Woody) Johnson
 H2H
 Christina Cock
 Fritz Fischer
@@ -8429,7 +8429,7 @@ Peter Thompson
 Gerry Byrne
 Edward Thomas
 Richard Gale
-Antipope Victor IV
+Antipope Victor
 Jonathan Wainwright
 Mike Shaw
 Alexander
@@ -8449,7 +8449,7 @@ StanisÅaw Lubomirski
 Elzbieta Czartoryska
 ElÅŒbieta Czartoryska
 Elzbieta Czartoryska
-Abu Bakr II
+Abu Bakr
 John Brown
 John Brown
 John Pearson
@@ -8711,9 +8711,9 @@ Robert Ward
 Mrs. Augusta (Davies) Webster
 John Hall
 Kaine
-Edward C. (Ned) Johnson III
+Edward C. (Ned) Johnson
 Preston Robert (Bob) Tisch
-Edward (Ted) Rogers Jr.
+Edward (Ted) Rogers
 St. Valerian
 Rob Moore
 Charles R. (Chuck) Schwab
@@ -8859,7 +8859,7 @@ King Yi of Zhou
 Larry Page
 King Yi of Zhou
 Live In Australia
-Live In Maastricht II
+Live In Maastricht
 Dancing Through The Skies
 Peter May
 Lida Baarova
@@ -9161,7 +9161,7 @@ Sandra
 Sandra
 Polly Holliday
 Rudolf I
-Rudolf III
+Rudolf
 David Graham
 Days of Awe
 Sayan
@@ -11031,7 +11031,7 @@ Cecelia Dougherty
 Cecilia Dougherty
 Francesco de Sanctis
 Francesco De Sanctis
-Paschal III
+Paschal
 Alexander Henry
 Ecgbert
 Ecgbert
@@ -11114,7 +11114,7 @@ Elzbieta Czartoryska
 George Howard Brett
 George Brett
 Zofia Potocka
-Henry A. (Hank) McKinnell Jr.
+Henry A. (Hank) McKinnell
 Mac McDonald
 Don James
 Don James
@@ -11462,7 +11462,7 @@ Triptonyc
 A sada...
 Prah i pepeo
 Ljubomora I
-Ljubomora II
+Ljubomora
 Samo srce ne laÅŸe
 Budi uz mene
 Howard Koch
@@ -12123,7 +12123,7 @@ Robin Roberts
 Robin Roberts
 Robin Roberts
 Peter Matthiessen
-John M. Walker, Jr.
+John M. Walker
 Hellhammer
 Hellhammer
 Sabu
@@ -12323,7 +12323,7 @@ The Walk
 Donald Dunstan
 Julie Stevens
 Benjamin
-Aaron II
+Aaron
 Sandra Sully
 Karl Mobius
 SeÃ¡n Power
@@ -12371,7 +12371,7 @@ The Equalizer
 Equalizer
 Bill Bradford
 James Gunn
-W. James (Jim) McNerney Jr.
+W. James (Jim) McNerney
 Foxy Brown
 Alan King
 Craig Wright
@@ -12599,7 +12599,7 @@ David Prior
 David Prior
 Charles Murphy
 William S. Clark
-William Clark, Jr.
+William Clark
 Samuel Loomis
 Spooner, John
 Spooner, John
@@ -12857,9 +12857,9 @@ Argishti I
 Barry Andrews
 Maghan
 Edward John Stanley, 6th Baron Sheffield
-Mari Djata II
-Musa II
-Magha II
+Mari Djata
+Musa
+Magha
 Trevor morgan
 Mahmud I
 Mahmud
@@ -13328,7 +13328,7 @@ John Otto
 Steve Simpson
 John Small
 John Small
-Richard S. (Dick) Fuld, Jr.
+Richard S. (Dick) Fuld
 From Zone 6 To Duval
 The Return Of Mr. Zone 6
 The Cold War
@@ -13567,7 +13567,7 @@ Mike Fisher
 Hydro
 Romanus
 Gregory
-Theodore II
+Theodore
 Theophylactus
 Scott Brown
 A Waste of Shame
@@ -13659,8 +13659,8 @@ Brian Freeman
 Brian Freeman
 Brian Freeman
 David Foot
-Ulysses S. (Buck) Grant, Jr.
-Ulysses S. (Buck) Grant, Jr
+Ulysses S. (Buck) Grant
+Ulysses S. (Buck) Grant
 Jeff Fuller
 Maria of Portugal
 Maria of Portugal
@@ -13814,7 +13814,7 @@ Scott Sullivan
 Edward Lewis
 Andy Reid
 Martyn Lewis
-Bayan II
+Bayan
 Dick Nolan
 Dick Nolan
 Dick Nolan
@@ -13864,7 +13864,7 @@ Nicholas James (Nick) McKim
 William Craven, 1st Earl of Craven
 Chris Potter
 Ayub Khan
-Eligio (Kika) De La Garza, II
+Eligio (Kika) De La Garza
 Out of Your Mind
 Faustus Cornelius Sulla
 Faustus (II) Cornelius Sulla
@@ -13912,11 +13912,11 @@ Robert Moses
 David Anderson
 Chris Brown
 Edward Young
-John Grant, Jr.
-John Grant Jr
-John Grant Jr
 John Grant
-John Grant, Jr.
+John Grant
+John Grant
+John Grant
+John Grant
 Peter Wilkinson
 Foster Fyans
 Foster Fyans
@@ -13940,7 +13940,7 @@ Bronislaw Komorowski
 Ray Noble
 William Carey
 Benjamin Franklin Bache
-Kevin O'Donnell, Jr.
+Kevin O'Donnell
 Alan Cameron
 Alan Cameron
 Tom Murphy
@@ -13987,7 +13987,7 @@ Frank Hunter
 Pontoppidan
 Pontoppian
 Billy Gunn
-Samuel (Sam) E. Mitchell, Jr.
+Samuel (Sam) E. Mitchell
 Sam Mitchell
 Elegance
 William Thompson
@@ -14217,7 +14217,7 @@ Kevin Dillon
 Jim Richards
 Jim Richards
 Pierre Benoit
-Hatto II
+Hatto
 John Cope
 John Miller
 Thomas Twining
@@ -14247,7 +14247,7 @@ Bob Clarke
 John Burns
 John Burns
 Seydou KeÃ¯ta
-Seydou KeÃ¯ta II
+Seydou KeÃ¯ta
 A. Seth
 Chris Brown
 Chris Brown
@@ -14446,7 +14446,7 @@ Gregor Macgregor
 Mike Gordon
 John Rich
 John Rich
-'Abd al-Malik II
+'Abd al-Malik
 Beth Morgan
 Pavel Gerasimov
 John George Bourinot
@@ -14690,7 +14690,7 @@ John Moore
 John Moore
 Joseph Duncan
 Darren Moore
-Karekin II
+Karekin
 Paul Mueller
 Paul MÃŒller
 Steve Peterson
@@ -15610,7 +15610,7 @@ Tommy Smith
 Tyler Walker
 Tyler Walker
 Brandon Miller
-Robert II
+Robert
 George Graham
 Tim James
 Joey Meyer
@@ -15875,7 +15875,7 @@ Sun Shao
 Matt Thompson
 Derek Smith
 James McFadden
-Albert IV.
+Albert
 Andy Frost
 James Stoddard
 Erik Christensen
@@ -16039,8 +16039,8 @@ John Hickman
 Herman MÃŒller
 Hermann Muller
 Hermann Mueller
-Markgraf Heinrich III
-Markgraf Heinrich III
+Markgraf Heinrich
+Markgraf Heinrich
 Angus MacDonell
 Angus MacDonell
 Angus Macdonell
@@ -17078,7 +17078,7 @@ Hylton Deon Ackerman
 Hylton Ackerman
 Mike Powell
 Mike Powell
-Robert Alan Shields, Jr.
+Robert Alan Shields
 Homer Jones
 Homer Jones
 Michael Egan
@@ -17388,7 +17388,7 @@ Bob Francis
 Richard Edwards
 Patrick Phelan
 David Kelly
-Tom McDermott JR.
+Tom McDermott
 James Brooks
 Ian Watkins
 Ian Watkins
@@ -17827,7 +17827,7 @@ Mick Lyons
 Dobber
 Joe Clark
 Ken Johnson
-Ignatius IV
+Ignatius
 Dean Cox
 Dean Cox
 Ann Richards
@@ -18873,7 +18873,7 @@ Adam Jones
 Adam Jones
 Adam Jones
 David Anderson
-Jefferson Randolph ("Soapy") Smith II
+Jefferson Randolph ("Soapy") Smith
 A. H. Smith
 Thomas Bowman
 Thomas Bowman
@@ -19021,7 +19021,7 @@ Adam Bomb
 Steve Jordan
 Steve Jordan
 Steve Jordon
-John Mitchell, Jr.
+John Mitchell
 Ken Henry
 Kevin Johnson
 Kevin Johnson
@@ -19245,7 +19245,7 @@ John Collins
 Andris BÄrziÅÅ¡
 Andris Berzins
 Rudolf Jordan
-Sergius IV
+Sergius
 James Hill
 Linder
 Mel Queen
@@ -19443,7 +19443,7 @@ Bob Boyd
 Stephen Boyd
 Bill Bradley
 Charlie Bradshaw
-Yahballaha III
+Yahballaha
 Stuart Trott
 Daryl Griffiths
 Doucette
@@ -20235,7 +20235,7 @@ Raul (Raton) Macias
 Caroline Miller
 Zhu Bao
 Thomas Burke
-Richard III
+Richard
 Mohamed Omer
 Jack Davenport
 Margaret Smith
@@ -20590,7 +20590,7 @@ Jennifer Smith
 Andy Collins
 The Lovers
 William Whiting
-William Whiting II
+William Whiting
 Alan Gilbert
 Leonor of Aragon
 Leonor of Aragon
@@ -20898,7 +20898,7 @@ Annabel Lee
 John Warner
 Savage
 David Howell
-Solomon III
+Solomon
 Paul Verhoeven
 David Moss
 John Antill
@@ -20988,7 +20988,7 @@ Stephen Marshall
 Bob Taylor
 David Berman
 Bob Anderson
-Orrice Abram (Abe) Murdock, Jr.
+Orrice Abram (Abe) Murdock
 Abdul Rahman
 Nasrat Yar (esatullah) Hiztullah
 Abdul Nasir
@@ -21256,8 +21256,8 @@ Pat White
 Peter Watson
 Peter Watson
 Carlito
-Carlos (Carly) Colon, Jr.
-Carlos (Carly) ColÃ³n, Jr.
+Carlos (Carly) Colon
+Carlos (Carly) ColÃ³n
 George Burnett
 Viktor Ehrenberg
 Viktor Ehrenberg
@@ -21385,7 +21385,7 @@ Charles Farrell
 Thomas Howard
 Nicholas
 Stephen Cooper
-Romuald II
+Romuald
 Richard Marshall
 Richard Marshall
 Richard Marshall
@@ -21570,8 +21570,8 @@ Thucydides
 Yamada
 Nicolaus Ragvaldi
 Sir Albert Coates
-Jim Gibbons, Jr.
-Jim Gibbons, Jr
+Jim Gibbons
+Jim Gibbons
 Mark Noble
 Mark Noble
 Mark Noble
@@ -21848,7 +21848,7 @@ Joe Durso
 Kaoru Kobayashi
 Hot Mess
 William Kelly, Jr.,
-William Kelly, Jr.
+William Kelly
 William C. Harris
 John Hughes
 John Hughes
@@ -22311,8 +22311,8 @@ James Simpson
 Henry Thornton
 Henry Thornton
 Henry Thornton
-James II
-James II
+James
+James
 Beto
 Leo
 Leo
@@ -22371,7 +22371,7 @@ Tim Hamilton
 Tim Hamilton
 Richard E. Cohen
 Wicked Way
-Mael Isu II
+Mael Isu
 Robert Price
 Alec Reid
 AilÃ­n
@@ -23012,7 +23012,7 @@ Jim Benton
 Jim Benton
 Patriarch Volodomyr
 Volodomyr
-Robert Adams, Jr.
+Robert Adams
 Gord Fraser
 Gord Fraser
 Bob Murdoch
@@ -23127,7 +23127,7 @@ Richard Harvey
 Janet Davies
 Josh Wilson
 Sergey Fesenko
-Joe Kennedy, Jr.
+Joe Kennedy
 Zafar Iqbal
 Metropolitan Joseph
 Lee Holmes
@@ -24144,7 +24144,7 @@ Pete Williams
 Peter Williams
 Mike West
 Claude (Hoot) Gibson
-Robert II
+Robert
 Pia
 Matt Taylor
 Robert Torrens
@@ -24925,7 +24925,7 @@ Jim Parker
 Jim Parker
 Thomas F. Murphy
 James Johnson
-Stephen II
+Stephen
 Tom Dempsey
 Walt Anderson
 Tony Mason
@@ -25585,7 +25585,7 @@ Peter Cameron
 Peter Cameron
 Peter Cameron
 Charles Murphy
-John Brewster Jr.
+John Brewster
 Rick Reed
 Frank White
 Frank White
@@ -25714,7 +25714,7 @@ Rhys Williams
 Robert Phillips
 Michael Tierney
 William Scot
-Bernhard II.
+Bernhard
 John Henderson
 John Henderson
 John Flett
@@ -25867,7 +25867,7 @@ Michael O'Connor
 Michael O'Connor
 Michael OâConnor
 Michael O'Connor
-Fred Waring Jr.
+Fred Waring
 Raymond Stewart
 Bernard Brocas
 Pepe
@@ -26189,7 +26189,7 @@ Kevin Grant
 Victor Diaz
 Victor Diaz
 Babu
-John Kerr, Sr.
+John Kerr
 James Geiss
 James Geiss
 Jean Vincent
@@ -26643,7 +26643,7 @@ Michael Lyons
 Michael Lyons
 Michael Lyons
 Pawel Sarna
-Jacob de Gheyn III
+Jacob de Gheyn
 William Irvine
 Rudy Fernandez
 Pat Stapleton
@@ -26704,7 +26704,7 @@ Judah he-Hasid
 William Hickton
 William Hickton
 Clodoald
-Felix Adler II
+Felix Adler
 Felix Adler
 Steven O'Donnell
 JTG
@@ -26864,7 +26864,7 @@ Frank (Frantisek) Daniel
 Dennis Blair
 Dennis Blair
 Matt Higgins
-James (Jay) A. Hoffman, Jr.
+James (Jay) A. Hoffman
 John Sergeant
 Tom Corbett
 Peter O'Sullivan
@@ -26887,7 +26887,7 @@ Yuriy Kutsenko
 PabÄgimas
 PabÄgimas
 Pampa
-Daniel Davis Jr.
+Daniel Davis
 Warren Thompson
 Warren T. Thompson
 Carlos Gonzalez
@@ -27377,9 +27377,9 @@ John McNally
 Hans Baumgartner
 Mel Brock
 David Griffiths
-John Kennedy, Jr.
-John Kennedy, Jr.
-John Kennedy Jr
+John Kennedy
+John Kennedy
+John Kennedy
 John Mackay
 John Mackay (Australian Pioneer
 Frank Carson
@@ -27972,7 +27972,7 @@ Mario
 Mario
 Mario
 Bill Anderson
-James William (Bill) Anderson III
+James William (Bill) Anderson
 Sundance
 Dance For The Celestial Beings
 Chuck Jackson
@@ -28648,7 +28648,7 @@ Blaze Bayley
 Mark Jackson
 Mark Brydon
 Mark Brydon
-Larry Mullen, Jr.
+Larry Mullen
 DJ Fresh
 Fresh
 Hecate
@@ -30671,7 +30671,7 @@ Robert Wauchope
 Bill Sutherland
 Luke Johnson
 Luke Johnson
-Raymond Hoyt (Ray) Thornton, Jr.
+Raymond Hoyt (Ray) Thornton
 Tommy Harris
 Tommy Harris
 Tommy Harris
@@ -31220,7 +31220,7 @@ Invader-1
 Robert Walker
 Robert Walker
 Archibald Campbell
-Joseph R. (Beau) Biden, III
+Joseph R. (Beau) Biden
 Eileen O'Connell
 Eileen O'Connell
 William Louis (Bill) Dickinson
@@ -33429,7 +33429,7 @@ Tom Brown
 Kieran Murphy
 Kieran Murphy
 Derek Smith
-Athanasius II
+Athanasius
 Joe Alexander
 Ted (Kid) Lewis
 John Kendrew
@@ -33836,10 +33836,10 @@ Punnathra Mar Dionysious
 Punnathara Mar Dionysious
 Punnathra Mar Dionysius
 Pulikkottil Joseph Mar Dionysious I
-Pulikkottil Joseph Mar Dionysious II
+Pulikkottil Joseph Mar Dionysious
 Pulikkottil Joseph Mar Dionysious I
 Pulikkottil Joseph Mar Dionysious I
-Pulikkottil Joseph Mar Dionysious II
+Pulikkottil Joseph Mar Dionysious
 Pulikkottil Joseph Mar Dionysious I (Mar Thoma X )Thoma X
 Manuel Jimenez
 John Pratt
@@ -34472,7 +34472,7 @@ James Chambers
 Joseph B. Moore
 Joseph Moore
 Joseph Moore
-Markey, Eugene Lawrence, Jr.
+Markey, Eugene Lawrence
 Amaro
 Saint David
 Anita Stansfield
@@ -36016,7 +36016,7 @@ Zoran Jankovic
 Marilia
 Harry Woods
 George Lucas
-Musa III
+Musa
 The Field
 Andriy Shevchenko
 Andriy Shevchenko
@@ -36600,7 +36600,7 @@ Cory Murphy
 Cory Murphy
 James Francis
 Andy Gonzalez
-Charles (Chip) Pashayan, Jr.
+Charles (Chip) Pashayan
 Charles (Chip) Pashayan
 Vernon Grant
 John Hoffamn
@@ -37649,7 +37649,7 @@ Rabi Abdullah
 Henry Wills
 Ray Martin
 Tim Jordan
-Tim Jordan, II
+Tim Jordan
 Scott Sanderson
 Mark Dennis
 Constantinos (Ted) Coconis
@@ -37868,7 +37868,7 @@ William Hunter
 William Hunter
 William Armstrong
 John Hudson
-Dan O'Brien Sr.
+Dan O'Brien
 Kathryn Adams
 James Carr
 Thomas Sopwith
@@ -38101,7 +38101,7 @@ Mike Phillips
 Albert Hall
 Brandon Graham
 Tim Mason
-John Miller, Jr
+John Miller
 James Anthony
 Bill Foster
 Bill Foster (Illinois politician
@@ -38189,7 +38189,7 @@ Angel Parra
 Frank Murphy
 Jeff Jones
 Armen Nazaryan
-Suleiman II
+Suleiman
 Peter Cousins
 Will James
 Tom James
@@ -38470,7 +38470,7 @@ Hello
 Candice
 James O'Brien
 Joe Daniels
-Solomon II
+Solomon
 Solomon I
 John A. McDougall
 George Sanderson
@@ -38608,7 +38608,7 @@ Brett Johnson
 Robert A. Phillips
 Max Hall
 Max Hall
-David II
+David
 Edward Grant
 Norman Porter
 Tom Pritchard
@@ -38637,12 +38637,12 @@ Dan Jones
 Dan Jones
 Dan Jones
 Dan Jones
-August H. (Augie) Auer Jr
+August H. (Augie) Auer
 James Ross
 Jessica Lynch
 Fred Jones
 Frederick Jones
-Onias III
+Onias
 Dragan Mladenovic
 Dragan MladenoviÄ
 Susan Johnson
@@ -38773,7 +38773,7 @@ Fred Goldsmith
 Dan McKenzie
 Dan McKenzie
 Onias I
-Onias II
+Onias
 Robert Reid
 Mihail Aleksandrov
 Mihail Alexandrov
@@ -39516,7 +39516,7 @@ Juan VÃ¡squez
 Steve Brodie
 Bill Hodges
 John Gray
-Matthew M. (Mike) Trupiano, Jr.
+Matthew M. (Mike) Trupiano
 Theudebald
 Edmund Guest
 Brian Henderson
@@ -39911,7 +39911,7 @@ George Smith
 Keith Holmes
 Bob Weir
 Heikki Paasonen
-Evfimy II
+Evfimy
 Princess Alexandrine of Baden
 Alexandrine of Baden
 Princess Alexandrine of Baden
@@ -40957,7 +40957,7 @@ Richard Barnes
 Cwichelm
 Waermund
 Waermund
-Waermund II
+Waermund
 AElfstan
 Godwine
 Godwine
@@ -41005,8 +41005,8 @@ Bobby Morgan
 Cameron Brown
 Ãthelwold
 Ãthelwold
-AEthelwold II
-AElfsige II
+AEthelwold
+AElfsige
 Ãlfsige
 Steve Pearce
 William Knight
@@ -41136,7 +41136,7 @@ Bill Brooks
 Bud Brooks
 Roberto Garcia
 Frank Currier
-Michael Woodford, Jr.
+Michael Woodford
 Rudy Garcia
 Tony Taylor
 Arthur Brown
@@ -41886,7 +41886,7 @@ Dennis O'neil
 Alan Campbell
 Alan Campbell
 Don Carthel
-Robert III
+Robert
 Charlie Reynolds (catcher
 Mark Schultz
 Edgar Jones
@@ -42756,7 +42756,7 @@ Billy Steele
 Peter Yang
 Ganapathi
 Ganapathy
-William Clark, Jr.
+William Clark
 Ted (edward) sullivan
 Sean Lynch
 Ken Kennedy
@@ -43076,9 +43076,9 @@ Robert Richardson
 Robert Richardson
 Bhama
 William Cook
-John Roberts Jr.
-John Roberts Jr.
-John Roberts, Jr.
+John Roberts
+John Roberts
+John Roberts
 Hiroko Hayashi
 Hiroko Hayashi
 Marcus Clarke
@@ -43605,7 +43605,7 @@ Rodrigo DÃ­az
 Rodrigo Diaz
 Craig Powell
 Rick Middleton
-Suzuki Shin'ichi II
+Suzuki Shin'ichi
 Henry Fane
 Hsi Hsia
 Hsi Hsia
@@ -43839,7 +43839,7 @@ Mike McGlinchey
 Rubin Stevenson
 Stephen barlow
 Samuel Colage, Jr. (football coach
-Samuel Colgate, Jr.
+Samuel Colgate
 Dick Biddle
 Preston Smith
 Spencer Ford
@@ -44243,7 +44243,7 @@ Judah Ben Joseph Ibn Bulat
 Tommy Walsh
 Tommy Walsh
 Denha I
-Makkikha II
+Makkikha
 Martin de Alzaga
 MartÃ­n de Ãlzaga
 Ian Robins
@@ -44474,8 +44474,8 @@ William Muir
 William Muir
 Chick Evans
 Margaret Lockwood
-Ray Brown, Jr
-Ray Brown Jr.
+Ray Brown
+Ray Brown
 Kevin Powell
 Point and Shoot
 Richard Southwell
@@ -44782,9 +44782,9 @@ Kenny Anderson
 Kana
 Mario Suarez
 Sha
-Pure II
-Pure II
-Pure II
+Pure
+Pure
+Pure
 Johan Botha
 Wayne jackson
 Peter Richardson
@@ -45604,7 +45604,7 @@ Jeremy Glick
 Jeremy Glick
 Jeremy Glick
 David Dobkin
-Francis Wayland III
+Francis Wayland
 William Locker
 Joel Pett / Lexington Herald-Leader
 Ashley Cooper
@@ -46001,7 +46001,7 @@ Maybe
 Greg Davis
 John Roach
 Kristen
-(John Henry Saunders III
+(John Henry Saunders
 The Message
 Plamen Krumov
 Larry Fonacier
@@ -46166,7 +46166,7 @@ James Powers
 William Chambers
 William Chambers
 William H. Gray
-William (Bill) H. Gray, III
+William (Bill) H. Gray
 William H. Gray
 William H. Gray
 Brad Anderson
@@ -46369,7 +46369,7 @@ Ivan Vishnevskiy
 Ivan Vishnevsky
 Fumaca
 M. William Howard
-M. William Howard, Jr.
+M. William Howard
 Horace Mann
 Robert Coulter
 James Quinn
@@ -46882,8 +46882,8 @@ James Howard
 James Howard
 Richard Graham
 Jim Reed
-Pulikkottil Joseph Mar Dionysious II
-Pulikkottil Joseph Mar Dionysious II
+Pulikkottil Joseph Mar Dionysious
+Pulikkottil Joseph Mar Dionysious
 George Bush
 Francesco Gonzaga
 Tom Thomson
@@ -47465,7 +47465,7 @@ Luke Ford
 Wladyslaw Michejda
 WÅadysÅaw Michejda
 Michael Edwards
-Arthur W Graham III
+Arthur W Graham
 Victor Turner
 Life Is a Circus
 Life is a Circus
@@ -48194,7 +48194,7 @@ Archie Macpherson
 Hiroko Suzuki
 Hiroko Suzuki
 Hiroko Suzuki
-Eugenius II
+Eugenius
 Richard Louis
 John Andra
 John Andre
@@ -48325,7 +48325,7 @@ James R. Black
 John Flack
 John Flack
 James Russell
-Emile Masson Jr.
+Emile Masson
 Joseph Daniel McCarthy (Joe McCarthy) US Paralympian
 Joseph Daniel McCarthy
 Keith Savage
@@ -49791,7 +49791,7 @@ Isabella of Valois
 Cho Jin-Ho
 Jose Sosa
 Jonathan Gruber
-Christian II
+Christian
 James Whalen
 Tom Gleeson
 Tom Gleeson
@@ -50181,7 +50181,7 @@ Charles M. Cooke
 George Webster
 George Andrews
 Robert Jordan
-Robert H. (Bob) Jordan, Jr.
+Robert H. (Bob) Jordan
 John Smith
 Thomas Jones
 Augustine A. (Gus) Healy
@@ -50878,7 +50878,7 @@ William Baker
 Archduchess Maria of Austria
 Mihajlo PetroviÄ
 Mihailo Petrovic
-John A. (âJackâ) LaSota, Jr.
+John A. (âJackâ) LaSota
 Jack Gore
 Paul Edmondson
 Mike Manley
@@ -52631,7 +52631,7 @@ Barbara of Brandenburg
 John Lennon
 Chris Mahoney
 Eugene O'Brien
-Joseph II
+Joseph
 Bernie Goldstein
 One-person (or solo) librarianship
 One-Person (or Solo) Librarianship
@@ -52758,7 +52758,7 @@ Butch Hartman
 Alejandro Gonzalez
 Chris Curran
 GÄius Salvius LÄ«berÄlis
-Joseph III
+Joseph
 The Border
 Arthur Rowley
 Johnny Tobin
@@ -52899,7 +52899,7 @@ Fred Reid
 Paisios
 Marie Lund
 Siegfried Muller
-Joseph IV
+Joseph
 Richard Curtis
 Joseph Simpson
 Douglas E Wright
@@ -53364,8 +53364,8 @@ Andronikos Komnenos
 Andronikos Komnenos
 D. Srinivas
 D.Srinivas
-William Kelly Sr.
-William Kelly, Sr.
+William Kelly
+William Kelly
 Diego Ramirez
 Fatima
 Charles Moss
@@ -53608,12 +53608,12 @@ Tyler Willis
 John Oldham
 Hans F. Bauer
 Hans Bauer
-John Paul, Jr.
 John Paul
-John Paul Jr.
-John Paul, Jr.
 John Paul
-John Paul, Jr.
+John Paul
+John Paul
+John Paul
+John Paul
 John Muir
 Sam Hall
 Kokolo
@@ -54115,7 +54115,7 @@ Maria Teresa Francesca Cybo Malaspina
 Maria Teresa Cybo Malaspina
 Haji Muhammmed Aslam Khan Khichi
 Ian Gray
-James L. Richetelli, Jr.
+James L. Richetelli
 Bang!
 Bang !
 John McGowan
@@ -54330,7 +54330,7 @@ Francis Johnson
 Francis Johnson
 Fredrik Georg Gade
 Fredrik Georg Gade
-Gregory II
+Gregory
 James (Jim) Milner
 James (Jim) Millner
 Charles Ramsay
@@ -54604,7 +54604,7 @@ Emile Bernard
 John E. Yunker
 John E Yunker
 John E. Yunker
-G. Nicolas (Nick) Hayek, Jr
+G. Nicolas (Nick) Hayek
 William Wedig
 Robert Simpson
 John Henry
@@ -54737,7 +54737,7 @@ Marion Anderson
 John Hogg
 J.T. Thomas
 JT Thomas
-James Thomas Jr.
+James Thomas
 Prince Maximilian of Saxony
 Lord Alwyne Compton
 Colin Campbell
@@ -54868,8 +54868,8 @@ Robert Warren
 Nick Smith
 Tom Leonard
 William Stone
-John Brown, Jr.
-John Brown, Jr.
+John Brown
+John Brown
 Michael Turner
 Sajjad Ahmed
 Ahmad Shah
@@ -55291,7 +55291,7 @@ Geoffrey Lynch
 Louise AdÃ©laÃ¯de de Bourbon
 Louise Adelaide de Bourbon
 Brian O'Neill
-Alexander Pope Jr.
+Alexander Pope
 Paul Vance
 Toby
 James Johnson
@@ -56039,7 +56039,7 @@ Willie The Kid
 Talisman
 Robert W. Pike
 Juan Manuel Blanes
-Hermenegild II
+Hermenegild
 Stanley Robertson
 Thomas Moore
 Arthur Kemp
@@ -56217,8 +56217,8 @@ Jack Proctor
 Andrew Perne
 William Stanley
 Karen Burke
-Savaric II
-Savaric II
+Savaric
+Savaric
 VÃ¡clav Kadlec
 Andrei Smirnov
 Padatik
@@ -56609,8 +56609,8 @@ David Kerr
 David Kerr
 Elizabeth of Kuyavia
 Richard Green
-Robert F. Wagner, Jr.
-Robert F. Wagner Jr.
+Robert F. Wagner
+Robert F. Wagner
 Francesco Bianchi
 Sancha of LeÃ³n
 Sancha
@@ -57281,7 +57281,7 @@ Frederick Jackson
 Nia Roberts
 Geza Teleki
 William Leake
-Robert Gray Sr
+Robert Gray
 John Anderson
 Oliver St. John
 Oliver St John
@@ -57686,7 +57686,7 @@ Thomas R. Marshall
 Dick Valentine
 Gary Anderson
 John Thomas
-John Thomas II
+John Thomas
 James Melville
 Alejandro Garcia
 Karthika
@@ -57817,7 +57817,7 @@ W.E.Butler
 Jose Valdez
 B.A.S.K.O.
 Jamie Davies
-Martin Fillmore Clark, Jr.
+Martin Fillmore Clark
 Vladimir Dlouhy
 Chen Tang
 Jim Day
@@ -58014,7 +58014,7 @@ Joseph Owens
 Euphemia of Greater Poland
 Mark Thorburn
 Csaba Szucs
-Suario II
+Suario
 Nick Anstee
 Matthew Watson
 Matthew Watson
@@ -58053,7 +58053,7 @@ Louis Tellier
 James Hoover
 Mike McDougal
 Spurius Carvilius
-Allen Aldridge Jr.
+Allen Aldridge
 Richard
 Jerome Quinn
 Hans Dieter Betz
@@ -58179,7 +58179,7 @@ Ray Charles
 Gerry Sullivan
 Anthony Moyles
 Henry Danby Seymour
-Richard Bache Jr.
+Richard Bache
 Andy Robinson
 Richard Lloyd
 Elena Panova
@@ -58905,7 +58905,7 @@ Pietro Balesta
 Funky
 Funky
 Charles Hall
-J. Edwin Eukpeeh Lloyd, Sr
+J. Edwin Eukpeeh Lloyd
 Richard Weston
 Richard Weston
 William P. Murphy
@@ -59734,7 +59734,7 @@ John Baring
 Walter Lees
 Stephen Lynch
 Carlos Alves
-Tom Hamilton Jr.
+Tom Hamilton
 Dominic Allen
 James Johnston
 Nick Magnus
@@ -59807,7 +59807,7 @@ Andrew O'Connor, Sculptor
 Alfonso de la Cerda
 Alfonso de la Cerda
 Alfonso de la Cerda
-Yohannan III
+Yohannan
 Cliff Ashby
 Timothy Reifsnyder
 John Tomlin
@@ -60226,7 +60226,7 @@ George Mann
 Gary Phillips
 Vic Smith
 John Woodcock
-William Hague Jr.
+William Hague
 Joseph Davies
 George E. Bemi
 Thomas McInnes
@@ -61035,7 +61035,7 @@ Francisco Arguello
 Francisco ArgÃŒello
 Chachamaru
 James Flannery
-Louis II
+Louis
 Roger Walker
 Constantinus
 William Evans
@@ -61719,7 +61719,7 @@ Stuart McLaren
 Alan Harris
 Mona Lisa
 Manuel Cardoso
-Marshall Ellison Smith, Sr.
+Marshall Ellison Smith
 Thomas Kirwan
 Kosuke Masuda
 Paul Gibbs
@@ -61908,7 +61908,7 @@ John C. Groome
 Nikolay Florea
 Jamie Lim
 Jose Cabrera
-John Held, Jr
+John Held
 Charles F. Humphrey
 Charles Slack
 Schlomo (Salomon) Bernstein
@@ -61954,7 +61954,7 @@ James Young
 David Morrow
 I.N.F.O.
 I.N.F.O.
-Abdul Rashid II
+Abdul Rashid
 Rahul Bhatt
 Wilhelm Kohler
 Joao Ribeiro
@@ -61971,7 +61971,7 @@ Peter I
 Zhang Zhao
 Andrew Owens
 Henry Thompson
-Mushtaq Ahmad II
+Mushtaq Ahmad
 Michael McCormack
 Javier Mora
 Thomas Donovan
@@ -62083,7 +62083,7 @@ Rafal Augustyn
 James Thayer
 Julio Leon
 Scheherazade
-Taft Richardson Jr.
+Taft Richardson
 Eric Clarke
 John Ely
 Miguel Rodriguez
@@ -63628,8 +63628,8 @@ CristovÃ£o da Costa
 Lagonda
 Anthony Adrian Allen
 Ralph Davis
-William Hancock Sr.
-William Hancock Jr.
+William Hancock
+William Hancock
 Aleksandr Buturlin
 Keith Harris
 Keith Harris
@@ -63811,7 +63811,7 @@ Dame Margot
 Richard Farmer
 William Jephson
 John Lawrence
-Alfano II
+Alfano
 Scott Carpenter
 Edward McHugh
 Robert Davidson
@@ -63857,7 +63857,7 @@ Simon Mills
 Ben Lovett
 Ben Lovett
 Eugene Simon
-James W. Fuller, Jr.
+James W. Fuller
 Joker
 Thomas Broughton
 Danielle Fong
@@ -63893,7 +63893,7 @@ Peter Brady
 Takeshi Suzuki
 Albert Heijn
 People are Knowledge
-James W. Fuller, III
+James W. Fuller
 Thomas Lucy
 Dean Johnson
 David Brodie
@@ -63928,7 +63928,7 @@ Brendon Egan
 John Bright
 Andronikos Palaiologos
 Richard England
-Frederick T. van Beuren, Jr.
+Frederick T. van Beuren
 Darryl Morris
 Leroy Smith
 Alan la Zouche
@@ -64075,7 +64075,7 @@ John Patteson
 Jan Vermeiren
 Haco
 Dan Green
-Vernon Edward (Copy) Berg, III
+Vernon Edward (Copy) Berg
 Jacob Davis
 Jacob Youphes
 Tyler Wilson
@@ -64269,7 +64269,7 @@ James Hitchcock
 Walter Evans
 Sumitra
 Charles Gray
-Kevin Barry, Sr.
+Kevin Barry
 Mike Strug
 Kjeld Stub
 Margaret Brown
@@ -66057,7 +66057,7 @@ William Bayne
 Steve Hart
 Pedro I
 Suero I
-Peter III
+Peter
 Bob Davidson
 William Newton
 Herbert Werner
@@ -66480,7 +66480,7 @@ Ralph (Ralf) Henricksen
 Vladimir Vujtek
 VladimÃ­r VÅ¯jtek (ice hockey b. 1947),
 Jonathan Silver
-Zorobabel Moreira Jr.
+Zorobabel Moreira
 Sabu
 Sabu
 Mota
@@ -67083,7 +67083,7 @@ Charles Fenton
 Samuel Crawford (born 1892), Negro Leagues Pitcher and Manager
 David Abell
 Caspian James Crichton-Stuart IV (Joshua Adam Gardner), 5th Duke of Cleveland
-Caspian James Crichton-Stuart IV
+Caspian James Crichton-Stuart
 David Hunter
 Archduchess Maria Elisabeth of Austria
 Peter Jones

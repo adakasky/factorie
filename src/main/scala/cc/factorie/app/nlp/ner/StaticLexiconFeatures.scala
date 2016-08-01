@@ -64,6 +64,10 @@ class StaticLexiconFeatures(lexicon:StaticLexicons, lang: String) extends NerLex
     	lexicon.wikipedia.PersonAndRedirect.toString()
     	lexicon.wikipedia.OrganizationAndRedirect.toString()
 
+
+		lexicon.iesl.CountryAbbr2.toString()
+		lexicon.iesl.CountryAbbr3.toString()
+
 		lexicon.english.MajorAnimalParenWiki.toString()
 		lexicon.english.MajorAnimalRedirectParenWiki.toString()
 		lexicon.english.MajorAnimalRedirectWiki.toString()
@@ -203,6 +207,31 @@ class StaticLexiconFeatures(lexicon:StaticLexicons, lang: String) extends NerLex
 		lexicon.english.MajorWaterbodiesRedirectWiki.toString()
 		lexicon.english.MajorWaterbodiesWiki.toString()
 
+		lexicon.english.MajorAnimal.toString()
+		lexicon.english.MajorAnimals.toString()
+		lexicon.english.MajorBattle.toString()
+		lexicon.english.MajorBattles.toString()
+		lexicon.english.MajorBook.toString()
+		lexicon.english.MajorBusiness.toString()
+		lexicon.english.MajorCity.toString()
+		lexicon.english.MajorCompetition.toString()
+		lexicon.english.MajorCountry.toString()
+		lexicon.english.MajorEvent.toString()
+		lexicon.english.MajorEvents.toString()
+		lexicon.english.MajorFilm.toString()
+		lexicon.english.MajorLocation.toString()
+		lexicon.english.MajorManMadeThing.toString()
+		lexicon.english.MajorMan_made_thing.toString()
+		lexicon.english.MajorOrganization.toString()
+		lexicon.english.MajorPerson.toString()
+		lexicon.english.MajorPersonFirst.toString()
+		lexicon.english.MajorPersonLast.toString()
+		lexicon.english.MajorSong.toString()
+		lexicon.english.MajorSongs.toString()
+		lexicon.english.MajorState.toString()
+		lexicon.english.MajorWaterbodies.toString()
+
+		/*
 		lexicon.english.MinorBaseFightCrimeTypeFree.toString()
 		lexicon.english.MinorBusinessDisambiguationWiki.toString()
 		lexicon.english.MinorBusinessJobTitleFree.toString()
@@ -261,6 +290,7 @@ class StaticLexiconFeatures(lexicon:StaticLexicons, lang: String) extends NerLex
 		lexicon.english.MinorPersonWiki.toString()
 		lexicon.english.MinorReligionReligionFree.toString()
 		lexicon.english.MinorReligionReligiousOrganizationFree.toString()
+		*/
     }
     
     if (lang.equals("es") || lang.equals("all")){
@@ -289,6 +319,10 @@ class StaticLexiconFeatures(lexicon:StaticLexicons, lang: String) extends NerLex
 		lexicon.spanish.WikiLocationAndRedirect.toString()
 		lexicon.spanish.WikiPersonAndRedirect.toString()
 		lexicon.spanish.WikiOrganizationAndRedirect.toString()
+
+
+		lexicon.iesl.CountryAbbr2.toString()
+		lexicon.iesl.CountryAbbr3.toString()
 
 
 		lexicon.spanish.MajorBaseFightCrimeTypeFree.toString()
@@ -339,7 +373,13 @@ class StaticLexiconFeatures(lexicon:StaticLexicons, lang: String) extends NerLex
 		lexicon.spanish.MajorReligionReligionFree.toString()
 		lexicon.spanish.MajorReligionReligiousOrganizationFree.toString()
 
+		lexicon.spanish.MajorPerson.toString()
+		lexicon.spanish.MajorOrganization.toString()
+		lexicon.spanish.MajorCity.toString()
+		lexicon.spanish.MajorCountry.toString()
+		lexicon.spanish.MajorState.toString()
 
+		/*
 		lexicon.spanish.MinorBaseFightCrimeTypeFree.toString()
 		lexicon.spanish.MinorBusinessJobTitleFree.toString()
 		lexicon.spanish.MinorBusinessWiki.toString()
@@ -378,6 +418,7 @@ class StaticLexiconFeatures(lexicon:StaticLexicons, lang: String) extends NerLex
 		lexicon.spanish.MinorPersonWiki.toString()
 		lexicon.spanish.MinorReligionReligionFree.toString()
 		lexicon.spanish.MinorReligionReligiousOrganizationFree.toString()
+		*/
     }
      
   }
@@ -427,6 +468,9 @@ class StaticLexiconFeatures(lexicon:StaticLexicons, lang: String) extends NerLex
     	lexicon.wikipedia.LocationAndRedirect.tagText(tokenSequence,vf,"WIKI-LOCATION-REDIRECT")
     	lexicon.wikipedia.PersonAndRedirect.tagText(tokenSequence,vf,"WIKI-PERSON-REDIRECT")
     	lexicon.wikipedia.OrganizationAndRedirect.tagText(tokenSequence,vf,"WIKI-ORG-REDIRECT")
+
+		lexicon.iesl.CountryAbbr2.tagText(tokenSequence,vf,"IESL-COUNTRY-ABBR2")
+		lexicon.iesl.CountryAbbr3.tagText(tokenSequence,vf,"IESL-COUNTRY-ABBR3")
 
 		lexicon.english.MajorAnimalParenWiki.tagText(tokenSequence,vf,"MAJOR-ANIMAL-PAREN-WIKI")
 		lexicon.english.MajorAnimalRedirectParenWiki.tagText(tokenSequence,vf,"MAJOR-ANIMAL-REDIRECT-PAREN-WIKI")
@@ -567,7 +611,32 @@ class StaticLexiconFeatures(lexicon:StaticLexicons, lang: String) extends NerLex
 		lexicon.english.MajorWaterbodiesRedirectWiki.tagText(tokenSequence,vf,"MAJOR-WATERBODIES-REDIRECT-WIKI")
 		lexicon.english.MajorWaterbodiesWiki.tagText(tokenSequence,vf,"MAJOR-WATERBODIES-WIKI")
 
+		lexicon.english.MajorAnimal.tagText(tokenSequence,vf,"MAJOR-ANIMAL")
+		lexicon.english.MajorAnimals.tagText(tokenSequence,vf,"MAJOR-ANIMALS")
+		lexicon.english.MajorBattle.tagText(tokenSequence,vf,"MAJOR-BATTLE")
+		lexicon.english.MajorBattles.tagText(tokenSequence,vf,"MAJOR-BATTLES")
+		lexicon.english.MajorBook.tagText(tokenSequence,vf,"MAJOR-BOOK")
+		lexicon.english.MajorBusiness.tagText(tokenSequence,vf,"MAJOR-BUSINESS")
+		lexicon.english.MajorCity.tagText(tokenSequence,vf,"MAJOR-CITY")
+		lexicon.english.MajorCompetition.tagText(tokenSequence,vf,"MAJOR-COMPETITION")
+		lexicon.english.MajorCountry.tagText(tokenSequence,vf,"MAJOR-COUNTRY")
+		lexicon.english.MajorEvent.tagText(tokenSequence,vf,"MAJOR-EVENT")
+		lexicon.english.MajorEvents.tagText(tokenSequence,vf,"MAJOR-EVENTS")
+		lexicon.english.MajorFilm.tagText(tokenSequence,vf,"MAJOR-FILM")
+		lexicon.english.MajorJobTitle.tagText(tokenSequence,vf,"MAJOR-JOB-TITLE")
+		lexicon.english.MajorLocation.tagText(tokenSequence,vf,"MAJOR-LOCATION")
+		lexicon.english.MajorManMadeThing.tagText(tokenSequence,vf,"MAJOR-MAN-MADE-THING")
+		lexicon.english.MajorMan_made_thing.tagText(tokenSequence,vf,"MAJOR-MAN_MADE_THING")
+		lexicon.english.MajorOrganization.tagText(tokenSequence,vf,"MAJOR-ORGANIZATION")
+		lexicon.english.MajorPerson.tagText(tokenSequence,vf,"MAJOR-PERSON")
+		lexicon.english.MajorPersonFirst.tagText(tokenSequence,vf,"MAJOR-PERSON-FIRST")
+		lexicon.english.MajorPersonLast.tagText(tokenSequence,vf,"MAJOR-PERSON-LAST")
+		lexicon.english.MajorSong.tagText(tokenSequence,vf,"MAJOR-SONG")
+		lexicon.english.MajorSongs.tagText(tokenSequence,vf,"MAJOR-SONGS")
+		lexicon.english.MajorState.tagText(tokenSequence,vf,"MAJOR-STATE")
+		lexicon.english.MajorWaterbodies.tagText(tokenSequence,vf,"MAJOR-WATERBODIES")
 
+		/*
 		lexicon.english.MinorBaseFightCrimeTypeFree.tagText(tokenSequence,vf,"MINOR-BASE-FIGHT-CRIME-TYPE-FREE")
 		lexicon.english.MinorBusinessDisambiguationWiki.tagText(tokenSequence,vf,"MINOR-BUSINESS-DISAMBIGUATION-WIKI")
 		lexicon.english.MinorBusinessJobTitleFree.tagText(tokenSequence,vf,"MINOR-BUSINESS-JOB-TITLE-FREE")
@@ -626,6 +695,7 @@ class StaticLexiconFeatures(lexicon:StaticLexicons, lang: String) extends NerLex
 		lexicon.english.MinorPersonWiki.tagText(tokenSequence,vf,"MINOR-PERSON-WIKI")
 		lexicon.english.MinorReligionReligionFree.tagText(tokenSequence,vf,"MINOR-RELIGION-RELIGION-FREE")
 		lexicon.english.MinorReligionReligiousOrganizationFree.tagText(tokenSequence,vf,"MINOR-RELIGION-RELIGIOUS-ORGANIZATION-FREE")
+		*/
 	}
 
     if (lang.equals("es") || lang.equals("all")){
@@ -654,6 +724,10 @@ class StaticLexiconFeatures(lexicon:StaticLexicons, lang: String) extends NerLex
 		lexicon.spanish.WikiLocationAndRedirect.tagText(tokenSequence,vf,"WIKI-LOCATION-REDIRECT")
 		lexicon.spanish.WikiPersonAndRedirect.tagText(tokenSequence,vf,"WIKI-PERSON-REDIRECT")
 		lexicon.spanish.WikiOrganizationAndRedirect.tagText(tokenSequence,vf,"WIKI-ORG-REDIRECT")
+
+
+		lexicon.iesl.CountryAbbr2.tagText(tokenSequence,vf,"IESL-COUNTRY-ABBR2")
+		lexicon.iesl.CountryAbbr3.tagText(tokenSequence,vf,"IESL-COUNTRY-ABBR3")
 
 
 		lexicon.spanish.MajorBaseFightCrimeTypeFree.tagText(tokenSequence,vf,"MAJOR-BASE-FIGHT-CRIME-TYPE-FREE")
@@ -704,7 +778,13 @@ class StaticLexiconFeatures(lexicon:StaticLexicons, lang: String) extends NerLex
 		lexicon.spanish.MajorReligionReligionFree.tagText(tokenSequence,vf,"MAJOR-RELIGION-RELIGION-FREE")
 		lexicon.spanish.MajorReligionReligiousOrganizationFree.tagText(tokenSequence,vf,"MAJOR-RELIGION-RELIGIOUS-ORGANIZATION-FREE")
 
+		lexicon.spanish.MajorPerson.tagText(tokenSequence,vf,"MAJOR-PERSON")
+		lexicon.spanish.MajorOrganization.tagText(tokenSequence,vf,"MAJOR-ORGANIZATION")
+		lexicon.spanish.MajorCity.tagText(tokenSequence,vf,"MAJOR-CITY")
+		lexicon.spanish.MajorCountry.tagText(tokenSequence,vf,"MAJOR-COUNTRY")
+		lexicon.spanish.MajorState.tagText(tokenSequence,vf,"MAJOR-STATE")
 
+		/*
 		lexicon.spanish.MinorBaseFightCrimeTypeFree.tagText(tokenSequence,vf,"MINOR-BASE-FIGHT-CRIME-TYPE-FREE")
 		lexicon.spanish.MinorBusinessJobTitleFree.tagText(tokenSequence,vf,"MINOR-BUSINESS-JOB-TITLE-FREE")
 		lexicon.spanish.MinorBusinessWiki.tagText(tokenSequence,vf,"MINOR-BUSINESS-WIKI")
@@ -743,6 +823,7 @@ class StaticLexiconFeatures(lexicon:StaticLexicons, lang: String) extends NerLex
 		lexicon.spanish.MinorPersonWiki.tagText(tokenSequence,vf,"MINOR-PERSON-WIKI")
 		lexicon.spanish.MinorReligionReligionFree.tagText(tokenSequence,vf,"MINOR-RELIGION-RELIGION-FREE")
 		lexicon.spanish.MinorReligionReligiousOrganizationFree.tagText(tokenSequence,vf,"MINOR-RELIGION-RELIGIOUS-ORGANIZATION-FREE")
+		*/
 	}
 
   }
