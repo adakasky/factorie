@@ -43,14 +43,14 @@ class TokenSequence[T<:NerTag](token: Token)(implicit m: ClassTag[T]) extends co
 }
 
 abstract class StackedChainNer[L<:NerTag](labelDomain: CategoricalDomain[String],
-                                 newLabel: (Token, String) => L,
-                                 labelToToken: L => Token,
-                                 embeddingMap: SkipGramEmbedding,
-                                 embeddingDim: Int,
-                                 scale: Double,
-                                 useOffsetEmbedding: Boolean,
-                                 modelIs: InputStream=null,
-                                 nerLexiconFeatures: NerLexiconFeatures)(implicit m: ClassTag[L]) extends DocumentAnnotator with Serializable {
+                                          newLabel: (Token, String) => L,
+                                          labelToToken: L => Token,
+                                          embeddingMap: SkipGramEmbedding,
+                                          embeddingDim: Int,
+                                          scale: Double,
+                                          useOffsetEmbedding: Boolean,
+                                          modelIs: InputStream=null,
+                                          nerLexiconFeatures: NerLexiconFeatures)(implicit m: ClassTag[L]) extends DocumentAnnotator with Serializable {
 
   val FEATURE_PREFIX_REGEX = "^[^@]*$".r
   val ALPHA_REGEX = "[A-Za-z]+".r
@@ -105,7 +105,7 @@ abstract class StackedChainNer[L<:NerTag](labelDomain: CategoricalDomain[String]
                                                                                  labelToFeatures1:L=>Features,
                                                                                  labelToToken1:L=>Token,
                                                                                  tokenToLabel1:Token=>L)
-    extends ChainModel(labelDomain, featuresDomain1, labelToFeatures1, labelToToken1, tokenToLabel1) with Parameters {
+      extends ChainModel(labelDomain, featuresDomain1, labelToFeatures1, labelToToken1, tokenToLabel1) with Parameters {
 
     // Factor for embedding of observed token
     val embedding = new DotFamilyWithStatistics2[L, EmbeddingVariable] {
@@ -254,26 +254,26 @@ abstract class StackedChainNer[L<:NerTag](labelDomain: CategoricalDomain[String]
   }
 
 
-//  val bos: BufferedOutputStream = new BufferedOutputStream(new FileOutputStream("features.txt"), 10000)
-//  val out: PrintStream = new PrintStream(bos, true)
-//
-//  for (token <- document.tokens) {
-//      val features: ChainNerFeatures = token.attr[ChainNerFeatures]
-//      if(features != null && features.activeCategories.size > 0) {
-//        val feats: Seq[String] = features.activeCategories.sortWith(_ < _) 
-//        out.println(document.name+":"+token.position+"="+feats.mkString(", "))
-//      }
-//  }
+  //  val bos: BufferedOutputStream = new BufferedOutputStream(new FileOutputStream("features.txt"), 10000)
+  //  val out: PrintStream = new PrintStream(bos, true)
+  //
+  //  for (token <- document.tokens) {
+  //      val features: ChainNerFeatures = token.attr[ChainNerFeatures]
+  //      if(features != null && features.activeCategories.size > 0) {
+  //        val feats: Seq[String] = features.activeCategories.sortWith(_ < _)
+  //        out.println(document.name+":"+token.position+"="+feats.mkString(", "))
+  //      }
+  //  }
 
-  
+
   def initFeatures(document:Document, vf:Token=>CategoricalVectorVar[String]): Unit = {
     count=count+1
     val tokenSequence = document.tokens.toIndexedSeq
     //One pass of lemmatising, this should be the same lemmatiser as the one used to construct the lexicon.
     LowercaseLemmatizer.process(document)
-    
+
     nerLexiconFeatures.addLexiconFeatures(tokenSequence, vf)
-    
+
 
     import cc.factorie.app.strings.simplifyDigits
     for (token <- document.tokens) {
@@ -330,7 +330,7 @@ abstract class StackedChainNer[L<:NerTag](labelDomain: CategoricalDomain[String]
     }
 
     if(aggregate) document.tokens.foreach( aggregateContext(_, vf) )
-    
+
 
   }
 
@@ -519,7 +519,7 @@ abstract class StackedChainNer[L<:NerTag](labelDomain: CategoricalDomain[String]
 
     val trainLabels = trainDocuments.flatMap(_.tokens).map(_.attr[L with LabeledMutableDiscreteVar]) //.take(100)
     val testLabels = testDocuments.flatMap(_.tokens).map(_.attr[L with LabeledMutableDiscreteVar]) //.take(20)
-    
+
     val vars = for(td <- trainDocuments; sentence <- td.sentences if sentence.length > 1) yield sentence.tokens.map(_.attr[L with LabeledMutableDiscreteVar])
     val examples = vars.map(v => new model.ChainLikelihoodExample(v.toSeq))
     println("Training with " + examples.length + " examples")
@@ -527,13 +527,13 @@ abstract class StackedChainNer[L<:NerTag](labelDomain: CategoricalDomain[String]
     trainDocuments.foreach(process(_, useModel2=false))
     testDocuments.foreach(process(_, useModel2=false))
     printEvaluation(trainDocuments, testDocuments, "FINAL 1")
- 
+
     (trainDocuments ++ testDocuments).foreach( _.tokens.map(token => token.attr += new ChainNer2Features(token)))
 
     for(document <- trainDocuments) initFeatures(document, (t:Token)=>t.attr[ChainNer2Features])
     for(document <- trainDocuments) initSecondaryFeatures(document)
     ChainNer2FeaturesDomain.freeze()
-      
+
     for(document <- testDocuments) initFeatures(document, (t:Token)=>t.attr[ChainNer2Features])
     for(document <- testDocuments) initSecondaryFeatures(document)
     //println(trainDocuments(3).tokens.map(token => token.nerTag.target.categoryValue + " "+token.string+" "+token.attr[ChainNer2Features].toString).mkString("\n"))
@@ -605,15 +605,15 @@ class ConllStackedChainNer(embeddingMap: SkipGramEmbedding,
                            embeddingDim: Int,
                            scale: Double,
                            useOffsetEmbedding: Boolean)(implicit mp:ModelProvider[ConllStackedChainNer], nerLexiconFeatures:NerLexiconFeatures)
-  extends StackedChainNer[BilouConllNerTag](
-    BilouConllNerDomain,
-    (t, s) => new BilouConllNerTag(t, s),
-    l => l.token,
-    embeddingMap,
-    embeddingDim,
-    scale,
-    useOffsetEmbedding,
-    mp.provide, nerLexiconFeatures)
+    extends StackedChainNer[BilouConllNerTag](
+      BilouConllNerDomain,
+      (t, s) => new BilouConllNerTag(t, s),
+      l => l.token,
+      embeddingMap,
+      embeddingDim,
+      scale,
+      useOffsetEmbedding,
+      mp.provide, nerLexiconFeatures)
 
 //object ConllStackedChainNer extends ConllStackedChainNer(SkipGramEmbedding, 100, 1.0, true, ClasspathURL[ConllStackedChainNer](".factorie"))
 class NoEmbeddingsConllStackedChainNer()(implicit mp:ModelProvider[NoEmbeddingsConllStackedChainNer], nerLexiconFeatures:NerLexiconFeatures) extends ConllStackedChainNer(null, 0, 0.0, false)(mp, nerLexiconFeatures) with Serializable
@@ -623,15 +623,15 @@ class OntonotesStackedChainNer(embeddingMap: SkipGramEmbedding,
                                embeddingDim: Int,
                                scale: Double,
                                useOffsetEmbedding: Boolean)(implicit mp:ModelProvider[OntonotesStackedChainNer], nerLexiconFeatures:NerLexiconFeatures)
-  extends StackedChainNer[BilouOntonotesNerTag](
-    BilouOntonotesNerDomain,
-    (t, s) => new BilouOntonotesNerTag(t, s),
-    l => l.token,
-    embeddingMap,
-    embeddingDim,
-    scale,
-    useOffsetEmbedding,
-    mp.provide, nerLexiconFeatures)
+    extends StackedChainNer[BilouOntonotesNerTag](
+      BilouOntonotesNerDomain,
+      (t, s) => new BilouOntonotesNerTag(t, s),
+      l => l.token,
+      embeddingMap,
+      embeddingDim,
+      scale,
+      useOffsetEmbedding,
+      mp.provide, nerLexiconFeatures)
 
 class NoEmbeddingsOntonotesStackedChainNer()(implicit mp:ModelProvider[NoEmbeddingsOntonotesStackedChainNer], nerLexiconFeatures: NerLexiconFeatures) extends OntonotesStackedChainNer(null, 0, 0.0, false)(mp, nerLexiconFeatures) with Serializable
 object NoEmbeddingsOntonotesStackedChainNer extends NoEmbeddingsOntonotesStackedChainNer()(ModelProvider.classpath(), StaticLexiconFeatures()) with Serializable
@@ -673,7 +673,7 @@ object ConllStackedChainNerTester extends App {
   }
   val testDocsFull =  dataLoader.fromFilename(opts.testFile.value, encoding = opts.encoding.value)
   val testDocs = testDocsFull.take((testDocsFull.length*testPortionToTake).floor.toInt)
-  
+
   println(ner.test(testDocs))
 }
 
@@ -700,7 +700,7 @@ object ConllStackedChainNerTrainer extends HyperparameterMain {
 
     val trainPortionToTake = if(opts.trainPortion.wasInvoked) opts.trainPortion.value else 1.0
     val testPortionToTake =  if(opts.testPortion.wasInvoked) opts.testPortion.value else 1.0
-    
+
     val dataLoader = opts.dataLoader.value match {
       case "conll2003" => load.LoadConll2003(BILOU = true)
       case "conll2002" => load.LoadConll2002(BILOU = true)

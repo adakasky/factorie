@@ -12,6 +12,8 @@
    limitations under the License. */
 
 package cc.factorie.app.chain
+import java.io._
+
 import cc.factorie.variable._
 
 import scala.collection.mutable.{HashMap, HashSet}
@@ -77,22 +79,22 @@ class PerSegmentEvaluation(val labelName:String, val labelValueStart: Regex, val
         if(position == labels.length-1)
           correctCount += 1 // Both sequences ended at the same position: correct
         else { //Otherwise lets be sure they end at the same place
-        	var predictedContinue, targetContinue = false
-        	var j = position + 1
-        	var stopSearchForSegmentEnd = false
-        	while (j < labels.length && !stopSearchForSegmentEnd) {
-          		val label2 = labels(j)
-          		predictedContinue = isContinue(label2.categoryValue)
-          		targetContinue = isContinue(label2.target.categoryValue)
-          		// if true or predicted segment ends (i.e. is not a continue) or we reach the end of our label sequence.
-          		if (!predictedContinue || !targetContinue || j == labels.length - 1) {
-            		if (predictedContinue == targetContinue) {
-              			correctCount += 1 // Both sequences ended at the same position: correct
-            		}
-            		stopSearchForSegmentEnd = true
-          		}
-          		j += 1
-        	}
+        var predictedContinue, targetContinue = false
+          var j = position + 1
+          var stopSearchForSegmentEnd = false
+          while (j < labels.length && !stopSearchForSegmentEnd) {
+            val label2 = labels(j)
+            predictedContinue = isContinue(label2.categoryValue)
+            targetContinue = isContinue(label2.target.categoryValue)
+            // if true or predicted segment ends (i.e. is not a continue) or we reach the end of our label sequence.
+            if (!predictedContinue || !targetContinue || j == labels.length - 1) {
+              if (predictedContinue == targetContinue) {
+                correctCount += 1 // Both sequences ended at the same position: correct
+              }
+              stopSearchForSegmentEnd = true
+            }
+            j += 1
+          }
         }
       }
     }
@@ -141,6 +143,17 @@ class SegmentEvaluation[L<:LabeledMutableCategoricalVar[String]](baseLabelString
     labelCount += labels.length
     labels.foreach(label => if (label.valueIsTarget) labelCorrectCount += 1)
   }
+  //debug mode
+  def +=(sentence: cc.factorie.app.nlp.Sentence): Unit = {
+    val tokens = sentence.tokens
+    val labels = tokens.map(_.attr[L with LabeledMutableCategoricalVar[String]])
+    val writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream("../es_training_tag.diff", true),"UTF-8"))
+    evals.values.foreach(eval => eval += labels)
+    labelCount += labels.length
+    tokens.foreach(token => if (token.attr[L with LabeledMutableCategoricalVar[String]].valueIsTarget) labelCorrectCount += 1 else writer.write(s"${token.string}\t${token.attr[L with LabeledMutableCategoricalVar[String]].target.categoryValue}\t${token.attr[L with LabeledMutableCategoricalVar[String]].categoryValue}\t${sentence.string}\n"))
+    writer.flush()
+    writer.close()
+  }
 
   // This is a per-label measure
   def tokenAccuracy = labelCorrectCount.toDouble / labelCount
@@ -170,3 +183,4 @@ class SegmentEvaluation[L<:LabeledMutableCategoricalVar[String]](baseLabelString
     sb.toString
   }
 }
+
