@@ -324,6 +324,7 @@ class StaticLexicons()(implicit lp:LexiconsProvider) {
     object MajorMan_made_thingWiki extends En.major.Man_made_thingWiki()(lp.provide[En.major.Man_made_thingWiki])
     object MajorMoneyIesl extends En.major.MoneyIesl()(lp.provide[En.major.MoneyIesl])
     object MajorMonthIesl extends En.major.MonthIesl()(lp.provide[En.major.MonthIesl])
+    object MajorNumberIesl extends En.major.NumberIesl()(lp.provide[En.major.NumberIesl])
     object MajorOrgSuffixIesl extends En.major.OrgSuffixIesl()(lp.provide[En.major.OrgSuffixIesl])
     object MajorOrganizationDisambiguationWiki extends En.major.OrganizationDisambiguationWiki()(lp.provide[En.major.OrganizationDisambiguationWiki])
     object MajorOrganizationOrganizationFree extends En.major.OrganizationOrganizationFree()(lp.provide[En.major.OrganizationOrganizationFree])
