@@ -15,11 +15,12 @@ package cc.factorie.app.nlp.segment
 import cc.factorie.app.nlp._
 
 /** Segments a sequence of tokens into sentences.
-    @author Andrew McCallum */
+  *
+  * @author Andrew McCallum */
 class DeterministicSentenceSegmenter extends DocumentAnnotator {
 
   /** How the annotation of this DocumentAnnotator should be printed in one-word-per-line (OWPL) format.
-      If there is no per-token annotation, return null.  Used in Document.owplString. */
+    * If there is no per-token annotation, return null.  Used in Document.owplString. */
   def tokenAnnotationString(token: Token) = null
   
   /** If true, every newline causes a sentence break. */
@@ -35,7 +36,7 @@ class DeterministicSentenceSegmenter extends DocumentAnnotator {
   val closingContinuationRegex = "^''|[\\.\"!\\?\\p{Pf}\\p{Pe}]+$".r
   
   /** Matches the Token.string of tokens that might possibility indicate the end of a sentence, such as an mdash.
-      The sentence segmenter will only actually create a sentence end here if possibleSentenceStart is true for the following token. */
+    * The sentence segmenter will only actually create a sentence end here if possibleSentenceStart is true for the following token. */
   val possibleClosingRegex = "^\\.\\.+|[-\\p{Pd}\u2014]+$".r
   
   /** Whitespace that should not be allowed between a closingRegex and closingContinuationRegex for a sentence continuation.  For example:  He ran.  "You shouldn't run!" */
@@ -44,12 +45,16 @@ class DeterministicSentenceSegmenter extends DocumentAnnotator {
   val emoticonRegex = ("\\A("+DeterministicRegexTokenizer.emoticon+")\\Z").r
   
   /** If there are more than this number of characters between the end of the previous token and the beginning of this one, force a sentence start.
-      If negative, don't break sentences according to this criteria at all. */
+    * If negative, don't break sentences according to this criteria at all. */
   val charOffsetBoundary = 10
-  
+
+  /** If encounter tags like </P> then create a new sentence  */
+  val newLineHTMLRegex = "<\\/?(br|BR|p|P|div|DIV|td|TD|title|TITLE)\\/?>".r
+
   /** Returns true for strings that probably start a sentence after a word that ends with a period. */
   def possibleSentenceStart(s:String): Boolean = java.lang.Character.isUpperCase(s(0)) && (cc.factorie.app.nlp.lexicon.StopWords.containsWord(s) || s == "Mr." || s == "Mrs." || s == "Ms." || s == "\"" || s == "''") // Consider adding more honorifics and others here. -akm
-  
+
+
   
   def process(document: Document): Document = {
     def safeDocSubstring(start:Int, end:Int): String = if (start < 0 || end > document.stringLength) "" else document.string.substring(start, end)
@@ -69,6 +74,11 @@ class DeterministicSentenceSegmenter extends DocumentAnnotator {
         //println("SentenceSegmenter1 first char: "+Integer.toHexString(string(0))+" possibleClosingRegex "+possibleClosingRegex.findPrefixMatchOf(string))
         // Sentence boundary from a single newline
         if (newlineBoundary && i > sentenceStart && i > 0 && document.string.substring(tokens(i-1).stringEnd, token.stringStart).contains('\n')) {
+          newSentence(i)
+        }
+        //create a new sentence when encountering some of the HTML tags
+        //else if (i > sentenceStart && i > 0 && document.string.substring(tokens(i-1).stringEnd, token.stringStart).contains("</P>")) {
+        else if (i > sentenceStart && i > 0 && newLineHTMLRegex.findFirstMatchIn(document.string.substring(tokens(i-1).stringEnd, token.stringStart)) != None ) {
           newSentence(i)
         }
         // Sentence boundary from a double newline
