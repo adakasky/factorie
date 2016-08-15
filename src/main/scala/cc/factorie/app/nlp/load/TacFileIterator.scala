@@ -140,8 +140,8 @@ class TacFileIterator(tacDocFile:File) extends Iterator[DocStringWithId] {
   private val firstElem = if (stringIter.hasNext) Iterator(stringIter.next()).filterNot(_.startsWith("<?xml")) else Iterator()
   
   private val iter = new TacStringIterator(firstElem ++ stringIter, tacDocFile.getAbsolutePath)
-  in.close()
-
+  
+  def close() ={in.close()}
   def hasNext = iter.hasNext
   def next() = iter.next()
 }
