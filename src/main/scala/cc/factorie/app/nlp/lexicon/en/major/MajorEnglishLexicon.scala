@@ -100,6 +100,7 @@ class Man_made_thingRedirectWiki()(implicit mp: ModelProvider[Man_made_thingRedi
 class Man_made_thingWiki()(implicit mp: ModelProvider[Man_made_thingWiki]) extends ProvidedTriePhraseLexicon[Man_made_thingWiki]
 class MoneyIesl()(implicit mp: ModelProvider[MoneyIesl]) extends ProvidedTriePhraseLexicon[MoneyIesl]
 class MonthIesl()(implicit mp: ModelProvider[MonthIesl]) extends ProvidedTriePhraseLexicon[MonthIesl]
+class NumberIesl()(implicit mp: ModelProvider[NumberIesl]) extends ProvidedTriePhraseLexicon[NumberIesl]
 class OrgSuffixIesl()(implicit mp: ModelProvider[OrgSuffixIesl]) extends ProvidedTriePhraseLexicon[OrgSuffixIesl]
 class OrganizationDisambiguationWiki()(implicit mp: ModelProvider[OrganizationDisambiguationWiki]) extends ProvidedTriePhraseLexicon[OrganizationDisambiguationWiki]
 class OrganizationOrganizationFree()(implicit mp: ModelProvider[OrganizationOrganizationFree]) extends ProvidedTriePhraseLexicon[OrganizationOrganizationFree]
