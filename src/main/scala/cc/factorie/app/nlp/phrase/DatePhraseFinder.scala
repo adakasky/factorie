@@ -75,8 +75,18 @@ class DatePhraseFinder(usePosTag:Boolean) extends DocumentAnnotator with Parsers
     case weekDayToken => (weekDayToken, DatePhraseFinder.weekDayNr(weekDayToken.string.take(3).toLowerCase))
   }
 
+  def parse_possible_large_number(t :String): Int = {
+    var result=100000000
+    try{
+        result=t.toInt
+    //}catch (NumberFormatException e){
+    }catch {
+        case _: Throwable => println("Warning: trying to parse Date " + t)
+    }
+    result
+  }
   val temporalPreps: Parser[Token] = hasLemma("in|from|to|until|since")
-  val digits: Parser[(Token, Int)] = acceptIf(_.isDigits)(err) ^^ { case t => (t, t.string.toInt)}
+  val digits: Parser[(Token, Int)] = acceptIf(_.isDigits)(err) ^^ { case t => (t,parse_possible_large_number(t.string)  )}
   val bcAd: Parser[Token] = "B\\.?C\\.?|A\\.?D\\.?"
   val year: Parser[(Token, Int)] = bcAd.? ~ digits ~ bcAd.? ^^ { case bcAdOpt1 ~ y ~ bcAdOpt2 =>
     val bcAdOpt = if (bcAdOpt1.isDefined) bcAdOpt1 else bcAdOpt2
