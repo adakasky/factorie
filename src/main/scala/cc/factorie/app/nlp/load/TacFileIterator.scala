@@ -15,6 +15,7 @@ package cc.factorie.app.nlp.load
 import java.io._
 import java.util.Scanner
 import java.util.zip.GZIPInputStream
+import java.util.zip.ZipInputStream
 
 import cc.factorie.app.nlp.Document
 import scala.collection.JavaConverters._
@@ -31,7 +32,7 @@ object TACDocTypes {
     def fromFilePath(f:File):TACDocumentType = {
       // get all the individual components of a path and match against these instead of in the entire string
       val path = f.getAbsoluteFile.toPath.iterator().asScala.map(_.toFile.getName.toLowerCase).toSet[String]
-      if(path.contains("discussion_forums") || path.contains("mpdf") || path.contains("discussion_forum")) {
+      if(path.contains("discussion_forums") || path.contains("mpdf") || path.contains("discussion_forum") || path.contains("df")) {
         DiscussionForum
       } else if(path.contains("newswire") || path.contains("nw")) {
         Newswire
@@ -127,15 +128,19 @@ class TacFileIterator(tacDocFile:File) extends Iterator[DocStringWithId] {
     * the character count on documents that may use crlf to delimit lines
     */
   
-  private val stringIter = new Scanner(if(tacDocFile.getName.endsWith(".gz")) {
+  val in = if(tacDocFile.getName.endsWith(".gz")) {
     new GZIPInputStream(new FileInputStream(tacDocFile))
-  } else {
+  } else if (tacDocFile.getName.endsWith(".zip")){
+    new ZipInputStream(new FileInputStream(tacDocFile))
+  }else {
     new FileInputStream(tacDocFile)
-  }).useDelimiter("\n").asScala
+  }
+  private val stringIter = new Scanner(in).useDelimiter("\n").asScala
   
   private val firstElem = if (stringIter.hasNext) Iterator(stringIter.next()).filterNot(_.startsWith("<?xml")) else Iterator()
   
   private val iter = new TacStringIterator(firstElem ++ stringIter, tacDocFile.getAbsolutePath)
+  in.close()
 
   def hasNext = iter.hasNext
   def next() = iter.next()
