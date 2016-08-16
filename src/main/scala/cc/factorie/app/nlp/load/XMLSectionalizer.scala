@@ -63,6 +63,14 @@ class XMLSectionalizer(boundaryToken:String, excludeTokens:Set[String]) extends 
 
     document.tokens.foreach { t =>
       (t.string, stateStack.top) match {
+        case (acceptedOpenTag(tag), Usable) =>
+          addToken(t)
+          tagStack push tag.asInstanceOf[String]
+          if (tokenBuffer.nonEmpty) {
+            sectionBuffer += new UnusableText(tokenBuffer)
+            tokenBuffer.clear()
+          }
+          stateStack push Usable
         case (acceptedOpenTag(tag), Unusable) =>
           addToken(t)
           tagStack push tag.asInstanceOf[String]
