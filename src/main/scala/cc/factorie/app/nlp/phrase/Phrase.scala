@@ -17,7 +17,6 @@ import cc.factorie.app.nlp._
 //import cc.factorie.util.Attr
 //import cc.factorie.app.nlp.pos.{PennPosTag, PennPosDomain}
 import cc.factorie.app.nlp.parse.ParseTreeLabelDomain
-//import cc.factorie.app.nlp.pos.{PennPosDomain, PennPosTag}
 import cc.factorie.app.nlp.pos._
 import cc.factorie.util.Attr
 
@@ -84,9 +83,9 @@ object HeadTokenOffset {
       if (prepositionIndex >= 1) return prepositionIndex - 1
       // If there is noun, return the last noun
       //val lastNounIndex = span.lastIndexWhere(_.attr[PennPosTag].isNoun)
-     val lastNounIndex = span.lastIndexWhere(_.attr.get[PosTag] match {
+      val lastNounIndex = span.lastIndexWhere(_.attr.get[PosTag] match {
         case None =>
-         false
+          false
         case Some(tag) =>
           tag match {
             case penn: PennPosTag =>
@@ -97,8 +96,6 @@ object HeadTokenOffset {
               false
          }
      } )
-
-
       if (lastNounIndex > 0) return lastNounIndex
       // Otherwise simply select the last word of the span
       else return span.length-1
