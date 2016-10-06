@@ -140,7 +140,13 @@ class Document extends DocumentSubstring with Attr with UniqueId with Serializab
   def sentences: Iterable[Sentence] = if (sections.length == 1) sections.head.sentences else new Iterable[Sentence] { def iterator = for (section <- sections.iterator; sentence <- section.sentences.iterator) yield sentence }
   
   /** An efficient way to get the total number of Tokens in the canonical Sections of this Document. */
-  def tokenCount: Int = if (sections.length == 0) sections.head.length else sections.foldLeft(0)((result, section) => result + section.length)
+  def tokenCount: Int = {
+    var count_result=0
+    if( !tokens.isEmpty){
+        count_result = if (sections.length == 0) sections.head.length else sections.foldLeft(0)((result, section) => result + section.length)
+    }
+    count_result
+  }
   /** An efficient way to get the total number of Sentences in the canonical Sections of this Document. */
   def sentenceCount: Int = if (sections.length == 0) sections.head.sentences.length else sections.foldLeft(0)((result, section) => result + section.sentences.length)
     
